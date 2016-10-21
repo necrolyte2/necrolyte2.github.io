@@ -1,29 +1,97 @@
 <!DOCTYPE html>
     <html>
         <head>
-            <title>{{ page.title }}</title>
-            <!-- link to main stylesheet -->
-            <link rel="stylesheet" type="text/css" href="/css/main.css">
+          <title>{{ page.title }}</title>
+          <!-- link to main stylesheet -->
+          <link rel="stylesheet" type="text/css" href="/css/main.css">
+          <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+          <script type="text/javascript" src="/js/jquery/jquery.js?ver=1.11.3"></script>
+          <script type="text/javascript" src="/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
         </head>
         <body>
-            <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/about.html">About</a></li>
-                    <li><a href="/the-dogs.html">The Dogs</a></li>
-                    <!-- <li><a href="/cv">CV</a></li> -->
-                    <li><a href="/blog">Blog</a></li>
-                </ul>
-            </nav>
-            <div class="container">
-            
-            {{ content }}
-            
+          <div id='page'>
+            <div id="header" class="contentBackground">
+                <div id="header-left">
+                    <a href="https://necrolyte2.github.io"><canvas id="header-image" width="100px" height="100px"><img src="/wp-content/themes/tygertown/images/Me.png" id="header-image"></canvas></a>
+                    <script type="text/javascript">  
+                            var canvas = document.getElementById("header-image");
+                            var context = canvas.getContext("2d");
+                         
+                            var cornerRadius = 25;
+                         
+                            context.beginPath();
+                            context.moveTo( cornerRadius, 0 );
+
+                            /* Top and Right Corner */
+                            context.lineTo( canvas.width - cornerRadius, 0 );
+                            context.arcTo( canvas.width, 0, canvas.width, cornerRadius, cornerRadius );
+
+                            /* Right and Right Bottom Corner */
+                            context.lineTo( canvas.width, canvas.height - cornerRadius );
+                            context.arcTo( canvas.width, canvas.height, canvas.width - cornerRadius, canvas.height, cornerRadius );
+
+                            /* Bottom and Left Corner */
+                            context.lineTo( cornerRadius, canvas.height );
+                            context.arcTo( 0, canvas.height, 0, canvas.height - cornerRadius, cornerRadius );
+
+                            /* Top and Left */
+                            context.lineTo( 0, cornerRadius );
+                            context.arcTo( 0, 0, cornerRadius, 0, cornerRadius );
+
+                         
+                            context.clip();
+
+                            var img = new Image();
+                            img.addEventListener('load', function(e) {
+                                context.drawImage( img, 0, 0, 100, 100 );
+                            }, true );
+                            img.src = "https://lh6.googleusercontent.com/-Jhib9VfWxOc/AAAAAAAAAAI/AAAAAAAA5Pk/HAImRyELres/photo.jpg?sz=200";
+                    </script>
+                </div>
+                <div id="header-middle">
+                    <div id="header-text">
+                        <div id="blog-name"><a href="https://necrolyte2.github.io">Tygertown</a></div>
+                        <div id="blog-description">Sysadmin — Programmer</div>
+                    </div>
+                </div>
+                <div id="header-right">
+                    <div id="social-images">
+                        <div id="findme-text">
+                            You can also find me at:
+                        </div>
+                        <a href="http://www.google.com/profiles/vallardt"><img src="/wp-content/themes/tygertown/images/gplus.png" width="32px" height="32px"></a>
+                        <a href="http://www.facebook.com/Montanimal"><img src="/wp-content/themes/tygertown/images/facebook.png" width="32px" height="32px"></a>
+                        <a href="https://github.com/necrolyte2"><img src="/wp-content/themes/tygertown/images/github.png" width="32px" height="32px"></a>
+                        <a href="http://stackoverflow.com/users/582569/necrolyte2"><img src="/wp-content/themes/tygertown/images/stackoverflow.png" width="32px" height="32px"></a>
+                        <a href="http://twitter.com/#!/necrolyte2"><img src="/wp-content/themes/tygertown/images/twitter.png" width="32px" height="32px"></a>
+                        <a href="http://www.linkedin.com/profile/view?id=33444318&amp;locale=en_US"><img src="/wp-content/themes/tygertown/images/linkedin.png" width="32px" height="32px"></a>
+                        <a href="http://picasaweb.google.com/vallardt"><img src="/wp-content/themes/tygertown/images/picasa.png" width="32px" height="32px"></a>
+                        <a href="http://www.youtube.com/user/necrolyte2?feature=mhee"><img src="/wp-content/themes/tygertown/images/youtube.png" width="32px" height="32px"></a>
+                    </div>
+                </div>
+            </div>
+            <div id="content" class="contentBackground">
+              <div id="posts">
+                {{ content }}
+              </div>
+              <ul id='sidebar-right' class='sidebar-right' role='complementary'>
+                <li class='widget'>
+                  <h2 class='widgettitle'>Pages</h2>
+                  <ul>
+                    <li class='page_item'><a href="/">Home</a></li>
+                    <li class='page_item'><a href="/about.html">About</a></li>
+                    <li class='page_item'><a href="/the-dogs.html">The Dogs</a></li>
+                    <li class='page_item'><a href="/site-info.html">Site Info</a></li>
+                    <li class='page_item'><a href="/remote-assistance.html">Remote Assistance</a></li>
+                    <li class='page_item'><a href="/some-pictures-i-like.html">Favorite Pictures</a></li>
+                    <li class='page_item'><a href="/thailand.html">Thailand</a></li>
+                  </ul>
+                </li>
+              </ul>
             </div><!-- /.container -->
-            <footer>
-                <ul>
-                    <li><a href="https://github.com/necrolyte2">github.com/necrolyte2</a></li>
-                </ul>
-            </footer>
+          </div>
+          <div id='footer' class='contentBackground'>
+            Tygertown is hosted using <a href="http://github.com/necrolyte2/necrolyte2.github.io">GitHub pages</a><br />
+          </div>
         </body>
     </html>

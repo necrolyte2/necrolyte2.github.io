@@ -1,7 +1,19 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
+/*
+Theme Name: Tygertown
+Theme URI: http://www.tygertown.us/
+Description: Custom wordpress theme for Tygertown.us
+Author: vallardt AT gmail D0T C0M
+Author URI: http://www.tygertown.us/
+Version: 0.9
+Tags: dark, one column, widgets
+
+	This theme was designed by Tyghe Vallard,
+	
+	www.tygertown.us
+*/
+
+/* =Tygertown Core
+-------------------------------------------------------------- */
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -23,11 +35,6 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -40,4 +47,371 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+html {
+	height: 99%;
+	width: 100%;
+}
+body{ 
+	font: 10pt "Trebuchet MS", sans-serif;
+	height: 90%;
+	width: 99%;
+	color: #CCC;
+	background-color: #000;
+}
+img {
+	border: 0px;
+}
+h2 {
+	margin: 0px;
+}
+a {
+	color: inherit;
+}
+
+* {
+	position: relative;
+}
+.debug {
+	border: 1px solid white;
+}
+
+#page {
+	margin: 3%;
+	height: 100%;
+}
+
+.contentBackground {
+}
+
+/* Contains #posts & #sidebar */
+#content {
+}
+
+/* Next and previous navigation links */
+.navigation {
+    text-align: center;
+    background-color: #222;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid white;
+    padding: 5px;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#header {
+	height: 100px;
+	margin-bottom: 10px;
+	background-color: #000;
+}
+
+#footer {
+	float: left;
+	border-top: 1px solid white;
+	width: 100%;
+	text-align: center;
+}
+
+#header-left {
+	height: 100px;
+	float: left;
+}
+
+#header-middle {
+	height: 100px;
+	float: left;
+}
+
+#header-right {
+	height: 100px;
+	float: right;
+}
+
+#header-text {
+	padding: 0px 5px 5px 10px;
+	font-size: 34pt;
+	font-family: impact;
+	letter-spacing: 0.10em;
+	color: #666;
+}
+
+#blog-name a {
+	text-decoration: none;
+	color: #AAA;
+}
+
+#blog-description {
+	font-size: 11pt;
+	color: #963;
+	font-family: trebuchet;
+	letter-spacing: 0.15em;
+	text-align: right;
+}
+
+#header-image {
+	height: 100px;
+	width: 100px;
+	position: relative;
+	float: left;
+}
+
+#social-images {
+	height: 100px;
+	width: 100%;
+	padding: 15px 0px 0px 0px;
+}
+
+#social-images img {
+	margin-left: 10px;
+	border: 0px;
+}
+
+#findme-text {
+	margin-bottom: 10px;
+	margin-left: 10px;
+	font-family: lucida console;
+	border-bottom: 1px dotted #333;
+	padding-bottom: 3px;
+}
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter, div.aligncenter {
+    display:block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin:0;
+    max-width: 98.5%;
+    padding:0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size:11px;
+    line-height:17px;
+    margin:0;
+    padding:0 4px 5px;
+    color: black;
+    font-weight: bold;
+}
+
+
+/* =WordPress hentry Classes
+-------------------------------------------------------------- */
+.hentry {
+	margin-bottom: 10px;
+	border: 1px solid white;
+	background-color: #455;
+	padding: 10px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.attachment {
+}
+
+.sticky {
+}
+
+.hentry {
+}
+
+/* =WordPress Post
+-------------------------------------------------------------- */
+/* Posts container */
+#posts {
+	width: 75%;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+}
+
+/* Post Title */
+.post .post-head {
+	height: 28pt;
+	border-bottom: 1px dotted #999;
+}
+
+.post .post-head h2 {
+	float: left;
+	color: white;
+	font-size: 24pt;
+	font-family: arial;
+	letter-spacing: .05em;
+	font-weight: normal;
+}
+
+.post .post-head h2 a {
+	color: white;
+	text-decoration: none;
+}
+
+.post a {
+	color: #999;
+}
+
+/* Post date */
+.post small {
+	float: right;
+}
+
+.header-comments {
+	text-align: right;
+}
+
+/* Post entry */
+.post .entry {
+	font: 10pt "Trebuchet MS", sans-serif;
+	color: #CCC;
+	letter-spacing: 0.1em;
+	line-height: 14pt;
+}
+
+.post .entry h2 {
+}
+
+/* Tags and Categories */
+.postmetadata {
+	border-top: 1px solid white;
+	padding-top: 10px;
+}
+
+/* =Comments
+-------------------------------------------------------------- */
+.commentlist {
+	margin: 10px 10px 10px 10px;
+	border-top: 1px solid white;
+	padding: 10px;
+}
+
+.comment {
+	border: 1px solid white;
+	background-color: #554;
+	padding: 10px;
+	margin: 5px;
+}
+
+.commentlist .even {
+}
+
+.commentlist .odd {
+}
+
+.commentmetadata {
+	float: right;
+}
+
+.commentlist li {
+	list-style-type: none;
+}
+
+.bypostauthor {
+	background-color: #555;
+	border: 3px solid white;
+}
+
+
+/* =Sidebar Right
+-------------------------------------------------------------- */
+#sidebar-right {
+	-webkit-margin-after: 0px;
+	-webkit-margin-before: 0px;
+	-webkit-padding-start: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+.sidebar-right {
+	float: right;
+	width: 24%;
+}
+
+.sidebar-right a {
+	color: #CCC;
+}
+
+.sidebar-right li {
+	list-style-type: none;
+}
+
+.sidebar-right .widget {
+	margin: 0px 0px 10px 0px;
+	padding: 10px 5px 5px 10px;
+	background-color: #445;
+	border: 1px solid white;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+/* = Pre/Code block stuff */
+pre {
+    background-color: black;
+    color: greenyellow;
+    margin-left: 15px;
+    margin-right: 150px;
+    padding: 5px 10px 5px 10px;
 }
