@@ -35,7 +35,7 @@ tags:
 <div id='gallery-3' class='gallery galleryid-969 gallery-columns-4 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080710/'><img width="113" height="150" src="https://tygertown.us/wp-content/uploads/2013/09/img_20130921_080710.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster TopView" aria-describedby="gallery-3-979" /></a>
+      <a href='https://tygertown.us/img_20130921_080710/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080710.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster TopView" aria-describedby="gallery-3-979" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-979'>
@@ -45,7 +45,7 @@ tags:
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080921/'><img width="113" height="150" src="https://tygertown.us/wp-content/uploads/2013/09/img_20130921_080921.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Infrastructure" aria-describedby="gallery-3-982" /></a>
+      <a href='https://tygertown.us/img_20130921_080921/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080921.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Infrastructure" aria-describedby="gallery-3-982" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-982'>
@@ -55,7 +55,7 @@ tags:
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080723/'><img width="113" height="150" src="https://tygertown.us/wp-content/uploads/2013/09/img_20130921_080723.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster FrontView" aria-describedby="gallery-3-980" /></a>
+      <a href='https://tygertown.us/img_20130921_080723/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080723.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster FrontView" aria-describedby="gallery-3-980" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-980'>
@@ -65,7 +65,7 @@ tags:
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080936/'><img width="113" height="150" src="https://tygertown.us/wp-content/uploads/2013/09/img_20130921_080936.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Hardware" aria-describedby="gallery-3-983" /></a>
+      <a href='https://tygertown.us/img_20130921_080936/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080936.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Hardware" aria-describedby="gallery-3-983" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-983'>

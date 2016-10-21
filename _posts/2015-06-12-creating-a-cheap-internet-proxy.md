@@ -33,7 +33,7 @@ I&#8217;m not saying that you should use this at work to bypass any restrictions
 <div id='gallery-7' class='gallery galleryid-1225 gallery-columns-1 gallery-size-medium'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/createdroplet1/'><img width="300" height="238" src="https://tygertown.us/wp-content/uploads/2015/06/createdroplet1.jpg" class="attachment-medium size-medium" alt="Set name and select price" aria-describedby="gallery-7-1231" /></a>
+      <a href='/creating-a-cheap-internet-proxy/createdroplet1/'><img width="300" height="238" src="/wp-content/uploads/2015/06/createdroplet1.jpg" class="attachment-medium size-medium" alt="Set name and select price" aria-describedby="gallery-7-1231" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-7-1231'>
@@ -45,7 +45,7 @@ I&#8217;m not saying that you should use this at work to bypass any restrictions
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/createdroplet-region/'><img width="300" height="118" src="https://tygertown.us/wp-content/uploads/2015/06/createdroplet.region.jpg" class="attachment-medium size-medium" alt="select region to run in" aria-describedby="gallery-7-1230" /></a>
+      <a href='/creating-a-cheap-internet-proxy/createdroplet-region/'><img width="300" height="118" src="/wp-content/uploads/2015/06/createdroplet.region.jpg" class="attachment-medium size-medium" alt="select region to run in" aria-describedby="gallery-7-1230" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-7-1230'>
@@ -57,7 +57,7 @@ I&#8217;m not saying that you should use this at work to bypass any restrictions
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/createdroplet-image/'><img width="300" height="153" src="https://tygertown.us/wp-content/uploads/2015/06/createdroplet.image_.jpg" class="attachment-medium size-medium" alt="Select operating system" aria-describedby="gallery-7-1228" /></a>
+      <a href='/creating-a-cheap-internet-proxy/createdroplet-image/'><img width="300" height="153" src="/wp-content/uploads/2015/06/createdroplet.image_.jpg" class="attachment-medium size-medium" alt="Select operating system" aria-describedby="gallery-7-1228" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-7-1228'>
@@ -69,7 +69,7 @@ I&#8217;m not saying that you should use this at work to bypass any restrictions
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/createdroplet-settings/'><img width="300" height="57" src="https://tygertown.us/wp-content/uploads/2015/06/createdroplet.settings.jpg" class="attachment-medium size-medium" alt="select networking options" aria-describedby="gallery-7-1229" /></a>
+      <a href='/creating-a-cheap-internet-proxy/createdroplet-settings/'><img width="300" height="57" src="/wp-content/uploads/2015/06/createdroplet.settings.jpg" class="attachment-medium size-medium" alt="select networking options" aria-describedby="gallery-7-1229" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-7-1229'>
@@ -81,7 +81,7 @@ I&#8217;m not saying that you should use this at work to bypass any restrictions
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/createdroplet-pw/'><img width="300" height="82" src="https://tygertown.us/wp-content/uploads/2015/06/createdroplet.pw_.jpg" class="attachment-medium size-medium" alt="use password auth and create" aria-describedby="gallery-7-1245" /></a>
+      <a href='/creating-a-cheap-internet-proxy/createdroplet-pw/'><img width="300" height="82" src="/wp-content/uploads/2015/06/createdroplet.pw_.jpg" class="attachment-medium size-medium" alt="use password auth and create" aria-describedby="gallery-7-1245" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-7-1245'>
@@ -93,7 +93,7 @@ I&#8217;m not saying that you should use this at work to bypass any restrictions
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/createdroplet-create/'><img width="300" height="102" src="https://tygertown.us/wp-content/uploads/2015/06/createdroplet.create.jpg" class="attachment-medium size-medium" alt="createdroplet.create" /></a>
+      <a href='/creating-a-cheap-internet-proxy/createdroplet-create/'><img width="300" height="102" src="/wp-content/uploads/2015/06/createdroplet.create.jpg" class="attachment-medium size-medium" alt="createdroplet.create" /></a>
     </dt>
   </dl>
   
@@ -107,7 +107,7 @@ Once the droplet is completed you should receive an email with your droplet&#821
 <div id='gallery-8' class='gallery galleryid-1225 gallery-columns-1 gallery-size-medium'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/configdroplet-access/'><img width="300" height="240" src="https://tygertown.us/wp-content/uploads/2015/06/configdroplet.access.png" class="attachment-medium size-medium" alt="Get access to console" aria-describedby="gallery-8-1247" /></a>
+      <a href='/creating-a-cheap-internet-proxy/configdroplet-access/'><img width="300" height="240" src="/wp-content/uploads/2015/06/configdroplet.access.png" class="attachment-medium size-medium" alt="Get access to console" aria-describedby="gallery-8-1247" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-8-1247'>
@@ -119,7 +119,7 @@ Once the droplet is completed you should receive an email with your droplet&#821
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/configdroplet-console-3/'><img width="300" height="293" src="https://tygertown.us/wp-content/uploads/2015/06/configdroplet.console2.png" class="attachment-medium size-medium" alt="configdroplet.console" /></a>
+      <a href='/creating-a-cheap-internet-proxy/configdroplet-console-3/'><img width="300" height="293" src="/wp-content/uploads/2015/06/configdroplet.console2.png" class="attachment-medium size-medium" alt="configdroplet.console" /></a>
     </dt>
   </dl>
   
@@ -127,7 +127,7 @@ Once the droplet is completed you should receive an email with your droplet&#821
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/creating-a-cheap-internet-proxy/configdroplet-login/'><img width="300" height="123" src="https://tygertown.us/wp-content/uploads/2015/06/configdroplet.login_.jpg" class="attachment-medium size-medium" alt="first time login" aria-describedby="gallery-8-1248" /></a>
+      <a href='/creating-a-cheap-internet-proxy/configdroplet-login/'><img width="300" height="123" src="/wp-content/uploads/2015/06/configdroplet.login_.jpg" class="attachment-medium size-medium" alt="first time login" aria-describedby="gallery-8-1248" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-8-1248'>
@@ -237,4 +237,4 @@ Once completed, you can simply execute the following from your terminal
 
 This will ssh to your droplet and open firefox with the tunnel profile you created. I then usually go to google and type in what is my ip to verify that what it returns is the same as the ip of my droplet
 
-[<img class="aligncenter size-full wp-image-1260" src="https://tygertown.us/wp-content/uploads/2015/06/firefox.jpg" alt="firefox" width="1045" height="647" />](https://tygertown.us/wp-content/uploads/2015/06/firefox.jpg)
+[<img class="aligncenter size-full wp-image-1260" src="/wp-content/uploads/2015/06/firefox.jpg" alt="firefox" width="1045" height="647" />](/wp-content/uploads/2015/06/firefox.jpg)
