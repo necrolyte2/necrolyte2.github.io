@@ -1,3 +1,4 @@
 url: https://tygertown.us
 name: Tygertown
 description: 'Sysadmin -- Programmer'
+exclude: [vendor]
