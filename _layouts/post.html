@@ -9,4 +9,12 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
+  <div style="border-top: 1px dashed grey; padding-top: 10px;">
+    {% if page.previous.url != null %}
+    <span><a href="{{ page.previous.url }}">&laquo;&laquo; Previous Post</a></span>
+    {% endif %}
+    {% if page.next.url != null %}
+    <span style="float: right;"><a href="{{ page.next.url }}">Next Post &raquo;&raquo;</a></span>
+    {% endif %}
+  </div>
 </div>
