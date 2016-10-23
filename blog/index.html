@@ -1,11 +1,25 @@
 ---
 layout: default
-title: Tyghe Vallard -- Sysadmin - Programmer
+title: Tyghe's Blog
 ---
-    <h1>{{ page.title }}</h1>
-    <ul class="posts">
-
-      {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+{% for post in site.posts %}
+        <!--<li><span>{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>-->
+  <div class="post type-post format-standard hentry">
+    <div class="post-head">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <small>{{ post.date | date_to_string }}</small>
+    </div>
+    <div class="entry">
+      {{ post.excerpt }}
+    <p style="
+      width: 100%;
+      border-top: 1px dashed grey;
+      text-align: center;
+      padding: 0px;
+      margin: 0px;
+    ">
+      <a href="/things-you-need-things-you-dont-need/">«« Read more »»</a>
+    </p>
+    </div>
+  </div>
+{% endfor %}
