@@ -4,7 +4,7 @@ title: Supernova
 date: 2008-04-24T09:56:05+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=21
+guid: /blog/?p=21
 permalink: /supernova/
 original_post_id:
   - 21

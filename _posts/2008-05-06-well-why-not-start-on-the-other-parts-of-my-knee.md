@@ -4,7 +4,7 @@ title: Well why not start on the other parts of my knee
 date: 2008-05-06T14:39:48+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=26
+guid: /blog/?p=26
 permalink: /well-why-not-start-on-the-other-parts-of-my-knee/
 original_post_id:
   - 26

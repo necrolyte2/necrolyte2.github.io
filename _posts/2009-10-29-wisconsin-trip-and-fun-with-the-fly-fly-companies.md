@@ -4,7 +4,7 @@ title: Wisconsin Trip and fun with the Fly Fly companies
 date: 2009-10-29T14:59:11+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=374
+guid: /blog/?p=374
 permalink: /wisconsin-trip-and-fun-with-the-fly-fly-companies/
 original_post_id:
   - 374

@@ -4,7 +4,7 @@ title: Redmine on Heroku
 date: 2014-03-04T22:47:19+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1128
+guid: /?p=1128
 permalink: /redmine-on-heroku/
 categories:
   - Technical Computing

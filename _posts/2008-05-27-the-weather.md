@@ -4,7 +4,7 @@ title: The Weather?!?!?
 date: 2008-05-27T19:52:10+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=37
+guid: /blog/?p=37
 permalink: /the-weather/
 original_post_id:
   - 37

@@ -4,7 +4,7 @@ title: 'Mass Effect : Xbox 360'
 date: 2008-09-09T23:18:46+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=88
+guid: /blog/?p=88
 permalink: /mass-effect-xbox-360/
 original_post_id:
   - 88

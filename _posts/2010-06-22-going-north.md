@@ -4,7 +4,7 @@ title: Going North
 date: 2010-06-22T21:01:47+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=564
+guid: /blog/?p=564
 permalink: /going-north/
 wp-esprit-picasa-meta-description:
   - 

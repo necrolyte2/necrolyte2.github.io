@@ -4,7 +4,7 @@ title: Coming to America
 date: 2010-05-17T21:50:35+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=539
+guid: /blog/?p=539
 permalink: /coming-to-america/
 wp-esprit-picasa-meta-description:
   - 

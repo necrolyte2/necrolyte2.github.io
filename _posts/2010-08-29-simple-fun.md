@@ -4,7 +4,7 @@ title: Simple Fun
 date: 2010-08-29T21:52:14+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=597
+guid: /blog/?p=597
 permalink: /simple-fun/
 wp-esprit-picasa-meta-description:
   - 

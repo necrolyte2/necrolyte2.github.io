@@ -4,7 +4,7 @@ title: Montana Trip
 date: 2013-08-12T20:14:51+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=957
+guid: /?p=957
 permalink: /montana-trip/
 al2fb_facebook_link_id:
   - 43800887_979660845089

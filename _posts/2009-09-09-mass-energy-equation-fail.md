@@ -4,7 +4,7 @@ title: Mass-Energy Equation fail
 date: 2009-09-09T12:23:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=321
+guid: /blog/?p=321
 permalink: /mass-energy-equation-fail/
 original_post_id:
   - 321

@@ -4,7 +4,7 @@ title: 3rd Ultimate tournament
 date: 2008-08-18T22:32:04+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=81
+guid: /blog/?p=81
 permalink: /3rd-ultimate-tournament/
 original_post_id:
   - 81

@@ -4,7 +4,7 @@ title: Garage Gluster Cluster Hardware
 date: 2013-09-21T08:03:19+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=969
+guid: /?p=969
 permalink: /garage-gluster-cluster-hardware/
 al2fb_facebook_link_id:
   - 43800887_1000494813649
@@ -30,7 +30,7 @@ tags:
   - xfs
   - zfs
 ---
-<a title="Garage Gluster Cluster" href="http://tygertown.us/2013/09/garage-gluster-cluster/" target="_blank">As promised</a> here is the more specific post on all of the hardware and how everything is setup.
+<a title="Garage Gluster Cluster" href="/2013/09/garage-gluster-cluster/" target="_blank">As promised</a> here is the more specific post on all of the hardware and how everything is setup.
 
 <div id='gallery-3' class='gallery galleryid-969 gallery-columns-4 gallery-size-thumbnail'>
   <dl class='gallery-item'>

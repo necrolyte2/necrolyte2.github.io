@@ -4,7 +4,7 @@ title: 'Status Update #2'
 date: 2010-07-28T23:32:45+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=574
+guid: /blog/?p=574
 permalink: /status-update-2/
 wp-esprit-picasa-meta-description:
   - 

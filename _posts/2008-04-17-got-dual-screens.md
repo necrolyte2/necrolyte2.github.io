@@ -4,7 +4,7 @@ title: Got Dual Screens?
 date: 2008-04-17T21:53:43+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=15
+guid: /blog/?p=15
 permalink: /got-dual-screens/
 original_post_id:
   - 15

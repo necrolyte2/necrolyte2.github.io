@@ -4,7 +4,7 @@ title: Ubuntu Server Router Setup 1.0
 date: 2008-04-20T16:39:07+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=17
+guid: /blog/?p=17
 permalink: /ubuntu-server-router-setup-10/
 original_post_id:
   - 17
@@ -15,8 +15,8 @@ Here it is the simplest way I know of to make a fresh Ubuntu Server a router
   
 Download
 
-  * [Installer](http://tygertown.us/wp-content/uploads/2008/04/install.sh_.gz)
-  * [Setup Files](http://tygertown.us/wp-content/uploads/2008/04/routersetupfiles.tar)
+  * [Installer](/wp-content/uploads/2008/04/install.sh_.gz)
+  * [Setup Files](/wp-content/uploads/2008/04/routersetupfiles.tar)
 
 Put them both in the same directory(Doesn&#8217;t matter where) and then execute the install.sh file
 

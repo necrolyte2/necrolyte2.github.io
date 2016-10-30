@@ -4,7 +4,7 @@ title: Does weather effect mood?
 date: 2008-06-05T14:22:41+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=41
+guid: /blog/?p=41
 permalink: /does-weather-effect-mood/
 original_post_id:
   - 41

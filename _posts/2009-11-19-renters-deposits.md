@@ -4,7 +4,7 @@ title: Renters Deposits
 date: 2009-11-19T13:39:32+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=405
+guid: /blog/?p=405
 permalink: /renters-deposits/
 original_post_id:
   - 405

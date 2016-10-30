@@ -4,7 +4,7 @@ title: Converting from Xen to KVM
 date: 2008-10-31T13:25:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=106
+guid: /blog/?p=106
 permalink: /converting-from-xen-to-kvm/
 original_post_id:
   - 106
@@ -29,6 +29,6 @@ The scripts require ubuntu-vm-builder to work properly
 
 Note: These scripts really have not been 100% tested but they have been working quite well so far. If you have problems using them please let me know.
   
-<a href='http://tygertown.us/blog/?attachment_id=108' rel='attachment wp-att-108'>xen-to-kvm</a>
+<a href='/blog/?attachment_id=108' rel='attachment wp-att-108'>xen-to-kvm</a>
   
-<a href='http://tygertown.us/blog/?attachment_id=107' rel='attachment wp-att-107'>create-xml</a>
+<a href='/blog/?attachment_id=107' rel='attachment wp-att-107'>create-xml</a>

@@ -4,7 +4,7 @@ title: I forgot to post pictures of my toe
 date: 2008-06-08T21:06:03+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=44
+guid: /blog/?p=44
 permalink: /i-forgot-to-post-pictures-of-my-toe/
 original_post_id:
   - 44

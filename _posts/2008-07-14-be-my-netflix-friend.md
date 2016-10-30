@@ -4,7 +4,7 @@ title: Be my netflix friend
 date: 2008-07-14T17:51:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=65
+guid: /blog/?p=65
 permalink: /be-my-netflix-friend/
 original_post_id:
   - 65

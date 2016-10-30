@@ -4,7 +4,7 @@ title: How to add a Comment
 date: 2009-04-07T19:15:35+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=193
+guid: /blog/?p=193
 permalink: /how-to-add-a-comment/
 original_post_id:
   - 193

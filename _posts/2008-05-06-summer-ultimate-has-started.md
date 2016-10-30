@@ -4,7 +4,7 @@ title: Summer Ultimate has started
 date: 2008-05-06T16:21:46+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=28
+guid: /blog/?p=28
 permalink: /summer-ultimate-has-started/
 original_post_id:
   - 28

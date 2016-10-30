@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 10 &#8212; Business Class!'
 date: 2014-02-04T08:00:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1100
+guid: /?p=1100
 permalink: /honeymoon-day-10-business-class/
 categories:
   - Honeymoon

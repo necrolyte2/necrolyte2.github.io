@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 9 &#8212; Last Day'
 date: 2014-02-03T18:00:24+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1092
+guid: /?p=1092
 permalink: /honeymoon-day-9-last-day/
 categories:
   - Honeymoon
@@ -62,7 +62,7 @@ Well, we got to go 2 stops at least on the tram-bus. Good enough for me. Ok, bac
   </p>
 </div>
 
-Ya, ok now back to the apartment to drop off her sister&#8217;s necklace so we are not carrying that around to be stolen. Then back out to get that lock on the bridge. Ohh, look a Moser store. I tell Mel that I&#8217;m sorry we didn&#8217;t buy something at the Moser store attached to the actual Moser factory(see [this post](http://tygertown.us/honeymoon-day-7-karlovy-vary/ "Honeymoon — Day 7 — Karlovy Vary") about that). We head in to the store looking for some Champagne flutes for her Sister&#8217;s wedding as a gift. We found some really nice ones and purchased them, but had to get ourselves something fun too.
+Ya, ok now back to the apartment to drop off her sister&#8217;s necklace so we are not carrying that around to be stolen. Then back out to get that lock on the bridge. Ohh, look a Moser store. I tell Mel that I&#8217;m sorry we didn&#8217;t buy something at the Moser store attached to the actual Moser factory(see [this post](/honeymoon-day-7-karlovy-vary/ "Honeymoon — Day 7 — Karlovy Vary") about that). We head in to the store looking for some Champagne flutes for her Sister&#8217;s wedding as a gift. We found some really nice ones and purchased them, but had to get ourselves something fun too.
 
 <div style="width: 160px" class="wp-caption aligncenter">
   <a href="https://lh6.googleusercontent.com/7PBwG1ft825xFW2UnpXltifS3med4hiVUxnRiB3vrn3T=w150-h113-p-no"><img alt="" src="https://lh6.googleusercontent.com/7PBwG1ft825xFW2UnpXltifS3med4hiVUxnRiB3vrn3T=w150-h113-p-no" width="150" height="113" /></a>
@@ -224,7 +224,7 @@ Now, back to the apartment for Mel&#8217;s 5pm nap time and Tyghe&#8217;s 5pm bl
   </p>
 </div>
 
-Alright, rested and blogged. Out we go. Originally we were going to go back to the Cognac place for our final night, but then we got lazy and went back to the brewery to have another sip of the [great nectar](http://tygertown.us/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?").
+Alright, rested and blogged. Out we go. Originally we were going to go back to the Cognac place for our final night, but then we got lazy and went back to the brewery to have another sip of the [great nectar](/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?").
 
 <div style="width: 163px" class="wp-caption aligncenter">
   <a href="https://lh4.googleusercontent.com/UJSb6EmnSeoVX3O8L3QIBUphJ6nmyiL9OwPm5n-Mi3_t=w153-h203-p-no"><img alt="" src="https://lh4.googleusercontent.com/UJSb6EmnSeoVX3O8L3QIBUphJ6nmyiL9OwPm5n-Mi3_t=w153-h203-p-no" width="153" height="203" /></a>
@@ -246,6 +246,6 @@ Alright, rested and blogged. Out we go. Originally we were going to go back to t
 
 Back to the apartment after dinner again to do some packing to ensure we don&#8217;t need another bag or something to get everything back. I again succeed in being an awesome packer and we have extra space with our existing bags. Tomorrow we plan on breakfast near by and then off to the airport for our flight home.
 
-[Day 8](http://tygertown.us/honeymoon-day-8-back-to-prague/ "Honeymoon — Day 8 — Back to Prague")
+[Day 8](/honeymoon-day-8-back-to-prague/ "Honeymoon — Day 8 — Back to Prague")
 
 &nbsp;

@@ -4,7 +4,7 @@ title: Crazy Lazer Pointer
 date: 2010-04-04T20:18:26+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/2010/04/crazy-lazor-pointer/
+guid: /blog/2010/04/crazy-lazor-pointer/
 permalink: /crazy-lazor-pointer/
 wp-esprit-picasa-meta-description:
   - 

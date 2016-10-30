@@ -4,7 +4,7 @@ title: The Cat is out of the Bag
 date: 2008-04-24T23:23:56+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=22
+guid: /blog/?p=22
 permalink: /the-cat-is-out-of-the-bag/
 original_post_id:
   - 22

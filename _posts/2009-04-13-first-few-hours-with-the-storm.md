@@ -4,7 +4,7 @@ title: First few hours with the Storm
 date: 2009-04-13T20:40:51+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=201
+guid: /blog/?p=201
 permalink: /first-few-hours-with-the-storm/
 original_post_id:
   - 201
@@ -22,7 +22,7 @@ tags:
 ---
 Well today at about 1:40pm my new Blackberry Storm arrived. I had to go to a meeting at 2pm but managed to go home grab the package and go to the meeting so I could have it for the afternoon. The phone does have a good look to it and is actually not as big as I had assumed it to be. Here are some pictures for comparison.
 
-<img class="alignnone size-medium wp-image-202" title="Top Comparison" src="http://tygertown.us/blog/wp-content/uploads/2009/04/imgp6175-300x182.jpg" alt="Top Comparison" width="300" height="182" /><img class="alignnone size-medium wp-image-203" title="Side view" src="http://tygertown.us/blog/wp-content/uploads/2009/04/imgp6178-300x63.jpg" alt="Side view" width="300" height="63" />
+<img class="alignnone size-medium wp-image-202" title="Top Comparison" src="/wp-content/uploads/2009/04/imgp6175-300x182.jpg" alt="Top Comparison" width="300" height="182" /><img class="alignnone size-medium wp-image-203" title="Side view" src="/wp-content/uploads/2009/04/imgp6178-300x63.jpg" alt="Side view" width="300" height="63" />
 
 Sorry for the blurryness, I apparently need a few lessons in low light photography, but I think they will suffice.
 

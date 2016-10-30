@@ -4,7 +4,7 @@ title: Back to Adventureland
 date: 2010-06-14T00:58:53+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=544
+guid: /blog/?p=544
 permalink: /back-to-adventureland/
 wp-esprit-picasa-meta-description:
   - 

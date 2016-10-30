@@ -4,7 +4,7 @@ title: Robot Baby
 date: 2008-06-23T21:49:36+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=54
+guid: /blog/?p=54
 permalink: /robot-baby/
 original_post_id:
   - 54

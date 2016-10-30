@@ -4,7 +4,7 @@ title: Cost of home computing
 date: 2013-10-04T20:30:02+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=996
+guid: /?p=996
 permalink: /cost-of-home-computing/
 al2fb_facebook_link_id:
   - 43800887_10100104722108289
@@ -30,8 +30,8 @@ tags:
 ---
 In my last two posts I posted about my little storage cloud I created.
 
-  * [Garage Gluster Cluster 1](http://tygertown.us/2013/09/garage-gluster-cluster/ "Garage Gluster Cluster")
-  * [Garage Gluster Cluster 2](http://tygertown.us/2013/09/garage-gluster-cluster-hardware/ "Garage Gluster Cluster Hardware")
+  * [Garage Gluster Cluster 1](/2013/09/garage-gluster-cluster/ "Garage Gluster Cluster")
+  * [Garage Gluster Cluster 2](/2013/09/garage-gluster-cluster-hardware/ "Garage Gluster Cluster Hardware")
 
 Looking back I see the reasons I set out to do that project were this:
 

@@ -4,7 +4,7 @@ title: Building my Desk
 date: 2009-09-07T11:31:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=305
+guid: /blog/?p=305
 permalink: /building-my-desk/
 original_post_id:
   - 305
@@ -25,7 +25,7 @@ So here is how it went
 Here are the schematics that I drew up for the desk
 
 <div id="attachment_306" style="width: 238px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/DeskSchematics.jpg"><img class="size-medium wp-image-306" title="DeskSchematics" src="http://tygertown.us/blog/wp-content/uploads/2009/09/DeskSchematics-228x300.jpg" alt="Desk Schematics" width="228" height="300" /></a>
+  <a href="/wp-content/uploads/2009/09/DeskSchematics.jpg"><img class="size-medium wp-image-306" title="DeskSchematics" src="/wp-content/uploads/2009/09/DeskSchematics-228x300.jpg" alt="Desk Schematics" width="228" height="300" /></a>
   
   <p class="wp-caption-text">
     Desk Schematics
@@ -46,7 +46,7 @@ The final numbers came to be 5 2&#215;3&#8217;s and 1 particle board. Now, I jus
 Here is the board cutting guide that I came up with
 
 <div id="attachment_309" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/BoardLengths.jpg"><img class="size-medium wp-image-309" title="CuttingGuide" src="http://tygertown.us/blog/wp-content/uploads/2009/09/BoardLengths-300x279.jpg" alt="Board Cutting Guide" width="300" height="279" /></a>
+  <a href="/wp-content/uploads/2009/09/BoardLengths.jpg"><img class="size-medium wp-image-309" title="CuttingGuide" src="/wp-content/uploads/2009/09/BoardLengths-300x279.jpg" alt="Board Cutting Guide" width="300" height="279" /></a>
   
   <p class="wp-caption-text">
     Board Cutting Guide
@@ -75,7 +75,7 @@ Things you need
 
 <p style="text-align:left;">
   <div id="attachment_310" style="width: 310px" class="wp-caption aligncenter">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6556.jpg"><img class="size-medium wp-image-310" title="IMGP6556" src="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6556-300x122.jpg" alt="Materials" width="300" height="122" /></a>
+    <a href="/wp-content/uploads/2009/09/IMGP6556.jpg"><img class="size-medium wp-image-310" title="IMGP6556" src="/wp-content/uploads/2009/09/IMGP6556-300x122.jpg" alt="Materials" width="300" height="122" /></a>
     
     <p class="wp-caption-text">
       Materials
@@ -83,7 +83,7 @@ Things you need
   </div>
   
   <div id="attachment_311" style="width: 160px" class="wp-caption aligncenter">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6558.jpg"><img class="size-thumbnail wp-image-311 " title="IMGP6558" src="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6558-150x150.jpg" alt="Underneath" width="150" height="150" /></a>
+    <a href="/wp-content/uploads/2009/09/IMGP6558.jpg"><img class="size-thumbnail wp-image-311 " title="IMGP6558" src="/wp-content/uploads/2009/09/IMGP6558-150x150.jpg" alt="Underneath" width="150" height="150" /></a>
     
     <p class="wp-caption-text">
       Underneath
@@ -91,7 +91,7 @@ Things you need
   </div>
   
   <div id="attachment_313" style="width: 160px" class="wp-caption aligncenter">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6561.jpg"><img class="size-thumbnail wp-image-313" title="IMGP6561" src="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6561-150x150.jpg" alt="Top" width="150" height="150" /></a>
+    <a href="/wp-content/uploads/2009/09/IMGP6561.jpg"><img class="size-thumbnail wp-image-313" title="IMGP6561" src="/wp-content/uploads/2009/09/IMGP6561-150x150.jpg" alt="Top" width="150" height="150" /></a>
     
     <p class="wp-caption-text">
       Top

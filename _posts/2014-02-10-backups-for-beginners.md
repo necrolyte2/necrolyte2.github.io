@@ -4,7 +4,7 @@ title: Backups for beginners
 date: 2014-02-10T08:00:23+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=576
+guid: /blog/?p=576
 permalink: /backups-for-beginners/
 wp-esprit-picasa-meta-description:
   - 

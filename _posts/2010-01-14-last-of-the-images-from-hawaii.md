@@ -4,7 +4,7 @@ title: Last of the images from Hawaii
 date: 2010-01-14T18:29:47+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=440
+guid: /blog/?p=440
 permalink: /last-of-the-images-from-hawaii/
 original_post_id:
   - 440

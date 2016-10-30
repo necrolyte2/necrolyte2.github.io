@@ -4,7 +4,7 @@ title: Some LOL Pictures from Failblog
 date: 2009-04-09T22:29:41+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=195
+guid: /blog/?p=195
 permalink: /some-lol-pictures-from-failblog/
 original_post_id:
   - 195

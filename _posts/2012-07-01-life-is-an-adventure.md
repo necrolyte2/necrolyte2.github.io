@@ -4,7 +4,7 @@ title: 'Life  is an adventure'
 date: 2012-07-01T12:43:03+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=883
+guid: /?p=883
 permalink: /life-is-an-adventure/
 geo_latitude:
   - 40.032123
@@ -43,8 +43,8 @@ Instead of sticking around in the war zone, we packed up and headed off on an ad
 
 Maybe liberty bell after? Who knows, but still have to work on Monday from the sounds of it.
 
-[<img src="http://tygertown.us/wp-content/uploads/2012/07/20120701-144219.jpg" alt="20120701-144219.jpg" class="alignnone size-full" />](http://tygertown.us/wp-content/uploads/2012/07/20120701-144219.jpg)
+[<img src="/wp-content/uploads/2012/07/20120701-144219.jpg" alt="20120701-144219.jpg" class="alignnone size-full" />](/wp-content/uploads/2012/07/20120701-144219.jpg)
 
-[<img src="http://tygertown.us/wp-content/uploads/2012/07/20120701-144228.jpg" alt="20120701-144228.jpg" class="alignnone size-full" />](http://tygertown.us/wp-content/uploads/2012/07/20120701-144228.jpg)
+[<img src="/wp-content/uploads/2012/07/20120701-144228.jpg" alt="20120701-144228.jpg" class="alignnone size-full" />](/wp-content/uploads/2012/07/20120701-144228.jpg)
 
-[<img src="http://tygertown.us/wp-content/uploads/2012/07/20120701-144242.jpg" alt="20120701-144242.jpg" class="alignnone size-full" />](http://tygertown.us/wp-content/uploads/2012/07/20120701-144242.jpg)
+[<img src="/wp-content/uploads/2012/07/20120701-144242.jpg" alt="20120701-144242.jpg" class="alignnone size-full" />](/wp-content/uploads/2012/07/20120701-144242.jpg)

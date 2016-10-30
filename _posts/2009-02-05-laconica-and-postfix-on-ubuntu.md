@@ -4,7 +4,7 @@ title: Laconica and Postfix on Ubuntu
 date: 2009-02-05T11:20:53+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=141
+guid: /blog/?p=141
 permalink: /laconica-and-postfix-on-ubuntu/
 original_post_id:
   - 141

@@ -4,7 +4,7 @@ title: New Theme for the Site
 date: 2009-01-24T00:50:26+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=138
+guid: /blog/?p=138
 permalink: /new-theme-for-the-site/
 original_post_id:
   - 138

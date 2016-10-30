@@ -4,7 +4,7 @@ title: Thoughts on Mass Transit
 date: 2012-07-25T21:32:19+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=886
+guid: /?p=886
 permalink: /thoughts-on-mass-transit/
 wp-esprit-picasa-meta-description:
   - 

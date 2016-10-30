@@ -4,7 +4,7 @@ title: Two things
 date: 2008-07-09T23:06:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=64
+guid: /blog/?p=64
 permalink: /two-things/
 original_post_id:
   - 64

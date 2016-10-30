@@ -4,7 +4,7 @@ title: Three Quick tricks to make your Blackberry perform better
 date: 2009-08-25T11:36:17+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=278
+guid: /blog/?p=278
 permalink: /three-quick-tricks-to-make-your-blackberry-perform-better/
 original_post_id:
   - 278
@@ -16,7 +16,7 @@ tags:
   - blackberry
   - tips
 ---
-While I was super excited to get my new blackberry when I first ordered it([First impressions of it](http://tygertown.us/blog/tag/review/)), it slowly started to anger me more and more. The device&#8217;s battery is super flaky and would only last about a day and it would periodically lock up completely.
+While I was super excited to get my new blackberry when I first ordered it([First impressions of it](/blog/tag/review/)), it slowly started to anger me more and more. The device&#8217;s battery is super flaky and would only last about a day and it would periodically lock up completely.
 
 Well since I had a hankering(sorry I just love that word) that the Storm probably just needed some love I tried a few things that seemed to have worked really well and decided to share them
 

@@ -4,7 +4,7 @@ title: Epic Crazy Trip
 date: 2009-07-07T12:43:15+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=236
+guid: /blog/?p=236
 permalink: /epic-crazy-trip/
 original_post_id:
   - 236
@@ -213,5 +213,5 @@ This was going to be our hardest and possibly longest day. We spent about 15 min
 </p>
 
 <p style="text-align:center;">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/07/summit.jpg"><img class="aligncenter" title="summit" src="http://tygertown.us/blog/wp-content/uploads/2009/07/summit-300x199.jpg" alt="summit" width="300" height="199" /></a>
+  <a href="/wp-content/uploads/2009/07/summit.jpg"><img class="aligncenter" title="summit" src="/wp-content/uploads/2009/07/summit-300x199.jpg" alt="summit" width="300" height="199" /></a>
 </p>

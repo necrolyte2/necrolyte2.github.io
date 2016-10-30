@@ -4,7 +4,7 @@ title: Need to manage an internet connection?
 date: 2008-04-17T21:41:10+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=14
+guid: /blog/?p=14
 permalink: /need-to-manage-an-internet-connection/
 original_post_id:
   - 14

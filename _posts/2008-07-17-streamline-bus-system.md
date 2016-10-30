@@ -4,7 +4,7 @@ title: Streamline bus system
 date: 2008-07-17T19:53:25+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=69
+guid: /blog/?p=69
 permalink: /streamline-bus-system/
 original_post_id:
   - 69

@@ -4,7 +4,7 @@ title: Websites are funnnn
 date: 2008-05-08T18:58:42+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=29
+guid: /blog/?p=29
 permalink: /websites-are-funnnn/
 original_post_id:
   - 29

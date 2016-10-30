@@ -4,7 +4,7 @@ title: First post from Hawaii
 date: 2009-12-30T19:19:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=421
+guid: /blog/?p=421
 permalink: /first-post-from-hawaii/
 original_post_id:
   - 421

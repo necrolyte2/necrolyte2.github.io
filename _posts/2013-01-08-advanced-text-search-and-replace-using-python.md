@@ -4,7 +4,7 @@ title: Advanced Text Search and Replace using Python
 date: 2013-01-08T21:19:46+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=938
+guid: /?p=938
 permalink: /advanced-text-search-and-replace-using-python/
 al2fb_facebook_link_time:
   - 2013-01-09T03:19:52+00:00
@@ -24,7 +24,7 @@ tags:
   - regular expressions
   - search
 ---
-The [last post](http://tygertown.us/2013/01/introduction-to-python/ "Introduction to Python") was just a short introduction to using Python aimed at Bioinfomaticians. In this post we are going to cover one of the most useful topics dealing with any text processing. Perl&#8217;s the &#8220;goto&#8221; scripting language for this, but frankly, I hate Perl because of its very unreadable syntax. Python supports all of the nifty features of extended regular expressions too so lets give it a go.
+The [last post](/2013/01/introduction-to-python/ "Introduction to Python") was just a short introduction to using Python aimed at Bioinfomaticians. In this post we are going to cover one of the most useful topics dealing with any text processing. Perl&#8217;s the &#8220;goto&#8221; scripting language for this, but frankly, I hate Perl because of its very unreadable syntax. Python supports all of the nifty features of extended regular expressions too so lets give it a go.
 
 <!--more-->
 

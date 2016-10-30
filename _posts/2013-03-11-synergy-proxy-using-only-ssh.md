@@ -4,7 +4,7 @@ title: Synergy Proxy using only SSH
 date: 2013-03-11T16:43:07+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=945
+guid: /?p=945
 permalink: /synergy-proxy-using-only-ssh/
 al2fb_facebook_link_id:
   - 43800887_911431132979
@@ -54,12 +54,12 @@ The great thing about this is you don&#8217;t need any ports open on the client 
 
   1. On the client establish an ssh Local tunnel on port 24800 
       1. Putty Setup for Windows 
-        <a href="http://tygertown.us/2013/03/synergy-proxy-using-only-ssh/puttylocaltunnel/" rel="attachment wp-att-946"><img class="alignnone size-full wp-image-946" alt="PuttyLocalTunnel" src="http://tygertown.us/wp-content/uploads/2013/03/PuttyLocalTunnel.png" width="466" height="449" /></a>
+        <a href="/2013/03/synergy-proxy-using-only-ssh/puttylocaltunnel/" rel="attachment wp-att-946"><img class="alignnone size-full wp-image-946" alt="PuttyLocalTunnel" src="/wp-content/uploads/2013/03/PuttyLocalTunnel.png" width="466" height="449" /></a>
     
       2. or simply ssh -L24800:localhost:24800 <proxy server address goes here>
   2. On the server side do the exact same except you will do a Remote tunnel on the same port 
       1. Putty Setup for Windows 
-        <a href="http://tygertown.us/2013/03/synergy-proxy-using-only-ssh/puttyremotetunnel/" rel="attachment wp-att-947"><img class="alignnone size-full wp-image-947" alt="PuttyRemoteTunnel" src="http://tygertown.us/wp-content/uploads/2013/03/PuttyRemoteTunnel.png" width="469" height="452" /></a>
+        <a href="/2013/03/synergy-proxy-using-only-ssh/puttyremotetunnel/" rel="attachment wp-att-947"><img class="alignnone size-full wp-image-947" alt="PuttyRemoteTunnel" src="/wp-content/uploads/2013/03/PuttyRemoteTunnel.png" width="469" height="452" /></a>
     
       2. ssh -R24800:localhost:24800
 

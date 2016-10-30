@@ -4,7 +4,7 @@ title: The Toe and the Knee
 date: 2008-05-31T11:52:35+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=39
+guid: /blog/?p=39
 permalink: /the-toe-and-the-knee/
 original_post_id:
   - 39

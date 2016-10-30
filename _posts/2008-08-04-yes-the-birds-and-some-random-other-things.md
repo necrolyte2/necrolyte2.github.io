@@ -4,7 +4,7 @@ title: Yes the Birds, and some random other things
 date: 2008-08-04T23:46:00+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=76
+guid: /blog/?p=76
 permalink: /yes-the-birds-and-some-random-other-things/
 original_post_id:
   - 76

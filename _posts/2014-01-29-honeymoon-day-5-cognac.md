@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 5 &#8212; Cognac'
 date: 2014-01-29T13:20:50+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1040
+guid: /?p=1040
 permalink: /honeymoon-day-5-cognac/
 categories:
   - Honeymoon
@@ -210,4 +210,4 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
 
 Afterwards we headed back to the hotel for bed time. Pretty fantastic day. Tomorrow we will switch from our hotel to a rented apartment for the duration of our stay in Prague.
 
-[Day 4](http://tygertown.us/honeymoon-day-4-prague-castle/ "Honeymoon — Day 4 — Prague Castle")  [Day 6](http://tygertown.us/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?")
+[Day 4](/honeymoon-day-4-prague-castle/ "Honeymoon — Day 4 — Prague Castle")  [Day 6](/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?")

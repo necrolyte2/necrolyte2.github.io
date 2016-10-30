@@ -4,7 +4,7 @@ title: The Beginning of Biking Season
 date: 2008-05-15T19:20:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=35
+guid: /blog/?p=35
 permalink: /the-beginning-of-biking-season/
 original_post_id:
   - 35

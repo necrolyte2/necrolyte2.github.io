@@ -4,7 +4,7 @@ title: Install Staden on Ubuntu Mavrick
 date: 2011-03-09T00:24:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=683
+guid: /blog/?p=683
 permalink: /install-staden-on-ubuntu-mavrick/
 wordbooker_options:
   - 'a:8:{s:18:"wordbook_noncename";s:10:"322b78466c";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";}'

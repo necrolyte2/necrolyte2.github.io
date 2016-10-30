@@ -4,7 +4,7 @@ title: 'Friday Rant &#8212; PC vs. Mac'
 date: 2013-10-25T09:02:14+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1004
+guid: /?p=1004
 permalink: /friday-rant-pc-vs-mac/
 al2fb_facebook_link_id:
   - 43800887_10100113720869699

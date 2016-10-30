@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 7 &#8212; Karlovy Vary'
 date: 2014-02-02T20:00:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1066
+guid: /?p=1066
 permalink: /honeymoon-day-7-karlovy-vary/
 categories:
   - Honeymoon
@@ -210,4 +210,4 @@ It was a very touristy place, but wow did they have some really tasty food and b
 
 After our brief gluttonous adventure with Karel IV we make way to the hotel which just happens to be a 20-30 minute walk up the hill. Probably for the best after that meal. Actually a really nice walk and amazing view over the actual tourist downtown. The hotel is nice and the owner very very nice. A great adventure day for the books. Tomorrow we make the trek back.
 
-[Day 6](http://tygertown.us/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?")  [Day 8](http://tygertown.us/honeymoon-day-8-back-to-prague/ "Honeymoon — Day 8 — Back to Prague")
+[Day 6](/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?")  [Day 8](/honeymoon-day-8-back-to-prague/ "Honeymoon — Day 8 — Back to Prague")

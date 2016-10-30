@@ -4,7 +4,7 @@ title: The story of the stairs
 date: 2008-11-19T00:49:31+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=125
+guid: /blog/?p=125
 permalink: /the-story-of-the-stairs/
 original_post_id:
   - 125

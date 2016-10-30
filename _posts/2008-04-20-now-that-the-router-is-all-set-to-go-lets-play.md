@@ -4,7 +4,7 @@ title: Now that the router is all set to go lets play
 date: 2008-04-20T20:05:36+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=18
+guid: /blog/?p=18
 permalink: /now-that-the-router-is-all-set-to-go-lets-play/
 original_post_id:
   - 18

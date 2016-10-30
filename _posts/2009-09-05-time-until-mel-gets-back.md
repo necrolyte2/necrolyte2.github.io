@@ -4,7 +4,7 @@ title: Time until Mel gets Back
 date: 2009-09-05T21:47:56+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=291
+guid: /blog/?p=291
 permalink: /time-until-mel-gets-back/
 original_post_id:
   - 291

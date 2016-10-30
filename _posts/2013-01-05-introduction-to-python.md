@@ -4,7 +4,7 @@ title: Introduction to Python
 date: 2013-01-05T13:44:06+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=927
+guid: /?p=927
 permalink: /introduction-to-python/
 al2fb_facebook_link_id:
   - 43800887_877729426469
@@ -64,7 +64,7 @@ Think of it as a translator. It translates text you type into 1&#8217;s and 0&#8
 
 ## Your first Python Instruction
 
-Open the python interpreter. You should be presented with something that looks like this<a href="http://tygertown.us/2013/01/introduction-to-python/pythoninterp/" rel="attachment wp-att-928"><img class="alignnone size-medium wp-image-928" alt="PythonInterp" src="http://tygertown.us/wp-content/uploads/2013/01/PythonInterp-300x143.png" width="300" height="143" /></a>
+Open the python interpreter. You should be presented with something that looks like this<a href="/2013/01/introduction-to-python/pythoninterp/" rel="attachment wp-att-928"><img class="alignnone size-medium wp-image-928" alt="PythonInterp" src="/wp-content/uploads/2013/01/PythonInterp-300x143.png" width="300" height="143" /></a>
 
 For the rest of this post any time you see >>> assume it is a python interpreter command
 

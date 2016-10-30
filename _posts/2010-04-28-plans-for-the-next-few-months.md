@@ -4,7 +4,7 @@ title: Plans for the next few months
 date: 2010-04-28T00:49:08+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=534
+guid: /blog/?p=534
 permalink: /plans-for-the-next-few-months/
 wp-esprit-picasa-meta-description:
   - 

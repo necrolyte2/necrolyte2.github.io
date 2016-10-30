@@ -4,7 +4,7 @@ title: A Whole Slew of Things
 date: 2010-04-21T22:00:15+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=527
+guid: /blog/?p=527
 permalink: /a-whole-slew-of-things/
 wp-esprit-picasa-meta-description:
   - 

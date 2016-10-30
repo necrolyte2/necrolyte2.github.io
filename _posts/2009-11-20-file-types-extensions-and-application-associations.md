@@ -4,7 +4,7 @@ title: File Types, Extensions and Application Associations
 date: 2009-11-20T12:52:49+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=407
+guid: /blog/?p=407
 permalink: /file-types-extensions-and-application-associations/
 original_post_id:
   - 407
@@ -17,7 +17,7 @@ I often run into this issue with people who don&#8217;t fully understand the cor
 <!--more-->When you double click a file normally your OS opens an application that knows how to read the file. So for a .xls file normally Microsoft Excel would open. Now if you download a .xls file and do not have Microsoft Excel installed you will be prompted to select the appropriate application to open the file with. If you choose another application you will notice that the icon on the file changes to the icon for the new application you selected.
 
 <div id="attachment_408" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/11/ExcelAssociated.png"><img class="size-medium wp-image-408" title="ExcelAssociated" src="http://tygertown.us/blog/wp-content/uploads/2009/11/ExcelAssociated-300x221.png" alt=".xls file Associated with Excel" width="300" height="221" /></a>
+  <a href="/wp-content/uploads/2009/11/ExcelAssociated.png"><img class="size-medium wp-image-408" title="ExcelAssociated" src="/wp-content/uploads/2009/11/ExcelAssociated-300x221.png" alt=".xls file Associated with Excel" width="300" height="221" /></a>
   
   <p class="wp-caption-text">
     .xls file Associated with Excel
@@ -25,7 +25,7 @@ I often run into this issue with people who don&#8217;t fully understand the cor
 </div>
 
 <div id="attachment_409" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/11/NotepadAssociated.png"><img class="size-medium wp-image-409" title="NotepadAssociated" src="http://tygertown.us/blog/wp-content/uploads/2009/11/NotepadAssociated-300x259.png" alt=".xls Associated with Notepad" width="300" height="259" /></a>
+  <a href="/wp-content/uploads/2009/11/NotepadAssociated.png"><img class="size-medium wp-image-409" title="NotepadAssociated" src="/wp-content/uploads/2009/11/NotepadAssociated-300x259.png" alt=".xls Associated with Notepad" width="300" height="259" /></a>
   
   <p class="wp-caption-text">
     .xls Associated with Notepad
@@ -48,7 +48,7 @@ Well here is the solution for both of those problems
 If you are using Windows the easiest way to associate an application with a file type is to simply right click on the file and select &#8216;Open With&#8217;. Depending on which version of Windows you are using a different dialogue will pop up. Regardless though, you should see a list of applications to choose from. More than likely you will see the application that you want to open the file in this list. If not you will have to click browse and search through your hard drive to find it(Look under c:program files)
 
 <div id="attachment_412" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/11/OpenWith.png"><img class="size-medium wp-image-412" title="OpenWith" src="http://tygertown.us/blog/wp-content/uploads/2009/11/OpenWith-300x261.png" alt="Open With Box" width="300" height="261" /></a>
+  <a href="/wp-content/uploads/2009/11/OpenWith.png"><img class="size-medium wp-image-412" title="OpenWith" src="/wp-content/uploads/2009/11/OpenWith-300x261.png" alt="Open With Box" width="300" height="261" /></a>
   
   <p class="wp-caption-text">
     Open With Box

@@ -4,7 +4,7 @@ title: Why the Military is Cool
 date: 2008-07-30T19:05:14+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=73
+guid: /blog/?p=73
 permalink: /why-the-military-is-cool/
 original_post_id:
   - 73

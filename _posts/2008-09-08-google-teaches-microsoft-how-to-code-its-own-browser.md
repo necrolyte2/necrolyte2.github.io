@@ -4,7 +4,7 @@ title: Google teaches Microsoft how to code its own browser
 date: 2008-09-08T09:26:44+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=86
+guid: /blog/?p=86
 permalink: /google-teaches-microsoft-how-to-code-its-own-browser/
 original_post_id:
   - 86

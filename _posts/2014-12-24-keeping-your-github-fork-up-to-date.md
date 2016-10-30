@@ -4,7 +4,7 @@ title: Keeping your GitHub fork up-to-date
 date: 2014-12-24T14:04:39+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1180
+guid: /?p=1180
 permalink: /keeping-your-github-fork-up-to-date/
 categories:
   - How To

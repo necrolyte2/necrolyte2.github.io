@@ -4,7 +4,7 @@ title: Our Friend Jon Wixson
 date: 2008-06-24T22:04:23+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=56
+guid: /blog/?p=56
 permalink: /our-friend-jon-wixson/
 original_post_id:
   - 56

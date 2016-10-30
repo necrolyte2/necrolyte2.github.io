@@ -4,7 +4,7 @@ title: Google Addict
 date: 2008-06-23T21:42:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=53
+guid: /blog/?p=53
 permalink: /google-addict/
 original_post_id:
   - 53

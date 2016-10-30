@@ -4,7 +4,7 @@ title: My Wisconsin Trip
 date: 2008-07-03T22:31:16+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=58
+guid: /blog/?p=58
 permalink: /my-wisconsin-trip/
 original_post_id:
   - 58

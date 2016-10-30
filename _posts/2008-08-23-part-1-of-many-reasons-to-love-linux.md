@@ -4,7 +4,7 @@ title: Part 1 of many reasons to love Linux
 date: 2008-08-23T10:15:20+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=83
+guid: /blog/?p=83
 permalink: /part-1-of-many-reasons-to-love-linux/
 original_post_id:
   - 83

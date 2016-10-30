@@ -4,7 +4,7 @@ title: Problems making Cheesecakes with the GF
 date: 2009-08-19T11:07:44+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=266
+guid: /blog/?p=266
 permalink: /problems-making-cheesecakes-with-the-gf/
 original_post_id:
   - 266

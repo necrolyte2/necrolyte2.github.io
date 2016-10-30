@@ -4,7 +4,7 @@ title: Xen to KVM the manual way
 date: 2009-01-19T18:39:24+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=134
+guid: /blog/?p=134
 permalink: /xen-to-kvm-the-manual-way/
 original_post_id:
   - 134

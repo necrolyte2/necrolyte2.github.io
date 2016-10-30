@@ -4,7 +4,7 @@ title: Grand Palace and More
 date: 2010-03-24T02:08:44+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=493
+guid: /blog/?p=493
 permalink: /grand-palace-and-more/
 wp-esprit-picasa-meta-description:
   - 

@@ -4,7 +4,7 @@ title: 'Josh Miller&#8217;s Application'
 date: 2009-02-22T21:36:42+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=151
+guid: /blog/?p=151
 permalink: /josh-millers-application/
 original_post_id:
   - 151

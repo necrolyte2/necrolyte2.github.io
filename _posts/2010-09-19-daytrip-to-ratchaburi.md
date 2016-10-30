@@ -4,7 +4,7 @@ title: Daytrip to Ratchaburi
 date: 2010-09-19T18:40:17+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=602
+guid: /blog/?p=602
 permalink: /daytrip-to-ratchaburi/
 wp-esprit-picasa-meta-description:
   - 

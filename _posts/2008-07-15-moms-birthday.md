@@ -4,7 +4,7 @@ title: 'Mom&#8217;s Birthday'
 date: 2008-07-15T22:30:06+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=67
+guid: /blog/?p=67
 permalink: /moms-birthday/
 original_post_id:
   - 67

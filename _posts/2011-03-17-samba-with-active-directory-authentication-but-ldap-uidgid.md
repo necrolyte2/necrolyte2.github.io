@@ -4,7 +4,7 @@ title: Samba With Active Directory Authentication but LDAP uid/gid
 date: 2011-03-17T00:02:23+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=696
+guid: /blog/?p=696
 permalink: /samba-with-active-directory-authentication-but-ldap-uidgid/
 wordbooker_options:
   - 'a:8:{s:18:"wordbook_noncename";s:10:"d83ea1549f";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";}'

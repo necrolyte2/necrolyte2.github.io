@@ -4,7 +4,7 @@ title: Battlestar Galactica Old Style
 date: 2008-04-22T20:59:54+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=19
+guid: /blog/?p=19
 permalink: /battlestar-galactica-old-style/
 original_post_id:
   - 19

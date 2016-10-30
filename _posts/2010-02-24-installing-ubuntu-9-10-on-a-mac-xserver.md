@@ -4,7 +4,7 @@ title: Installing Ubuntu 9.10 on a Mac Xserver
 date: 2010-02-24T20:16:16+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=458
+guid: /blog/?p=458
 permalink: /installing-ubuntu-9-10-on-a-mac-xserver/
 original_post_id:
   - 458

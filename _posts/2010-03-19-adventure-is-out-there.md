@@ -4,7 +4,7 @@ title: Adventure is Out There
 date: 2010-03-19T23:24:27+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=473
+guid: /blog/?p=473
 permalink: /adventure-is-out-there/
 twitter_cards_summary_img_size:
   - 
@@ -20,7 +20,7 @@ tags:
   - narita
   - thailand
 ---
-[<img class="alignleft size-medium wp-image-474" title="AdventureIsOutThere" src="http://tygertown.us/blog/wp-content/uploads/2010/03/AdventureIsOutThere-300x300.jpg" alt="" width="300" height="300" />](http://tygertown.us/blog/wp-content/uploads/2010/03/AdventureIsOutThere.jpg)Well here we are at the [Lub D](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=lub+d+bangkok&sll=45.691055,-110.943888&sspn=2.279268,6.328125&ie=UTF8&hq=lub+d&hnear=Bangkok,+Thailand&ll=13.739385,100.530739&spn=0.095047,0.197754&z=13&iwloc=A "Lub D Google Maps") Hostel in Bangkok. We arrived at around midnight ICT which is fourteen hours ahead of MST. Security at the airports was easy as well as making our way through customs once we got here. The flights consisted of one eight and a half hour flight from Honolulu to Nirita, Japan with an hour and a half layover. Then we had a seven hour flight from Nirita to Suvarnabhumi airport outside of Bangkok. I don&#8217;t think it took us more than 20 minutes to walk off of our airplane through customs and to our taxi.
+[<img class="alignleft size-medium wp-image-474" title="AdventureIsOutThere" src="/wp-content/uploads/2010/03/AdventureIsOutThere-300x300.jpg" alt="" width="300" height="300" />](/blog/wp-content/uploads/2010/03/AdventureIsOutThere.jpg)Well here we are at the [Lub D](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=lub+d+bangkok&sll=45.691055,-110.943888&sspn=2.279268,6.328125&ie=UTF8&hq=lub+d&hnear=Bangkok,+Thailand&ll=13.739385,100.530739&spn=0.095047,0.197754&z=13&iwloc=A "Lub D Google Maps") Hostel in Bangkok. We arrived at around midnight ICT which is fourteen hours ahead of MST. Security at the airports was easy as well as making our way through customs once we got here. The flights consisted of one eight and a half hour flight from Honolulu to Nirita, Japan with an hour and a half layover. Then we had a seven hour flight from Nirita to Suvarnabhumi airport outside of Bangkok. I don&#8217;t think it took us more than 20 minutes to walk off of our airplane through customs and to our taxi.
 
 The second flight was pretty funny, because Mel and I had seats that were on opposite sides of the hull and about 8 rows apart. I sat next to two Japanese gentlemen which became a game of charades trying to figure out if I could somehow switch seats with people to sit next to her. They knew the words Girlfriend, bad and no. Mel and I didn&#8217;t manage to get to sit next to each other, but it wasn&#8217;t that big of a deal since we were both so tired we just zoned out for the entirety of the flight.
 

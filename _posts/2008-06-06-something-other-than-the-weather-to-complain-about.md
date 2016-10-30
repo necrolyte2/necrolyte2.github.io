@@ -4,7 +4,7 @@ title: Something other than the Weather to complain about
 date: 2008-06-06T15:43:35+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=43
+guid: /blog/?p=43
 permalink: /something-other-than-the-weather-to-complain-about/
 original_post_id:
   - 43

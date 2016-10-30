@@ -4,7 +4,7 @@ title: 'Holy Crap&#8230;Lots of Life is Happening'
 date: 2012-03-01T03:52:43+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=830
+guid: /?p=830
 permalink: /holy-crap-lots-of-life-is-happening/
 wp-esprit-picasa-meta-description:
   - 
@@ -36,7 +36,7 @@ tags:
 ---
 Overwhelmed with planning currently I decided to take a break and think about some stuff. Maybe it is the excessive amounts of dark chocolate I just ate, but I&#8217;m feeling pretty motivated with no direction at all to my thoughts so expect one of those random timeline posts.
 
-Let&#8217;s start with jumping back in time about 3 weeks. Just recently returning from [Krabi/Railay Beach](http://tygertown.us/2012/02/krabi-ao-nang-railay/ "Krabi / Ao Nang / Railay") we were immediately slammed with Ultimate Frisbee. The Thursday after coming back we had <a title="Soidawgz League" href="http://www.bangkokultimate.com/league/scores-and-highlights/" target="_blank">League night</a> which was pretty low key for the Soidawgz as there were so many people in town for the <a title="BKK Hat 2012" href="http://www.bangkokultimate.com/bangkok-hat-2/bangkok-hat/" target="_blank">Bangkok Hat</a> that came to League night to play(Open invite). Meeting some new people, everybody went to go eat together after the games which didn&#8217;t end until about 10:45-11pm so it was late already then. After eating it was about 12:30am and by the time we get home about 1:15am. Ohh, and of course you are exhausted from frisbee, but body is still trying to wind down from exercise. Maybe fall asleep around 2:30-3.
+Let&#8217;s start with jumping back in time about 3 weeks. Just recently returning from [Krabi/Railay Beach](/2012/02/krabi-ao-nang-railay/ "Krabi / Ao Nang / Railay") we were immediately slammed with Ultimate Frisbee. The Thursday after coming back we had <a title="Soidawgz League" href="http://www.bangkokultimate.com/league/scores-and-highlights/" target="_blank">League night</a> which was pretty low key for the Soidawgz as there were so many people in town for the <a title="BKK Hat 2012" href="http://www.bangkokultimate.com/bangkok-hat-2/bangkok-hat/" target="_blank">Bangkok Hat</a> that came to League night to play(Open invite). Meeting some new people, everybody went to go eat together after the games which didn&#8217;t end until about 10:45-11pm so it was late already then. After eating it was about 12:30am and by the time we get home about 1:15am. Ohh, and of course you are exhausted from frisbee, but body is still trying to wind down from exercise. Maybe fall asleep around 2:30-3.
 
 ### <span style="text-decoration:underline;"><strong>That was day 1 &#8212; 2/9/2012</strong></span>
 

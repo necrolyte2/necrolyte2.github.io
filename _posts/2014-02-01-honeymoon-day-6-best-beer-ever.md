@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 6 &#8212; Best Beer Ever?'
 date: 2014-02-01T10:45:19+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1058
+guid: /?p=1058
 permalink: /honeymoon-day-6-best-beer-ever/
 categories:
   - Honeymoon
@@ -47,7 +47,7 @@ We pick up some meat, cheeses and some beverages and head to the cashier knowing
 We locate a hardware store on Google Maps(really not sure how to survive without Google Maps) and head towards it. Once inside it is indeed a hardware store. Very small and cramped. The guy at the desk doesn&#8217;t speak English but does understand my charade gesture of what paddle-lock looks like when it closes. I even threw in the click noise to seal the deal. He shows us the massive wall where we can get pretty much any lock we want and we pick one out and head back to the apartment. Not 50 steps out the door we see a place with the word Pivovar on it. Something about having 3 floors just for us. Pivovar means brewery in Czech. We can&#8217;t resist and in we go. Very pub like atmosphere. We score a table near the door and take a look at the menu(picture on my camera). Dark beer and special dark #2 beer catch our eye. Order them up.
 
 <div id="attachment_1063" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/wp-content/uploads/2014/02/IMG_20140129_152059.jpg"><img class=" wp-image-1063 " alt="So very tasty" src="http://tygertown.us/wp-content/uploads/2014/02/IMG_20140129_152059.jpg" width="400" height="600" /></a>
+  <a href="/wp-content/uploads/2014/02/IMG_20140129_152059.jpg"><img class=" wp-image-1063 " alt="So very tasty" src="/wp-content/uploads/2014/02/IMG_20140129_152059.jpg" width="400" height="600" /></a>
   
   <p class="wp-caption-text">
     So very tasty
@@ -57,7 +57,7 @@ We locate a hardware store on Google Maps(really not sure how to survive without
 I have a sip of the best tasting beer I&#8217;ve had to date. The one on the left is the culprit of stealing Tyghe&#8217;s #1 spot. The beer on the right is pretty good too, but masked by that precious dark brown not to sweet nectar contained in the left glass. I had to have another just to make sure.
 
 <div id="attachment_1064" style="width: 650px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/wp-content/uploads/2014/02/IMG_20140129_152343.jpg"><img class=" wp-image-1064 " alt="This is how you properly drink beer" src="http://tygertown.us/wp-content/uploads/2014/02/IMG_20140129_152343.jpg" width="640" height="480" /></a>
+  <a href="/wp-content/uploads/2014/02/IMG_20140129_152343.jpg"><img class=" wp-image-1064 " alt="This is how you properly drink beer" src="/wp-content/uploads/2014/02/IMG_20140129_152343.jpg" width="640" height="480" /></a>
   
   <p class="wp-caption-text">
     This is how you properly drink beer
@@ -70,4 +70,4 @@ Tomorrow we make great adventure on the train. Heading off to <a title="Karlovy 
 
 &nbsp;
 
-[Day 5](http://tygertown.us/honeymoon-day-5-cognac/ "Honeymoon — Day 5 — Cognac")  [Day 7](http://tygertown.us/honeymoon-day-7-karlovy-vary/ "Honeymoon — Day 7 — Karlovy Vary")
+[Day 5](/honeymoon-day-5-cognac/ "Honeymoon — Day 5 — Cognac")  [Day 7](/honeymoon-day-7-karlovy-vary/ "Honeymoon — Day 7 — Karlovy Vary")

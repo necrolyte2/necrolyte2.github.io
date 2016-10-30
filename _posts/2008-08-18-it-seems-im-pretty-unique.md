@@ -4,7 +4,7 @@ title: 'It seems I&#8217;m pretty unique'
 date: 2008-08-18T08:24:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=80
+guid: /blog/?p=80
 permalink: /it-seems-im-pretty-unique/
 original_post_id:
   - 80

@@ -4,7 +4,7 @@ title: New site up and running
 date: 2008-04-12T12:17:31+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/bog/?p=11
+guid: /bog/?p=11
 permalink: /new-site-up-and-running/
 original_post_id:
   - 11

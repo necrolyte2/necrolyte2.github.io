@@ -4,7 +4,7 @@ title: Luang Prabang
 date: 2012-04-29T04:09:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=861
+guid: /?p=861
 permalink: /luang-prabang/
 wp-esprit-picasa-meta-description:
   - 

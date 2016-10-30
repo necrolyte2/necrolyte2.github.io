@@ -4,7 +4,7 @@ title: I do this all the time
 date: 2010-02-01T16:14:57+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=456
+guid: /blog/?p=456
 permalink: /i-do-this-all-the-time/
 original_post_id:
   - 456

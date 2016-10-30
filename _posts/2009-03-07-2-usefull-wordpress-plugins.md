@@ -4,7 +4,7 @@ title: 2 usefull wordpress plugins
 date: 2009-03-07T19:18:04+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=168
+guid: /blog/?p=168
 permalink: /2-usefull-wordpress-plugins/
 original_post_id:
   - 168

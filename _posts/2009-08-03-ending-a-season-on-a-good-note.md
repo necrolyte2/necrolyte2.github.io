@@ -4,7 +4,7 @@ title: Ending a Season on a Good Note
 date: 2009-08-03T10:26:37+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=251
+guid: /blog/?p=251
 permalink: /ending-a-season-on-a-good-note/
 original_post_id:
   - 251
@@ -41,7 +41,7 @@ We headed down to the race track which was in downtown Missoula. There is a map 
 Here are some pics from this weekend
 
 <div id="attachment_252" style="width: 251px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/08/tylertyghebeforecrit.jpg"><img class="size-medium wp-image-252" title="Before the Crit" src="http://tygertown.us/blog/wp-content/uploads/2009/08/tylertyghebeforecrit-241x300.jpg" alt="Before the Crit" width="241" height="300" /></a>
+  <a href="/wp-content/uploads/2009/08/tylertyghebeforecrit.jpg"><img class="size-medium wp-image-252" title="Before the Crit" src="/wp-content/uploads/2009/08/tylertyghebeforecrit-241x300.jpg" alt="Before the Crit" width="241" height="300" /></a>
   
   <p class="wp-caption-text">
     Tyler and I before the Crit
@@ -49,7 +49,7 @@ Here are some pics from this weekend
 </div>
 
 <div id="attachment_253" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/08/sprintoff.jpg"><img class="size-medium wp-image-253" title="Sprint for the Finish" src="http://tygertown.us/blog/wp-content/uploads/2009/08/sprintoff-300x159.jpg" alt="Sprint for the Finish" width="300" height="159" /></a>
+  <a href="/wp-content/uploads/2009/08/sprintoff.jpg"><img class="size-medium wp-image-253" title="Sprint for the Finish" src="/wp-content/uploads/2009/08/sprintoff-300x159.jpg" alt="Sprint for the Finish" width="300" height="159" /></a>
   
   <p class="wp-caption-text">
     Sprinting for 5th place
@@ -57,7 +57,7 @@ Here are some pics from this weekend
 </div>
 
 <div id="attachment_256" style="width: 208px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/08/melttstart.jpg"><img class="size-medium wp-image-256" title="Mel's TT Start" src="http://tygertown.us/blog/wp-content/uploads/2009/08/melttstart-198x300.jpg" alt="Mel's TT Start" width="198" height="300" /></a>
+  <a href="/wp-content/uploads/2009/08/melttstart.jpg"><img class="size-medium wp-image-256" title="Mel's TT Start" src="/wp-content/uploads/2009/08/melttstart-198x300.jpg" alt="Mel's TT Start" width="198" height="300" /></a>
   
   <p class="wp-caption-text">
     Mel starting her TT
@@ -65,7 +65,7 @@ Here are some pics from this weekend
 </div>
 
 <div id="attachment_257" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/08/melcornercrit.jpg"><img class="size-medium wp-image-257" title="Mel in the ZooTown Crit" src="http://tygertown.us/blog/wp-content/uploads/2009/08/melcornercrit-300x200.jpg" alt="Mel in the ZooTown Crit" width="300" height="200" /></a>
+  <a href="/wp-content/uploads/2009/08/melcornercrit.jpg"><img class="size-medium wp-image-257" title="Mel in the ZooTown Crit" src="/wp-content/uploads/2009/08/melcornercrit-300x200.jpg" alt="Mel in the ZooTown Crit" width="300" height="200" /></a>
   
   <p class="wp-caption-text">
     Mel taking one of those dangerous corners in the ZooTown Crit

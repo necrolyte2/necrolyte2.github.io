@@ -4,7 +4,7 @@ title: 'Artificial Sweetners &#038; HFCS'
 date: 2009-03-10T15:38:11+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/2009/03/artificial-sweetners-hfcs/
+guid: /blog/2009/03/artificial-sweetners-hfcs/
 permalink: /artificial-sweetners-hfcs/
 original_post_id:
   - 170

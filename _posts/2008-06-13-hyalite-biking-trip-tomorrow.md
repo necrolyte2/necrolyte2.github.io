@@ -4,7 +4,7 @@ title: Hyalite Biking Trip Tomorrow
 date: 2008-06-13T22:06:04+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=50
+guid: /blog/?p=50
 permalink: /hyalite-biking-trip-tomorrow/
 original_post_id:
   - 50

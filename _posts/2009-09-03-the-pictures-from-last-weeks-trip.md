@@ -4,7 +4,7 @@ title: The Pictures from Last Weeks trip
 date: 2009-09-03T11:37:37+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=287
+guid: /blog/?p=287
 permalink: /the-pictures-from-last-weeks-trip/
 original_post_id:
   - 287

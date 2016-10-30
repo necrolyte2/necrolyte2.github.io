@@ -4,7 +4,7 @@ title: Krabi / Ao Nang / Railay
 date: 2012-02-09T03:30:59+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=822
+guid: /?p=822
 permalink: /krabi-ao-nang-railay/
 twitter_cards_summary_img_size:
   - 'a:7:{i:0;i:200;i:1;i:150;i:2;i:2;i:3;s:24:"width="200" height="150"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}'
