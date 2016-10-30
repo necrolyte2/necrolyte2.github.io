@@ -99,6 +99,6 @@ Trying to make a heart
 
 <a title="" href="http://lh6.ggpht.com/-aEEok2MbBH4/Tq9mqW8F7DI/AAAAAAAAEXQ/EymZOGsL01c/s800/IMGP0144.JPG" rel="lightbox[796]"><img src="http://lh6.ggpht.com/-aEEok2MbBH4/Tq9mqW8F7DI/AAAAAAAAEXQ/EymZOGsL01c/s200/IMGP0144.JPG" alt="IMGP0144.JPG" /></a>
 
-Our names in what we think is how you spell them in Thai(Even if it isn&#8217;t, it is now  <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
+Our names in what we think is how you spell them in Thai(Even if it isn&#8217;t, it is now  <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
 
 ![IMGP0145.JPG](http://lh6.ggpht.com/-s24tA7IwkDA/Tq9mrOiyiQI/AAAAAAAAEXU/kJR2cJff0kA/s200/IMGP0145.JPG)

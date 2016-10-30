@@ -52,7 +52,7 @@ The scene at this point is too much to actually comprehend for Tien and I. Then 
 
 ### <span style="text-decoration:underline;"><strong>End of Day 2</strong></span>
 
-Saturday was Day 1 of the Bangkok Hat. We took motorbikes for maybe the 3rd time ever to the fields as we were a bit late..but not really because late to us is never as late as frisbee on-time. I forgot to mention that Tien and Allison were staying with us as they might as well be living in Singapore, they live so far away. Not really, but really&#8230; <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Saturday was Day 1 of the Bangkok Hat. We took motorbikes for maybe the 3rd time ever to the fields as we were a bit late..but not really because late to us is never as late as frisbee on-time. I forgot to mention that Tien and Allison were staying with us as they might as well be living in Singapore, they live so far away. Not really, but really&#8230; <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 So the day started and there were 2 other Dawgz(BKK short for Soidawgz) on my team. Tall Piete and Jamie. Some new faces that I didn&#8217;t know but things looked pretty good for us.
 

@@ -35,7 +35,7 @@ tags:
 <div id='gallery-3' class='gallery galleryid-969 gallery-columns-4 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080710/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080710.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster TopView" aria-describedby="gallery-3-979" /></a>
+      <a href='/img_20130921_080710/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080710.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster TopView" aria-describedby="gallery-3-979" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-979'>
@@ -45,7 +45,7 @@ tags:
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080921/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080921.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Infrastructure" aria-describedby="gallery-3-982" /></a>
+      <a href='/img_20130921_080921/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080921.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Infrastructure" aria-describedby="gallery-3-982" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-982'>
@@ -55,7 +55,7 @@ tags:
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080723/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080723.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster FrontView" aria-describedby="gallery-3-980" /></a>
+      <a href='/img_20130921_080723/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080723.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Storage Cluster FrontView" aria-describedby="gallery-3-980" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-980'>
@@ -65,7 +65,7 @@ tags:
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/img_20130921_080936/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080936.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Hardware" aria-describedby="gallery-3-983" /></a>
+      <a href='/img_20130921_080936/'><img width="113" height="150" src="/wp-content/uploads/2013/09/img_20130921_080936.jpg" class="attachment-thumbnail size-thumbnail" alt="Enterprise Switch Hardware" aria-describedby="gallery-3-983" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-983'>
@@ -111,7 +111,7 @@ Here is the detailed hardware list listed by their hostnames:
 
 ## Comments on my hardware adventures for amusement:
 
-The Dell Vostro 200 I found next to the garbage upside down, like a dead fish  <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />So I took it up to my apartment just to see if it would start, and it did. That was one of the greatest finds I have ever found. The hardware is not that great, but it was our main file server for over a year and now he has friends that he can play with that help him do his job better.
+The Dell Vostro 200 I found next to the garbage upside down, like a dead fish  <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />So I took it up to my apartment just to see if it would start, and it did. That was one of the greatest finds I have ever found. The hardware is not that great, but it was our main file server for over a year and now he has friends that he can play with that help him do his job better.
 
 My friend gave me an almost brand new AMD/NVidia computer just the other week. My wife had previously been using the hardware for GS01 so I gave her the new computer and used her hardware for the Gluster node. What is funny about this is that my friend Ronnie had given me a bunch of his spare parts that we had built her computer with.
 

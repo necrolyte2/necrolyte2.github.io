@@ -57,7 +57,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
 <div id='gallery-6' class='gallery galleryid-1066 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_132223/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_132223.jpg" class="attachment-thumbnail size-thumbnail" alt="Blowing the bulb" aria-describedby="gallery-6-1069" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_132223/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_132223.jpg" class="attachment-thumbnail size-thumbnail" alt="Blowing the bulb" aria-describedby="gallery-6-1069" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1069'>
@@ -67,7 +67,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_132211/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_132211.jpg" class="attachment-thumbnail size-thumbnail" alt="Turning the bulb" aria-describedby="gallery-6-1067" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_132211/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_132211.jpg" class="attachment-thumbnail size-thumbnail" alt="Turning the bulb" aria-describedby="gallery-6-1067" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1067'>
@@ -79,7 +79,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_132215/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_132215.jpg" class="attachment-thumbnail size-thumbnail" alt="Turning the bulb" aria-describedby="gallery-6-1068" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_132215/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_132215.jpg" class="attachment-thumbnail size-thumbnail" alt="Turning the bulb" aria-describedby="gallery-6-1068" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1068'>
@@ -89,7 +89,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_133103/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133103.jpg" class="attachment-thumbnail size-thumbnail" alt="Master firing the end product" aria-describedby="gallery-6-1070" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_133103/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133103.jpg" class="attachment-thumbnail size-thumbnail" alt="Master firing the end product" aria-describedby="gallery-6-1070" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1070'>
@@ -101,7 +101,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_133107/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133107.jpg" class="attachment-thumbnail size-thumbnail" alt="Master" aria-describedby="gallery-6-1071" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_133107/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133107.jpg" class="attachment-thumbnail size-thumbnail" alt="Master" aria-describedby="gallery-6-1071" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1071'>
@@ -111,7 +111,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_133112-motion/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133112-MOTION.gif" class="attachment-thumbnail size-thumbnail" alt="Apprentice putting the hot glass into the mold" aria-describedby="gallery-6-1072" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_133112-motion/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133112-MOTION.gif" class="attachment-thumbnail size-thumbnail" alt="Apprentice putting the hot glass into the mold" aria-describedby="gallery-6-1072" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1072'>
@@ -123,7 +123,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_133314/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133314.jpg" class="attachment-thumbnail size-thumbnail" alt="Master and Apprentice putting two pieces together" aria-describedby="gallery-6-1073" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_133314/'><img width="150" height="113" src="/wp-content/uploads/2014/02/IMG_20140130_133314.jpg" class="attachment-thumbnail size-thumbnail" alt="Master and Apprentice putting two pieces together" aria-describedby="gallery-6-1073" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1073'>
@@ -133,7 +133,7 @@ We get there at about 12:30am and the next tour isn&#8217;t until 1:15pm so we t
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-7-karlovy-vary/img_20140130_133750-motion/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_133750-MOTION.gif" class="attachment-thumbnail size-thumbnail" alt="Apprentice making one of the plates" aria-describedby="gallery-6-1074" /></a>
+      <a href='/honeymoon-day-7-karlovy-vary/img_20140130_133750-motion/'><img width="113" height="150" src="/wp-content/uploads/2014/02/IMG_20140130_133750-MOTION.gif" class="attachment-thumbnail size-thumbnail" alt="Apprentice making one of the plates" aria-describedby="gallery-6-1074" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-6-1074'>

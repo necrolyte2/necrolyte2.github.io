@@ -33,7 +33,7 @@ We headed out to a place that we saw the day before when looking for a breakfast
   </p>
 </div>
 
-Back to the apartment to gather our bags and head to the airport. <span style="line-height: 1.5em;">It eventually had to end <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>
+Back to the apartment to gather our bags and head to the airport. <span style="line-height: 1.5em;">It eventually had to end <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>
 
 But with a huge exclamation point! Business class, booyaa!<!--more-->
 

@@ -17,7 +17,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-04-29T11:21:44+00:00
 al2fb_facebook_link_picture:
-  - wordpress=https://tygertown.us/?al2fb_image=1
+  - wordpress=/?al2fb_image=1
 original_post_id:
   - 867
 categories:

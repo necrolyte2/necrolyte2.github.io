@@ -49,4 +49,4 @@ now restart postfix just for a good time
 
 > sudo /etc/init.d/postfix restart
 
-Alright you should be able to send emails to the random mail address that Laconi.ca assigns to the user accounts under their profiles. Don&#8217;t make the same mistake I did and try to send an email from a different address than the one you registered your account with though, it won&#8217;t work <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Alright you should be able to send emails to the random mail address that Laconi.ca assigns to the user accounts under their profiles. Don&#8217;t make the same mistake I did and try to send an email from a different address than the one you registered your account with though, it won&#8217;t work <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

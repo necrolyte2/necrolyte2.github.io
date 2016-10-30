@@ -55,7 +55,7 @@ Here is the board cutting guide that I came up with
 
 So using the schematics and the board cuting guide you can pretty much build the desk. I&#8217;ll go over what I did wrong so if you decide to do this you can avoid some of the dumb things that I did.
 
-  * If you have them cut the boards at the lumber yard make sure you know exactly where you want them to cut otherwise it makes you look really dumb when they cut the board and you realize you gave them the wrong dimensions <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  * If you have them cut the boards at the lumber yard make sure you know exactly where you want them to cut otherwise it makes you look really dumb when they cut the board and you realize you gave them the wrong dimensions <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   * Don&#8217;t forget that when you cut a board, the saw blade is about 1/16&#8243; thick and will change the dimensions of the board. It seemed to work out fine though with the dimensions I used above from the cutting guide.
   * Always drill holes where you are going to put screws through, otherwise you risk splitting the board. Especially if you are putting the screw through the long way of the 2&#215;3&#8217;s as that tends to be with the grain of the wood and will split easily.
   * Measure twice, cut once. I always get burned by this. ALWAYS!
@@ -99,7 +99,7 @@ Things you need
   </div>
   
   <p style="text-align:left;">
-    So from the pictures hopefully you can figure out how to put it together. The desk is not finished yet in the pictures. It is missing the 2 middle 29&#8243; 2&#215;3&#8217;s and the 12&#8243; triangle pieces which I am going to put on today. You might also notice that I had the wrong sizes for the back boards and I cut them 43&#8243; instead of 45&#8243; so I had to put them in line with the back legs instead of inside. It would be easier if they were inside because screwing a nail all the way through the long edge of a 2&#215;3 is a pain(and 3&#8243; screws aren&#8217;t long enough to securely hold them in place <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )
+    So from the pictures hopefully you can figure out how to put it together. The desk is not finished yet in the pictures. It is missing the 2 middle 29&#8243; 2&#215;3&#8217;s and the 12&#8243; triangle pieces which I am going to put on today. You might also notice that I had the wrong sizes for the back boards and I cut them 43&#8243; instead of 45&#8243; so I had to put them in line with the back legs instead of inside. It would be easier if they were inside because screwing a nail all the way through the long edge of a 2&#215;3 is a pain(and 3&#8243; screws aren&#8217;t long enough to securely hold them in place <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )
   </p>
   
   <p style="text-align:left;">

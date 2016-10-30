@@ -4,7 +4,7 @@ title: Creating a cheap internet proxy
 date: 2015-06-12T12:03:06+00:00
 author: tyghe
 layout: post
-guid: https://tygertown.us/?p=1225
+guid: /?p=1225
 permalink: /creating-a-cheap-internet-proxy/
 categories:
   - How To

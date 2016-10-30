@@ -27,7 +27,7 @@ tags:
   </p>
 </div>
 
-I figured I would start this short post with a good XKCD comic which I feel describes any Computer Person&#8217;s life <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I figured I would start this short post with a good XKCD comic which I feel describes any Computer Person&#8217;s life <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 It&#8217;s still hot here
 

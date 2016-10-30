@@ -21,6 +21,6 @@ Anyways, onto the problems of making cheesecakes.
 
 **Problem #3** &#8211; I love processing stuff in my food processor way to much. I don&#8217;t know why, but its fun.
 
-**Problem #4** &#8211; I cry when I find out that I can&#8217;t eat the entire cheesecake right after its done being made <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+**Problem #4** &#8211; I cry when I find out that I can&#8217;t eat the entire cheesecake right after its done being made <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 **Problem #5** &#8211; I now know how to make a cheesecake. This is bad because I instincivly think to myself, &#8220;How big of a cheesecake could I make?&#8221;

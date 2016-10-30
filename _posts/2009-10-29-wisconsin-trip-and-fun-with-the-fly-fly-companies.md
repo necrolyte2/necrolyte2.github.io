@@ -73,7 +73,7 @@ Slept in a bit and when Dad got home we cleaned out the gutters and put in the a
 
 Woke up early and took Zach to school and then headed to work with Dad. We had to go over to a guy&#8217;s house and take his car back to the shop to have the tire looked at. The guy was adamate that he was in dire need of getting his car back ASAP or he would starve. Odd, but we got it back to him in like 20 minutes. Dad and I then went to Office Max and then Culver&#8217;s where I learned that sometimes walking 100 yards is just as fast as trying to drive the 100 yards and trying to find a parking spot that ends up only being about 50 yards from where you last parked.
 
-Zach has built a 4 hole golf course in their back yard so Dad and I wasted some time hitting some balls around and then went and picked up Zach. We then came back and played the 4 holes. Its a pretty cool course and I hope that next time maybe there are 5 or 6 holes <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Zach has built a 4 hole golf course in their back yard so Dad and I wasted some time hitting some balls around and then went and picked up Zach. We then came back and played the 4 holes. Its a pretty cool course and I hope that next time maybe there are 5 or 6 holes <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Later that night we drove up to Green Bay to have dinner and walk around St. Norbert&#8217;s College where Danny goes. I also got to meet his new GF.
 

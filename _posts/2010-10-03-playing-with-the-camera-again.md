@@ -28,11 +28,11 @@ tags:
   - white
 ---
 <p style="text-align:center;">
-  <a href="/wp-content/uploads/2010/10/IMGP7237-1.jpg"><img class="aligncenter size-large wp-image-637" title="Bangkok Night B/W" src="/wp-content/uploads/2010/10/IMGP7237-1-1024x412.jpg" alt="Bangkok Night B/W" width="600" height="241" /></a>
+  <a href="/wp-content/uploads/2010/10/IMGP7237-1.jpg"><img class="aligncenter size-large wp-image-637" title="Bangkok Night B/W" src="/wp-content/uploads/2010/10/IMGP7237-1.jpg" alt="Bangkok Night B/W" width="600" height="241" /></a>
 </p>
 
 The lighting tonight was very interesting with the clouds. I have a Gorilla tripod for my camera so I wrapped it around the balcony&#8217;s metal guard thing. The wind must have moved the camera slightly as the picture was being exposed as it is slightly fuzzy if you zoom in, but from this far out you can&#8217;t really see it. I wasn&#8217;t sure if I liked the B/W or the Color version, but after putting them both here I think the B/W version is cooler.
 
-[<img class="aligncenter size-large wp-image-638" title="Bangkok Night Color" src="/wp-content/uploads/2010/10/IMGP7237-2-1024x412.jpg" alt="Bangkok Night Color" width="600" height="241" />](/blog/wp-content/uploads/2010/10/IMGP7237-2.jpg)
+[<img class="aligncenter size-large wp-image-638" title="Bangkok Night Color" src="/wp-content/uploads/2010/10/IMGP7237-2.jpg" alt="Bangkok Night Color" width="600" height="241" />](/blog/wp-content/uploads/2010/10/IMGP7237-2.jpg)
 
 I was going to make an attempt an an HDR photo as I think with the lighting and all it would have been very cool, but the battery was pretty much dead on my camera. I had to give the batteries the old drop on the ground trick just to get the one picture.

@@ -40,7 +40,7 @@ WPA. WEP. 802.11. Encrypted. Pass-phrase. Uhhgg!! What do all these options mean
 
 I&#8217;ve set this stuff up enough for people and I understand your confusion. I&#8217;ll explain a bit about what each of the important parts are and how to setup your network to be as safe as you can get it with the least amount of hassle.<!--more-->First off, as of right now, you cannot create a 100% cracker proof wireless network at home. Just the same, right now you cannot create a 100% fail proof nuclear power plant. What you can do is create the safest possible network. The probability that somebody is going to crack your wireless network to get in and steal something off of your computers is pretty unlikely to begin with. Even if they do successfully crack your wireless network, they have to then hack into your computer. If you are still scared after reading this entire post let me know and I&#8217;ll custom build a tinfoil hat that you can wear to keep the aliens and government from stealing your thoughts 
 
-<img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+<img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 # Your Internet
 
