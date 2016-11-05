@@ -100,8 +100,8 @@ The short of this is, if you shop online, you should probably use your credit ca
 
 So now that I have scared you about using your debit card or maybe I have scared you from shopping online at all, lets look at some other ways to shop online very safely.
 
-  * <a title="Paypal" href="http://www.paypal.com" target="_blank">Paypal</a>
-  * <a title="Google Checkout" href="http://checkout.google.com" target="_blank">Google Checkout</a>
+  * <a title="Paypal" href="https://www.paypal.com" target="_blank">Paypal</a>
+  * <a title="Google Wallet" href="https://wallet.google.com" target="_blank">Google Checkout</a>
 
 There are some others, but quite frankly, I don&#8217;t know of them and these two are the most commonly used. Both of these services are payment systems that websites use to get paid with. You set up an account with the payment system and link it to your bank account and then when you go to a website that supports them, you can securely pay the website without giving anybody else your credit card number.
 

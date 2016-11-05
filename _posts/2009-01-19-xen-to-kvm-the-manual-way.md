@@ -15,8 +15,6 @@ tags:
   - kvm
   - xen
 ---
-Most of the steps are from [here](http://fraise.co.nz/node/7){.external} with a bit more detail and modifications
-  
 **Make a directory for the kvm disk image[s]**
 
 <pre>mkdir /virt/&lt;hostname&gt;</pre>
