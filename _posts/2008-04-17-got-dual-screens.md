@@ -19,4 +19,4 @@ The left monitor is a 2408FP and the right is a 2407FP
 
 The piece of paper is on the left monitor so you can judge the scale of the monitors hugeness.
 
-[![](http://lh5.ggpht.com/vallardt/SAgajjKmJNI/AAAAAAAAAQE/hyIXKtVHPZI/s400/IMGP5232.jpg)](http://picasaweb.google.com/vallardt/Random/photo#5190427768581924050)
+[![alt](http://lh5.ggpht.com/vallardt/SAgajjKmJNI/AAAAAAAAAQE/hyIXKtVHPZI/s400/IMGP5232.jpg)](http://picasaweb.google.com/vallardt/Random/photo#5190427768581924050)

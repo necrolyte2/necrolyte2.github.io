@@ -12,4 +12,4 @@ categories:
   - Uncategorized
 format: image
 ---
-![](http://failblog.files.wordpress.com/2009/08/fail-owned-frisbee-catch-fail.jpg?w=429&h=569)
+![alt](http://failblog.files.wordpress.com/2009/08/fail-owned-frisbee-catch-fail.jpg?w=429&h=569)

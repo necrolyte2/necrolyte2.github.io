@@ -11,7 +11,7 @@ original_post_id:
 categories:
   - Pictures
 ---
-[![](http://lh4.ggpht.com/vallardt/SAuBulSSh8I/AAAAAAAAAQk/W37NtAj8XdA/s144/RainbowHouse.jpg)](http://picasaweb.google.com/vallardt/Random/photo#5191385632757417922)
+[![alt](http://lh4.ggpht.com/vallardt/SAuBulSSh8I/AAAAAAAAAQk/W37NtAj8XdA/s144/RainbowHouse.jpg)](http://picasaweb.google.com/vallardt/Random/photo#5191385632757417922)
 
 So I&#8217;m sitting in my room with my blinds open Friday after work and I look outside and notice this. I quickly grabbed my camera and popped a few shots. The lighting outside was crazy, something with the clouds and the sunset made it very eerie out.
 

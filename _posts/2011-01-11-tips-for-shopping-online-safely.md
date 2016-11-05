@@ -67,7 +67,7 @@ HTTP means that you are telling the truck to use a glass trailer. HTTPS means yo
 
 <span style="color:#000080;">You have now just completed a secure data transaction using a semi-truck example. </span>
 
-<span style="color:#ff6600;"><span style="color:#000080;">I made a simple Google Drawing to show this transaction.</span><br /> </span> ![](https://docs.google.com/drawings/pub?id=17fEyUdSYiNpvDFEe1Ih2Vu0iae56mmdfqry49WbGd-A&w=692&h=495)
+<span style="color:#ff6600;"><span style="color:#000080;">I made a simple Google Drawing to show this transaction.</span><br /> </span> ![alt](https://docs.google.com/drawings/pub?id=17fEyUdSYiNpvDFEe1Ih2Vu0iae56mmdfqry49WbGd-A&w=692&h=495)
 
 # Password Strength
 

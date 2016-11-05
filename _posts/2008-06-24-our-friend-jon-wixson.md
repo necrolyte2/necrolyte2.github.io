@@ -18,11 +18,11 @@ What can I say? Anybody who hasn&#8217;t met him is missing an incredible person
   
 <br /
   
-[![](http://lh6.ggpht.com/vallardt/SGHCz2x93dI/AAAAAAAAAYc/z-TUgTin7s8/s144/IMGP5486.jpg)](http://picasaweb.google.com/vallardt/Friends/photo#5215664039605951954)
+[![alt](http://lh6.ggpht.com/vallardt/SGHCz2x93dI/AAAAAAAAAYc/z-TUgTin7s8/s144/IMGP5486.jpg)](http://picasaweb.google.com/vallardt/Friends/photo#5215664039605951954)
   
 
   
-[![](http://lh4.ggpht.com/vallardt/SGHC5R3V1WI/AAAAAAAAAYk/Hhov_5wEdjA/s144/IMGP5487.jpg)](http://picasaweb.google.com/vallardt/Friends/photo#5215664132775597410)
+[![alt](http://lh4.ggpht.com/vallardt/SGHC5R3V1WI/AAAAAAAAAYk/Hhov_5wEdjA/s144/IMGP5487.jpg)](http://picasaweb.google.com/vallardt/Friends/photo#5215664132775597410)
   
 <br /
   
