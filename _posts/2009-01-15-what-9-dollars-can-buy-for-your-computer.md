@@ -17,7 +17,7 @@ tags:
   - zipzoomfly
 ---
 <div id="attachment_132" style="width: 310px" class="wp-caption alignnone">
-  <a href="/wp-content/uploads/2009/01/imgp5982.jpg"><img class="size-medium wp-image-132" title="Corsair Ram" src="/wp-content/uploads/2009/01/imgp5982-300x140.jpg" alt="DHX 6400C4" width="300" height="140" /></a>
+  <a href="/wp-content/uploads/2009/01/imgp5982.jpg"><img class="size-medium wp-image-132" title="Corsair Ram" src="/wp-content/uploads/2009/01/imgp5982.jpg" alt="DHX 6400C4" width="300" height="140" /></a>
   
   <p class="wp-caption-text">
     DHX 6400C4

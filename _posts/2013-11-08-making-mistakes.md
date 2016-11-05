@@ -25,7 +25,7 @@ Now lets drop out of that euphoric dreamy world and get a bit closer to reality.
 Let&#8217;s take a look at the word intelligence:
 
 <div id="attachment_1015" style="width: 527px" class="wp-caption aligncenter">
-  <a href="http://162.243.87.189/wp-content/uploads/2013/11/intelligence.png"><img class="size-full wp-image-1015 " alt="From Google" src="http://162.243.87.189/wp-content/uploads/2013/11/intelligence.png" width="517" height="251" /></a>
+  <a href="/wp-content/uploads/2013/11/intelligence.png"><img class="size-full wp-image-1015 " alt="From Google" src="/wp-content/uploads/2013/11/intelligence.png" width="517" height="251" /></a>
   
   <p class="wp-caption-text">
     From Google

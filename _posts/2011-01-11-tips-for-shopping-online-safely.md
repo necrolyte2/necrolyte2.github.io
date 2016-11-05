@@ -35,16 +35,6 @@ First off, I&#8217;m not a security expert, nor should you expect that if you fo
 
 The first thing is that you should always..ALWAYS, yes I used all capital letters so it is very important, ALWAYS make sure that you see https and that lock symbol in your address bar when logging in as well as when you are checking out or putting any kind of personal information that you don&#8217;t want anybody else to know.
 
-<div id="attachment_661" style="width: 77px" class="wp-caption alignnone">
-  <a href="/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png"><img class="size-full wp-image-661" title="SSL Lock" src="/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png" alt="SSL lock image" width="67" height="28" /></a>
-  
-  <p class="wp-caption-text">
-    SSL lock image
-  </p>
-</div>
-
-The image above is taken from Google Chrome, but all browsers have similar icons somewhere on the page.
-
 Normally when you view pages you use an address that looks similar to this:
 
 [http://www.gmail.com](http://www.gmail.com "Gmail http")

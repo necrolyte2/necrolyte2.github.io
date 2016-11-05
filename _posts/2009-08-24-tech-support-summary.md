@@ -13,4 +13,4 @@ categories:
 ---
 Haha, XKCD hit this one on the head
   
-<img src='http://imgs.xkcd.com/comics/tech_support_cheat_sheet.png' width='500' />
+<img alt="xkcd cheat sheet" src='http://imgs.xkcd.com/comics/tech_support_cheat_sheet.png' width='500' />

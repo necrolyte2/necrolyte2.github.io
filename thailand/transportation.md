@@ -5,25 +5,6 @@ date: 2010-06-15T03:08:46+00:00
 author: tyghe
 layout: page
 guid: http://tygertown.us/blog/?page_id=550
-wordbooker_options:
-  - 'a:30:{s:23:"wordbook_default_author";s:1:"0";s:23:"wordbook_extract_length";s:3:"256";s:26:"wordbooker_publish_default";s:2:"on";s:24:"wordbook_publish_no_user";s:2:"on";s:25:"wordbooker_like_share_too";s:2:"on";s:27:"wordbooker_like_button_show";s:2:"on";s:21:"wordbooker_like_width";s:3:"250";s:27:"wordbooker_like_button_page";s:2:"on";s:27:"wordbooker_like_button_post";s:2:"on";s:28:"wordbooker_share_button_post";s:2:"on";s:25:"wordbook_fbshare_location";s:6:"bottom";s:24:"wordbook_fblike_location";s:6:"bottom";s:22:"wordbook_fblike_action";s:4:"like";s:27:"wordbook_fblike_colorscheme";s:4:"dark";s:20:"wordbook_fblike_font";s:5:"arial";s:22:"wordbook_fblike_button";s:12:"button_count";s:21:"wordbook_fblike_faces";s:5:"false";s:20:"wordbook_fblike_send";s:5:"false";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbook_republish_time_frame";s:2:"10";s:28:"wordbook_republish_time_obey";s:2:"on";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:19:"wordbook_actionlink";s:3:"300";s:32:"wordbook_description_meta_length";s:3:"350";s:20:"wordbook_comment_get";s:2:"on";s:24:"wordbook_comment_approve";s:2:"on";s:21:"wordbook_comment_push";s:2:"on";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:24:"wordbooker_comment_email";s:18:"vallardt@gmail.com";}'
-wordbooker_thumb:
-  - http://lh6.ggpht.com/_wdJ3rlAqngs/TBcyM-ePU7I/AAAAAAAAChc/GpGcra-YucQ/s288/2010-06-15%2014.48.28.jpg
-wordbooker_extract:
-  - |
-    Transportation
-    There are 7 different ways to get around.
-    
-    	Bus
-    	Skytrain
-    	MRT(Subway)
-    	Taxi
-    	Tuk Tuk
-    	Motor Bike
-    	Boat
-    
-    Each of these have their advantages and disadvantages and I'll detail them below.
-    Here is a great map book for Bangkok.  ...
 original_post_id:
   - 550
 ---
@@ -42,13 +23,13 @@ There are 7 different ways to get around.
 Each of these have their advantages and disadvantages and I&#8217;ll detail them below.
 
 <p style="text-align:left;">
-  Here is a great map book for Bangkok. It is the best one we have found so far. It only costs 250 Baht or about $7 and can be found at pretty much any book store.<br /> <img class="aligncenter" src="http://lh6.ggpht.com/_wdJ3rlAqngs/TBcyM-ePU7I/AAAAAAAAChc/GpGcra-YucQ/s288/2010-06-15%2014.48.28.jpg" alt="" />
+  Here is a great map book for Bangkok. It is the best one we have found so far. It only costs 250 Baht or about $7 and can be found at pretty much any book store.<br /> <img class="aligncenter" src="http://lh6.ggpht.com/_wdJ3rlAqngs/TBcyM-ePU7I/AAAAAAAAChc/GpGcra-YucQ/s288/2010-06-15%2014.48.28.jpg" alt="Map book" />
 </p>
 
 ## Bus
 
 <p style="text-align:left;">
-  The best thing we did was buy the Bangkok Bus Guide from a book store.<br /> <img class="aligncenter" src="http://lh4.ggpht.com/_wdJ3rlAqngs/TBczNYH_5jI/AAAAAAAAChk/DcWp-EHFWbg/s288/2010-06-15%2014.48.18.jpg" alt="" />
+  The best thing we did was buy the Bangkok Bus Guide from a book store.<br /> <img class="aligncenter" src="http://lh4.ggpht.com/_wdJ3rlAqngs/TBczNYH_5jI/AAAAAAAAChk/DcWp-EHFWbg/s288/2010-06-15%2014.48.18.jpg" alt="Bus Book" />
 </p>
 
 Its 99Baht or about $3 and if you want to try the busses you almost have to get it.
