@@ -4,7 +4,7 @@ title: New Restaurant
 date: 2010-10-01T07:51:35+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=611
+guid: /blog/?p=611
 permalink: /new-restaurant/
 wp-esprit-picasa-meta-description:
   - 

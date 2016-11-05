@@ -4,7 +4,7 @@ title: New portion of the website
 date: 2009-10-16T10:58:54+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=362
+guid: /blog/?p=362
 permalink: /new-portion-of-the-website/
 original_post_id:
   - 362

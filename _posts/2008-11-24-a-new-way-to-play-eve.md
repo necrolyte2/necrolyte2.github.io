@@ -4,7 +4,7 @@ title: A new way to play Eve
 date: 2008-11-24T22:05:51+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=127
+guid: /blog/?p=127
 permalink: /a-new-way-to-play-eve/
 original_post_id:
   - 127

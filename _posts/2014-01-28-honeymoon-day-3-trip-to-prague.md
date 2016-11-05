@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 3 &#8212; Trip to Prague'
 date: 2014-01-28T06:19:33+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1033
+guid: /?p=1033
 permalink: /honeymoon-day-3-trip-to-prague/
 categories:
   - Honeymoon
@@ -79,4 +79,4 @@ After dinner the guy held my coat out to put it on me but I just took it from hi
 
 When we get back we book a tour to go see the <a title="Prague Castle" href="http://en.wikipedia.org/wiki/Prague_Castle" target="_blank">Prague Castle</a> and then back to our room for sleep time.
 
-[Day 2](http://tygertown.us/honeymoon-day-2-cesky-krumlov/ "Honeymoon — Day 2 — Cesky Krumlov")  [Day 4](http://tygertown.us/honeymoon-day-4-prague-castle/ "Honeymoon — Day 4 — Prague Castle")
+[Day 2](/honeymoon-day-2-cesky-krumlov/ "Honeymoon — Day 2 — Cesky Krumlov")  [Day 4](/honeymoon-day-4-prague-castle/ "Honeymoon — Day 4 — Prague Castle")

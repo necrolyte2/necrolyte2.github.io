@@ -4,7 +4,7 @@ title: Biking, Frisbee and the Girl
 date: 2009-07-22T12:38:23+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=241
+guid: /blog/?p=241
 permalink: /biking-frisbee-and-the-girl/
 original_post_id:
   - 241
@@ -32,6 +32,6 @@ It has been quite the busy summer. I thought last summer was busy, but I&#8217;d
 
 Here are some pictures from the crapberry(name curtasy of BK)
 
-[<img class="size-medium wp-image-242 alignright" title="HyaliteTT" src="http://tygertown.us/blog/wp-content/uploads/2009/07/HyaliteTT-300x225.jpg" alt="HyaliteTT" width="300" height="225" />](http://tygertown.us/blog/wp-content/uploads/2009/07/HyaliteTT.jpg)
+[<img class="size-medium wp-image-242 alignright" title="HyaliteTT" src="/wp-content/uploads/2009/07/HyaliteTT.jpg" alt="HyaliteTT" width="300" height="225" />](/blog/wp-content/uploads/2009/07/HyaliteTT.jpg)
 
-[<img class="alignleft size-medium wp-image-243" title="MelLewis&ClarkRR" src="http://tygertown.us/blog/wp-content/uploads/2009/07/MelLewisClarkRR-300x225.jpg" alt="MelLewis&ClarkRR" width="300" height="225" />](http://tygertown.us/blog/wp-content/uploads/2009/07/MelLewisClarkRR.jpg)
+[<img class="alignleft size-medium wp-image-243" title="MelLewis&ClarkRR" src="/wp-content/uploads/2009/07/MelLewisClarkRR.jpg" alt="MelLewis&ClarkRR" width="300" height="225" />](/blog/wp-content/uploads/2009/07/MelLewisClarkRR.jpg)

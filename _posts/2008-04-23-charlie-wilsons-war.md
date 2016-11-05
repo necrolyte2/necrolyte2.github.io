@@ -4,7 +4,7 @@ title: 'Charlie Wilson&#8217;s War'
 date: 2008-04-23T00:05:05+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=20
+guid: /blog/?p=20
 permalink: /charlie-wilsons-war/
 original_post_id:
   - 20

@@ -4,7 +4,7 @@ title: Playing around with new Micro Blogs and such
 date: 2008-10-12T12:19:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=103
+guid: /blog/?p=103
 permalink: /playing-around-with-new-micro-blogs-and-such/
 original_post_id:
   - 103

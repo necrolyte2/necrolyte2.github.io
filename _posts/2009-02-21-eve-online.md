@@ -4,7 +4,7 @@ title: 'Eve Online &#8211;'
 date: 2009-02-21T15:14:24+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=145
+guid: /blog/?p=145
 permalink: /eve-online/
 original_post_id:
   - 145

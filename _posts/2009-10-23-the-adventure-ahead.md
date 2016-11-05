@@ -4,7 +4,7 @@ title: The Adventure Ahead
 date: 2009-10-23T07:00:43+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=351
+guid: /blog/?p=351
 permalink: /the-adventure-ahead/
 original_post_id:
   - 351

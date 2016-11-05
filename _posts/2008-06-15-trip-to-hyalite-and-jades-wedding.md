@@ -4,7 +4,7 @@ title: 'Trip to Hyalite and Jade&#8217;s Wedding'
 date: 2008-06-15T10:47:03+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=51
+guid: /blog/?p=51
 permalink: /trip-to-hyalite-and-jades-wedding/
 original_post_id:
   - 51

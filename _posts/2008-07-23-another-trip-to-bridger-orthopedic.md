@@ -4,7 +4,7 @@ title: Another trip to Bridger Orthopedic
 date: 2008-07-23T18:45:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=72
+guid: /blog/?p=72
 permalink: /another-trip-to-bridger-orthopedic/
 original_post_id:
   - 72

@@ -4,7 +4,7 @@ title: 'Thanksgiving in the white&#8230;'
 date: 2010-11-29T01:42:30+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=652
+guid: /blog/?p=652
 permalink: /thanksgiving-in-the-white/
 wordbooker_options:
   - 'a:10:{s:18:"wordbook_noncename";s:10:"da6b50ebbc";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
@@ -37,7 +37,7 @@ Sand!
 
 For all of you back in Montanamerica, here is the story of how I spent my Thanksgiving.
 
-Mel and I headed down to Phuket, Thailand for this last weekend. We took a flight from AirAsia.com and arrived Thursday morning. We tootled around on the beach and ate lunch at a beach side restaurant as well as dinner. The next morning we hopped on a tour that took us to Koh Phi Phi islands and also to Kai Island. If you have seen the movie <a title="The Beach IMDB" href="http://www.imdb.com/title/tt0163978/" target="_blank">The Beach</a>, you might recognize the first pictures(but probably not because of all of the boats and tourists  <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
+Mel and I headed down to Phuket, Thailand for this last weekend. We took a flight from AirAsia.com and arrived Thursday morning. We tootled around on the beach and ate lunch at a beach side restaurant as well as dinner. The next morning we hopped on a tour that took us to Koh Phi Phi islands and also to Kai Island. If you have seen the movie <a title="The Beach IMDB" href="http://www.imdb.com/title/tt0163978/" target="_blank">The Beach</a>, you might recognize the first pictures(but probably not because of all of the boats and tourists  <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
 
 We had the lucky experience of having our boat break down about 15 minutes into the trip, thankfully not half way through, so we had to come back and get on another boat.
 
@@ -59,7 +59,7 @@ After spending about 20 minutes on the beach we went directly across the bay and
 
 [youtube http://www.youtube.com/watch?v=bKXV7KGg4Hw&fs=1&hl=en_US]
 
-They only let us snorkel for about 15 minutes before we left. I feel this was probably the highlight of the trip, and it was so short <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+They only let us snorkel for about 15 minutes before we left. I feel this was probably the highlight of the trip, and it was so short <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <a rel="lightbox[652]" href="http://lh3.ggpht.com/_wdJ3rlAqngs/TPNSx5U8yMI/AAAAAAAADCc/BGF34TVB__w/s800/IMGP0749.JPG"></a><a rel="lightbox[652]" href="http://lh6.ggpht.com/_wdJ3rlAqngs/TPNSyi6IsFI/AAAAAAAADCc/Pz2OTT3jiJg/s800/IMGP0757.JPG"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/TPNSyi6IsFI/AAAAAAAADCc/Pz2OTT3jiJg/s200/IMGP0757.JPG" alt="IMGP0757.JPG" /></a><a rel="lightbox[652]" href="http://lh3.ggpht.com/_wdJ3rlAqngs/TPNSzFQHeXI/AAAAAAAADCc/Usutczqbe3Y/s800/IMGP0758.JPG"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/TPNSzFQHeXI/AAAAAAAADCc/Usutczqbe3Y/s200/IMGP0758.JPG" alt="IMGP0758.JPG" /></a><a rel="lightbox[652]" href="http://lh3.ggpht.com/_wdJ3rlAqngs/TPNS0F3fpXI/AAAAAAAADCc/oUDHPGfRdeg/s800/IMGP0760.JPG"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/TPNS0F3fpXI/AAAAAAAADCc/oUDHPGfRdeg/s200/IMGP0760.JPG" alt="IMGP0760.JPG" /></a><a rel="lightbox[652]" href="http://lh4.ggpht.com/_wdJ3rlAqngs/TPNS1COIr_I/AAAAAAAADCc/963Qp0413lE/s800/IMGP0763.JPG"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/TPNS1COIr_I/AAAAAAAADCc/963Qp0413lE/s200/IMGP0763.JPG" alt="IMGP0763.JPG" /></a><a rel="lightbox[652]" href="http://lh5.ggpht.com/_wdJ3rlAqngs/TPNS2FZlNyI/AAAAAAAADCc/E2EemL7NOl4/s800/IMGP0768.JPG"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/TPNS2FZlNyI/AAAAAAAADCc/E2EemL7NOl4/s200/IMGP0768.JPG" alt="IMGP0768.JPG" /></a>
 
@@ -79,7 +79,7 @@ The next day was the one day frisbee tournament(One Day Hat) which was the real 
 
 My thanks to James for putting on the awesome tournament.
 
-After the tournament we went back to the beach we were staying near(Surin Beach) and all 44 people from the tournament went to the rock bar, which was on the end of the beach on the rocks. It was very nice as everybody jumped into the ocean with their frisbee clothes on and we threw the frisbee around and took a sea shower <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+After the tournament we went back to the beach we were staying near(Surin Beach) and all 44 people from the tournament went to the rock bar, which was on the end of the beach on the rocks. It was very nice as everybody jumped into the ocean with their frisbee clothes on and we threw the frisbee around and took a sea shower <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Most of the players were slated to leave Sunday(Mel and I included), but mostly later at night, so we all met up on the beach and rented seats + umbrellas. The day was spent talking, swimming, short games of ultimate + volley ball. It was very fun and relaxing.
 

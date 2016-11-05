@@ -4,7 +4,7 @@ title: MySQL Ubuntu OpenSSL Support
 date: 2009-10-21T10:51:51+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=365
+guid: /blog/?p=365
 permalink: /mysql-ubuntu-openssl-support/
 original_post_id:
   - 365

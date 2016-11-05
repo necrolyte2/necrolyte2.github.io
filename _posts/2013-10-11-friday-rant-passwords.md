@@ -4,7 +4,7 @@ title: 'Friday Rant &#8212; Passwords'
 date: 2013-10-11T06:22:41+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1000
+guid: /?p=1000
 permalink: /friday-rant-passwords/
 al2fb_facebook_link_id:
   - 43800887_10100107494312769

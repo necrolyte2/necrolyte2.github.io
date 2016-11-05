@@ -4,7 +4,7 @@ title: Knee Diagnosis
 date: 2008-05-08T19:07:18+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=30
+guid: /blog/?p=30
 permalink: /knee-diagnosis/
 original_post_id:
   - 30

@@ -4,7 +4,7 @@ title: Liquidating Stuff
 date: 2010-01-15T19:21:30+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=443
+guid: /blog/?p=443
 permalink: /liquidating-stuff/
 original_post_id:
   - 443

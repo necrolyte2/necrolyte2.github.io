@@ -4,7 +4,7 @@ title: Bangkok Daytrip
 date: 2010-10-02T09:01:24+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=631
+guid: /blog/?p=631
 permalink: /bangkok-daytrip/
 wp-esprit-picasa-meta-description:
   - 

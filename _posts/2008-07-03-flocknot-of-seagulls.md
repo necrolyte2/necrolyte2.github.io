@@ -4,7 +4,7 @@ title: Flock(not of Seagulls)
 date: 2008-07-03T09:53:21+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=57
+guid: /blog/?p=57
 permalink: /flocknot-of-seagulls/
 original_post_id:
   - 57

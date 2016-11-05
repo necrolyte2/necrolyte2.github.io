@@ -4,7 +4,7 @@ title: Getting Internet in Thailand
 date: 2010-04-07T04:04:43+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=521
+guid: /blog/?p=521
 permalink: /getting-internet-in-thailand-2/
 wp-esprit-picasa-meta-description:
   - 

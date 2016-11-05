@@ -4,7 +4,7 @@ title: 'Well Brew Tour &#8217;08 has finished'
 date: 2008-08-03T19:47:16+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=75
+guid: /blog/?p=75
 permalink: /well-brew-tour-08-has-finished/
 original_post_id:
   - 75

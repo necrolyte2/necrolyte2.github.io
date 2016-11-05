@@ -4,7 +4,7 @@ title: Embassy Basketball
 date: 2010-03-26T07:24:19+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=510
+guid: /blog/?p=510
 permalink: /embassy-basketball/
 wp-esprit-picasa-meta-description:
   - 

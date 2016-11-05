@@ -4,7 +4,7 @@ title: Daytrip to Ratchaburi
 date: 2010-09-19T18:40:17+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=602
+guid: /blog/?p=602
 permalink: /daytrip-to-ratchaburi/
 wp-esprit-picasa-meta-description:
   - 
@@ -84,4 +84,4 @@ The final resort we stopped at was pretty funny. Imagine driving through the Tha
 
 <a rel="lightbox[602]" href="http://lh6.ggpht.com/_wdJ3rlAqngs/TJY38avil7I/AAAAAAAACxE/ajblb-JrugQ/s800/IMGP0480.JPG"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/TJY38avil7I/AAAAAAAACxE/ajblb-JrugQ/s200/IMGP0480.JPG" alt="IMGP0480.JPG" /></a>
 
-During the trip we also encountered a lady on a moped that had strapped her small child to her back with a piece of cloth. It looked very safe  <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />On the way home we passed 3 small trucks(think Chevy Luv sized trucks) with large bungalows strapped to the back that were at least as large as the truck itself. They were of course traveling down the highway safely at probably 60-80 miles an hour. My phone&#8217;s camera failed to focus and take the picture in both cases so I&#8217;m sorry
+During the trip we also encountered a lady on a moped that had strapped her small child to her back with a piece of cloth. It looked very safe  <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />On the way home we passed 3 small trucks(think Chevy Luv sized trucks) with large bungalows strapped to the back that were at least as large as the truck itself. They were of course traveling down the highway safely at probably 60-80 miles an hour. My phone&#8217;s camera failed to focus and take the picture in both cases so I&#8217;m sorry

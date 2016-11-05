@@ -4,7 +4,7 @@ title: Tricksy Little Variables
 date: 2014-04-18T07:22:17+00:00
 author: tyghe
 layout: post
-guid: https://tygertown.us/?p=1144
+guid: /?p=1144
 permalink: /tricksy-little-variables/
 categories:
   - Friday Linux
@@ -19,7 +19,7 @@ tags:
   - substring
   - variables
 ---
-[Last week](https://tygertown.us/how-many-commands-can-you-memorize/ "How many commands can you memorize") we reviewed a bunch of Linux commands. This week we will go over bash variables and all the fun things that you can do with them.
+[Last week](/how-many-commands-can-you-memorize/ "How many commands can you memorize") we reviewed a bunch of Linux commands. This week we will go over bash variables and all the fun things that you can do with them.
 
 First, we will need to explore a bit about how to use the basics of bash variables. As in any programming language, variables hold values or hold a list of values called an array. That is the basics.
 

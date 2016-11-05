@@ -4,7 +4,7 @@ title: Your Home Wireless Network
 date: 2011-10-13T12:59:13+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=787
+guid: /?p=787
 permalink: /your-home-wireless-network/
 wordbooker_options:
   - 'a:11:{s:18:"wordbook_noncename";s:10:"42f12278c1";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";s:17:"wordbook_new_post";s:1:"1";}'
@@ -40,7 +40,7 @@ WPA. WEP. 802.11. Encrypted. Pass-phrase. Uhhgg!! What do all these options mean
 
 I&#8217;ve set this stuff up enough for people and I understand your confusion. I&#8217;ll explain a bit about what each of the important parts are and how to setup your network to be as safe as you can get it with the least amount of hassle.<!--more-->First off, as of right now, you cannot create a 100% cracker proof wireless network at home. Just the same, right now you cannot create a 100% fail proof nuclear power plant. What you can do is create the safest possible network. The probability that somebody is going to crack your wireless network to get in and steal something off of your computers is pretty unlikely to begin with. Even if they do successfully crack your wireless network, they have to then hack into your computer. If you are still scared after reading this entire post let me know and I&#8217;ll custom build a tinfoil hat that you can wear to keep the aliens and government from stealing your thoughts 
 
-<img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+<img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 # Your Internet
 
@@ -164,7 +164,7 @@ What is my username and password??? I don&#8217;t know because I&#8217;m not s
 </div>
 
 <div>
-  <a href="http://162.243.87.189/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-1-26-16-pm.png"><img class="alignleft size-medium wp-image-789" title="Netgear Example" src="http://tygertown.us/wp-content/uploads/2011/10/Screen-Shot-2011-10-13-at-1.26.16-PM-300x199.png" alt="" width="300" height="199" /></a>Here is an example from a Netgear Wireless Router.
+  <a href="http://162.243.87.189/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-1-26-16-pm.png"><img class="alignleft size-medium wp-image-789" title="Netgear Example" src="/wp-content/uploads/2011/10/Screen-Shot-2011-10-13-at-1.26.16-PM-300x199.png" alt="" width="300" height="199" /></a>Here is an example from a Netgear Wireless Router.
 </div>
 
 ### Wireless Name

@@ -4,7 +4,7 @@ title: Nice Weather
 date: 2008-04-13T16:40:53+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=12
+guid: /blog/?p=12
 permalink: /nice-weather/
 original_post_id:
   - 12

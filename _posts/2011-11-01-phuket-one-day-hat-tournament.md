@@ -4,7 +4,7 @@ title: Phuket One Day Hat Tournament
 date: 2011-11-01T03:58:20+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=796
+guid: /?p=796
 permalink: /phuket-one-day-hat-tournament/
 wordbooker_options:
   - 'a:11:{s:18:"wordbook_noncename";s:10:"1e414a3ae5";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:24:"wordbooker_status_update";s:2:"on";s:29:"wordbooker_status_update_text";s:16:"%title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
@@ -45,7 +45,7 @@ tags:
   - thailand
   - ultimate frisbee
 ---
-Last year Mel and I went to Phuket for a one day ultimate frisbee hat tournament(see post [here](http://tygertown.us/2010/11/thanksgiving-in-the-white/ "Thanksgiving in the white…"))
+Last year Mel and I went to Phuket for a one day ultimate frisbee hat tournament(see post [here](/2010/11/thanksgiving-in-the-white/ "Thanksgiving in the white…"))
 
 This year we stayed at <a title="Map of Naithon Beach" href="http://g.co/maps/fgrdf" target="_blank">Naithon Beach</a> in a very nice(for 800 baht) hotel.
 
@@ -99,6 +99,6 @@ Trying to make a heart
 
 <a title="" href="http://lh6.ggpht.com/-aEEok2MbBH4/Tq9mqW8F7DI/AAAAAAAAEXQ/EymZOGsL01c/s800/IMGP0144.JPG" rel="lightbox[796]"><img src="http://lh6.ggpht.com/-aEEok2MbBH4/Tq9mqW8F7DI/AAAAAAAAEXQ/EymZOGsL01c/s200/IMGP0144.JPG" alt="IMGP0144.JPG" /></a>
 
-Our names in what we think is how you spell them in Thai(Even if it isn&#8217;t, it is now  <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
+Our names in what we think is how you spell them in Thai(Even if it isn&#8217;t, it is now  <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
 
 ![IMGP0145.JPG](http://lh6.ggpht.com/-s24tA7IwkDA/Tq9mrOiyiQI/AAAAAAAAEXU/kJR2cJff0kA/s200/IMGP0145.JPG)

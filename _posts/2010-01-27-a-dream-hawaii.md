@@ -4,7 +4,7 @@ title: 'A Dream : Hawaii'
 date: 2010-01-27T19:55:38+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=454
+guid: /blog/?p=454
 permalink: /a-dream-hawaii/
 original_post_id:
   - 454

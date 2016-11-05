@@ -4,7 +4,7 @@ title: Panoramic of Bangkok
 date: 2010-04-29T05:17:21+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=537
+guid: /blog/?p=537
 permalink: /panoramic-of-bangkok/
 wp-esprit-picasa-meta-description:
   - 

@@ -4,7 +4,7 @@ title: Latest news from the Tyger town hall
 date: 2009-06-01T17:54:58+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=228
+guid: /blog/?p=228
 permalink: /latest-news-from-the-tyger-town-hall/
 original_post_id:
   - 228

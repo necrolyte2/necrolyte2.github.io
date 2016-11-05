@@ -4,7 +4,7 @@ title: Garage Gluster Cluster
 date: 2013-09-20T08:01:15+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=963
+guid: /?p=963
 permalink: /garage-gluster-cluster/
 al2fb_facebook_link_id:
   - 43800887_1000036731649
@@ -31,7 +31,7 @@ Recently I had the realization that all of my pictures from the past 10 years we
 
 My first thoughts were, put them in Dropbox. Ohh wait, I have 80GB of photos and don&#8217;t want to pay for an upgraded Dropbox plan(~$10/mo for 100GB). How about Google Drive? Much cheaper for the same amount of storage(~$5/mo for 100GB). Well, maybe I&#8217;ll think about how I can do a fun project at home since I actually need more like 2-3TB of storage to hold all of my &#8220;backed up&#8221; movies.
 
-UPDATE: [Here is the post](http://tygertown.us/2013/09/garage-gluster-cluster-hardware/ "Garage Gluster Cluster Hardware") with all of the more detailed setup/specs
+UPDATE: [Here is the post](/2013/09/garage-gluster-cluster-hardware/ "Garage Gluster Cluster Hardware") with all of the more detailed setup/specs
 
 <!--more-->
 

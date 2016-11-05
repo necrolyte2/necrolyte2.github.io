@@ -4,7 +4,7 @@ title: Fenom Penha
 date: 2012-03-15T21:54:06+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=843
+guid: /?p=843
 permalink: /fenom-penha/
 wp-esprit-picasa-meta-description:
   - 
@@ -37,7 +37,7 @@ In order to win you need to throw it the furthest and have somebody catch the di
 
 Really fun tournament. Our team was really fun to play on and we had a solid set of players which worked out great in the end as we went undefeated the whole tournament. 7-0. YAY!! My first Frisbee championship win! Yay for me!
 
-The next two days we spent touring around. Because of the way the Picasa plugin works for this site and I&#8217;m too lazy to move the pictures I&#8217;ll show you our tuk tuk driver for our trip to the airport on our last day first <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+The next two days we spent touring around. Because of the way the Picasa plugin works for this site and I&#8217;m too lazy to move the pictures I&#8217;ll show you our tuk tuk driver for our trip to the airport on our last day first <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <a title="" href="http://lh5.ggpht.com/-aktnxquXCAw/T2K0TeLxKUI/AAAAAAAAFeg/TsijEUgjkgc/s800/IMG_20120314_103814.jpg" rel="lightbox[843]"><img src="http://lh5.ggpht.com/-aktnxquXCAw/T2K0TeLxKUI/AAAAAAAAFeg/TsijEUgjkgc/s200/IMG_20120314_103814.jpg" alt="IMG_20120314_103814.jpg" /></a>
 

@@ -4,7 +4,7 @@ title: Flight of the Gibbon
 date: 2010-08-21T18:39:00+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=581
+guid: /blog/?p=581
 permalink: /flight-of-the-gibbon/
 wp-esprit-picasa-meta-description:
   - 

@@ -4,7 +4,7 @@ title: The Game Greed
 date: 2009-11-30T19:03:00+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=416
+guid: /blog/?p=416
 permalink: /the-game-greed/
 original_post_id:
   - 416

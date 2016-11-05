@@ -4,7 +4,7 @@ title: From Door Slab to Working Door
 date: 2008-10-04T18:06:46+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=93
+guid: /blog/?p=93
 permalink: /from-door-slab-to-working-door/
 original_post_id:
   - 93

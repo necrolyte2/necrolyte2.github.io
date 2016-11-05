@@ -4,7 +4,7 @@ title: Toes and Pinkies. Do we need them?
 date: 2008-05-12T17:49:17+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=32
+guid: /blog/?p=32
 permalink: /toes-and-pinkies-do-we-need-them/
 original_post_id:
   - 32

@@ -4,7 +4,7 @@ title: Follow-up X-rays
 date: 2008-07-22T00:12:41+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=70
+guid: /blog/?p=70
 permalink: /follow-up-x-rays/
 original_post_id:
   - 70

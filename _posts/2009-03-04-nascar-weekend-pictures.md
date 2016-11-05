@@ -4,7 +4,7 @@ title: Nascar Weekend Pictures
 date: 2009-03-04T03:49:36+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=158
+guid: /blog/?p=158
 permalink: /nascar-weekend-pictures/
 original_post_id:
   - 158

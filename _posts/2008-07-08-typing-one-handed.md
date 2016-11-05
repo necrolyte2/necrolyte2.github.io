@@ -4,7 +4,7 @@ title: Typing one handed
 date: 2008-07-08T22:02:03+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=63
+guid: /blog/?p=63
 permalink: /typing-one-handed/
 original_post_id:
   - 63

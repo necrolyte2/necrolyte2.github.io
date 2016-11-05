@@ -4,7 +4,7 @@ title: Corn Maze Adventure
 date: 2009-11-06T12:28:42+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=378
+guid: /blog/?p=378
 permalink: /corn-maze-adventure/
 original_post_id:
   - 378

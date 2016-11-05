@@ -4,7 +4,7 @@ title: Again, the site moves
 date: 2013-12-18T07:52:15+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1017
+guid: /?p=1017
 permalink: /again-the-site-moves/
 categories:
   - Reviews

@@ -4,7 +4,7 @@ title: 'The Honeymoon &#8211; Day 1'
 date: 2014-01-25T21:13:20+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1026
+guid: /?p=1026
 permalink: /the-honeymoon-day-1/
 categories:
   - Honeymoon
@@ -52,7 +52,7 @@ I&#8217;m feeling pretty confident at this point that I can get an earlier bus w
 
 Later she tells me there was never an open seat, and that she had accidentally looked at the wrong date initially. I&#8217;m not too upset. Just rebook my old seat on the later bus and I&#8217;ll locate some tasty beverage vendor and take in some sights while I wait. Then she throws out that uhh ohh again. This time I already know what happened. High demand seats and my old seat is now going to be occupied by somebody quick on the internet. Not sure if I&#8217;m super tired or what, but I&#8217;m not really worried or upset at all. She is very apologetic and says that there is a bus at 11:15 from the same location that I would have had to go to anyways but I will have to transfer someplace. She draws some diagrams and puts what looks to me like random words on the diagram and explains it to me. Here is said diagram
   
-[<img class="alignnone " title="wp-1390697856350.jpg" alt="image" src="http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390697856350.jpg" width="400" height="900" />](http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390697856350.jpg)
+[<img class="alignnone " title="wp-1390697856350.jpg" alt="image" src="/wp-content/uploads/2014/01/wpid-wp-1390697856350.jpg" width="400" height="900" />](/wp-content/uploads/2014/01/wpid-wp-1390697856350.jpg)
 
 So the in instructions are too take the 100 bus just outside from where I am to the Zliciln metro. Then take metro B to Andel station. The arrows in the picture were her saying turn right. She explained it but due to excitement and lack of sleep I took it as exit the train and go right&#8230;
 
@@ -60,15 +60,15 @@ But first walk to the right of this booth and  purchase my metro ticket for the
   
 I get up to the counter and point to the name of my destination on my ticket like this
   
-[<img class="alignnone " title="wp-1390698637118.jpg" alt="image" src="http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390698637118.jpg" width="400" height="600" />](http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390698637118.jpg)
+[<img class="alignnone " title="wp-1390698637118.jpg" alt="image" src="/wp-content/uploads/2014/01/wpid-wp-1390698637118.jpg" width="400" height="600" />](/wp-content/uploads/2014/01/wpid-wp-1390698637118.jpg)
 
 He gives me the look of &#8220;I don&#8217;t know where that is&#8221; so I assume he can&#8217;t read the writing. I try pointing to the ticket which is printed
 
-[<img class="alignnone " title="wp-1390698741103.jpg" alt="image" src="http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390698741103.jpg" width="400" height="600" />](http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390698741103.jpg)
+[<img class="alignnone " title="wp-1390698741103.jpg" alt="image" src="/wp-content/uploads/2014/01/wpid-wp-1390698741103.jpg" width="400" height="600" />](/wp-content/uploads/2014/01/wpid-wp-1390698741103.jpg)
 
 That seems to do the trick. He yanks out the huge metro map and draws some circles and lines and stresses that to get where I want I **must stay still in the tube before I get to the surface**. Ok. **Stay in the tube before I get to the surface**. Alright gotcha.
 
-[<img class="alignnone " title="wp-1390698948905.jpg" alt="image" src="http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390698948905.jpg" width="400" height="600" />](http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390698948905.jpg)
+[<img class="alignnone " title="wp-1390698948905.jpg" alt="image" src="/wp-content/uploads/2014/01/wpid-wp-1390698948905.jpg" width="400" height="600" />](/wp-content/uploads/2014/01/wpid-wp-1390698948905.jpg)
 
 Later I realize he had written Kostelecka which is just the end of the line for whatever the purple metro line is on the map.
 
@@ -85,7 +85,7 @@ No time to get a SIM card for my phone like I had planned. Out the doors and, he
 Bus pulls up on time. Get out my handy piece of paper and find next destination hop for when I get off the bus. Says Andel. Ok. Bus arrives at destination. Go down steps. Standard tracks on both sides. I make the mistake of not realizing I&#8217;m at the end of the line and that I can only get on one of the trains. Train pulls up on the right side. I&#8217;m frantically trying to figure out if I should get on this train or if it will be going the wrong way.. It leaves. Great. Now a train arrives on both sides.. Decision time&#8230; Ohh wait nobody is getting on the train on the left only the train on the right. The realization that I&#8217;m an idiot sinks in and I get on the train. 9 stops to Andel then need to find Na Knizeci which I repeat in my head as Na Knot-going-to-remember-this.
 
 <div style="width: 610px" class="wp-caption alignnone">
-  <a href="http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390699984170.jpg"><img title="wp-1390699984170.jpg" alt="image" src="http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390699984170.jpg" width="600" height="400" /></a>
+  <a href="/wp-content/uploads/2014/01/wpid-wp-1390699984170.jpg"><img title="wp-1390699984170.jpg" alt="image" src="/wp-content/uploads/2014/01/wpid-wp-1390699984170.jpg" width="600" height="400" /></a>
   
   <p class="wp-caption-text">
     All the papers that finally get me to the bus terminal
@@ -98,7 +98,7 @@ Arrive at the Andel station and look for signs that say Na whatever. Can&#8217;t
   
 I&#8217;m off to
   
-[<img class="alignnone " title="wp-1390700753874.jpg" alt="image" src="http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390700753874.jpg" width="400" height="600" />](http://tygertown.us/wp-content/uploads/2014/01/wpid-wp-1390700753874.jpg)
+[<img class="alignnone " title="wp-1390700753874.jpg" alt="image" src="/wp-content/uploads/2014/01/wpid-wp-1390700753874.jpg" width="400" height="600" />](/wp-content/uploads/2014/01/wpid-wp-1390700753874.jpg)
 
 this place then to transfer to my next bus somehow.
 

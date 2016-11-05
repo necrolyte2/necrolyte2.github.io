@@ -4,7 +4,7 @@ title: 'Trouble in Vegas &#8217;09'
 date: 2009-02-14T22:44:14+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=143
+guid: /blog/?p=143
 permalink: /trouble-in-vegas-09/
 original_post_id:
   - 143

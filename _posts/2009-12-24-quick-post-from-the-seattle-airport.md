@@ -4,7 +4,7 @@ title: Quick post from the Seattle Airport
 date: 2009-12-24T17:57:36+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/2009/12/quick-post-from-the-seattle-airport/
+guid: /blog/2009/12/quick-post-from-the-seattle-airport/
 permalink: /quick-post-from-the-seattle-airport/
 original_post_id:
   - 419

@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 8 &#8212; Back to Prague'
 date: 2014-02-03T08:00:58+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1081
+guid: /?p=1081
 permalink: /honeymoon-day-8-back-to-prague/
 categories:
   - Honeymoon
@@ -164,4 +164,4 @@ I asked if Absinth could be drank without sugar and they said it could, but woul
 
 It is a good thing this place is just down the road maybe 50 meters from our apartment. Even though we drank about a liter of water along with these drinks, it was straight to bed after this place. Worth the visit though for sure.
 
-[Day 7](http://tygertown.us/honeymoon-day-7-karlovy-vary/ "Honeymoon — Day 7 — Karlovy Vary")  Day 9
+[Day 7](/honeymoon-day-7-karlovy-vary/ "Honeymoon — Day 7 — Karlovy Vary")  Day 9

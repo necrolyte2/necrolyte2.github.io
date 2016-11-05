@@ -4,7 +4,7 @@ title: Implement Gravatar for your theme
 date: 2009-08-24T14:56:12+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=270
+guid: /blog/?p=270
 permalink: /implement-gravatar-for-your-theme/
 original_post_id:
   - 270

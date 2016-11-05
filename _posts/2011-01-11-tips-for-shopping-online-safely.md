@@ -4,7 +4,7 @@ title: Tips for shopping online safely
 date: 2011-01-11T04:44:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=658
+guid: /blog/?p=658
 permalink: /tips-for-shopping-online-safely/
 wordbooker_options:
   - 'a:10:{s:18:"wordbook_noncename";s:10:"fba2e6851a";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
@@ -36,7 +36,7 @@ First off, I&#8217;m not a security expert, nor should you expect that if you fo
 The first thing is that you should always..ALWAYS, yes I used all capital letters so it is very important, ALWAYS make sure that you see https and that lock symbol in your address bar when logging in as well as when you are checking out or putting any kind of personal information that you don&#8217;t want anybody else to know.
 
 <div id="attachment_661" style="width: 77px" class="wp-caption alignnone">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png"><img class="size-full wp-image-661" title="SSL Lock" src="http://tygertown.us/blog/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png" alt="SSL lock image" width="67" height="28" /></a>
+  <a href="/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png"><img class="size-full wp-image-661" title="SSL Lock" src="/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png" alt="SSL lock image" width="67" height="28" /></a>
   
   <p class="wp-caption-text">
     SSL lock image

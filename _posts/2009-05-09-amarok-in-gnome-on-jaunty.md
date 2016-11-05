@@ -4,7 +4,7 @@ title: Amarok in Gnome on Jaunty
 date: 2009-05-09T12:23:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=224
+guid: /blog/?p=224
 permalink: /amarok-in-gnome-on-jaunty/
 original_post_id:
   - 224

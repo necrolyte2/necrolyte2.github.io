@@ -4,7 +4,7 @@ title: Winter is here
 date: 2008-12-20T13:23:25+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=129
+guid: /blog/?p=129
 permalink: /winter-is-here/
 original_post_id:
   - 129

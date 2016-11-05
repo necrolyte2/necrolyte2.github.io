@@ -4,7 +4,7 @@ title: Save time using free stuff
 date: 2009-04-25T12:47:43+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=207
+guid: /blog/?p=207
 permalink: /save-time-using-free-stuff/
 original_post_id:
   - 207
@@ -78,7 +78,7 @@ Here is a snapshot of what it looks like
 
  
 
-[<img class="aligncenter size-medium wp-image-208" title="Gmail" src="http://tygertown.us/blog/wp-content/uploads/2009/04/gmail-300x182.png" alt="Gmail" width="300" height="182" />](http://tygertown.us/blog/wp-content/uploads/2009/04/gmail.png)
+[<img class="aligncenter size-medium wp-image-208" title="Gmail" src="/wp-content/uploads/2009/04/gmail-300x182.png" alt="Gmail" width="300" height="182" />](/blog/wp-content/uploads/2009/04/gmail.png)
 
 <h1 style="text-align:center;">
   <strong><span style="text-decoration:underline;">Documents</span></strong>

@@ -4,7 +4,7 @@ title: Our New Apartment
 date: 2010-03-31T23:58:08+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=513
+guid: /blog/?p=513
 permalink: /our-new-apartment/
 wp-esprit-picasa-meta-description:
   - 

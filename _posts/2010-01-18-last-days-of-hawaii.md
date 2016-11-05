@@ -4,7 +4,7 @@ title: Last days of Hawaii
 date: 2010-01-18T12:42:51+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=445
+guid: /blog/?p=445
 permalink: /last-days-of-hawaii/
 original_post_id:
   - 445

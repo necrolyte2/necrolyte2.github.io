@@ -4,7 +4,7 @@ title: SmartCard Authentication
 date: 2014-07-01T10:40:14+00:00
 author: tyghe
 layout: post
-guid: https://tygertown.us/?p=1160
+guid: /?p=1160
 permalink: /ad-smartcard-authentication/
 categories:
   - How To
@@ -188,7 +188,7 @@ Not really sure if this is the correct ntp config, but it seems to be working
 
 ### Setup AD certificates
 
-[setup_certs](https://tygertown.us/wp-content/uploads/2014/07/setup_certs.zip)
+[setup_certs](/wp-content/uploads/2014/07/setup_certs.zip)
   
 Here is a python script I created that should pull all necessary certificates from your AD server and import them where needed.
   

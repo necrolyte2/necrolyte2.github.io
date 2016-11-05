@@ -4,7 +4,7 @@ title: The Game of Eve-Online
 date: 2008-04-17T12:34:07+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=13
+guid: /blog/?p=13
 permalink: /the-game-of-eve-online/
 original_post_id:
   - 13

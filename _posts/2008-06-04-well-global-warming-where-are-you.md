@@ -4,7 +4,7 @@ title: Well Global Warming where are you?
 date: 2008-06-04T10:42:55+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=40
+guid: /blog/?p=40
 permalink: /well-global-warming-where-are-you/
 original_post_id:
   - 40

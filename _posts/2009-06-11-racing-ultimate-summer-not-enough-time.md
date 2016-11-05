@@ -4,7 +4,7 @@ title: 'Racing, Ultimate, Summer&#8230;.Not enough Time'
 date: 2009-06-11T21:28:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=233
+guid: /blog/?p=233
 permalink: /racing-ultimate-summer-not-enough-time/
 original_post_id:
   - 233

@@ -4,7 +4,7 @@ title: Signs that your child is going to be a Nerd
 date: 2008-06-09T09:52:00+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=45
+guid: /blog/?p=45
 permalink: /signs-that-your-child-is-going-to-be-a-nerd/
 original_post_id:
   - 45

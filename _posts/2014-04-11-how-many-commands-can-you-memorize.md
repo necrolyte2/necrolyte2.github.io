@@ -4,7 +4,7 @@ title: How many commands can you memorize
 date: 2014-04-11T09:09:21+00:00
 author: tyghe
 layout: post
-guid: https://tygertown.us/?p=1138
+guid: /?p=1138
 permalink: /how-many-commands-can-you-memorize/
 categories:
   - Friday Linux
@@ -15,7 +15,7 @@ tags:
   - learning
   - linux
 ---
-[Friday Linux](https://tygertown.us/category/friday-linux/http:// "Friday Linux Category") is something I started doing at work for people to get used to the shell environment. I started writing these on our wiki at work, but decided to move them to the web since they are general enough. I will post up the other ones I have done later, but for now, here is today&#8217;s Friday Linux
+[Friday Linux](/category/friday-linux/http:// "Friday Linux Category") is something I started doing at work for people to get used to the shell environment. I started writing these on our wiki at work, but decided to move them to the web since they are general enough. I will post up the other ones I have done later, but for now, here is today&#8217;s Friday Linux
 
 This topic is to simply get you acquainted with what commands are available in the bash shell so you know what is available
   

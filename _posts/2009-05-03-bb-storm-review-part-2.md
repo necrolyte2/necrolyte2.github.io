@@ -4,7 +4,7 @@ title: BB Storm Review Part 2
 date: 2009-05-03T13:12:10+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=221
+guid: /blog/?p=221
 permalink: /bb-storm-review-part-2/
 original_post_id:
   - 221

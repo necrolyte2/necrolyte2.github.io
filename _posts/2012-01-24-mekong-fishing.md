@@ -4,7 +4,7 @@ title: Mekong Fishing
 date: 2012-01-24T03:42:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=816
+guid: /?p=816
 permalink: /mekong-fishing/
 wp-esprit-picasa-meta-description:
   - 

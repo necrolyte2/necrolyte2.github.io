@@ -4,7 +4,7 @@ title: 'Things you need. Things you don&#8217;t need'
 date: 2015-11-25T15:42:07+00:00
 author: tyghe
 layout: post
-guid: https://tygertown.us/?p=1290
+guid: /?p=1290
 permalink: /things-you-need-things-you-dont-need/
 categories:
   - Lucy Journal

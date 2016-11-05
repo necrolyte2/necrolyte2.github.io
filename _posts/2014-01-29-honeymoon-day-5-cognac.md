@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 5 &#8212; Cognac'
 date: 2014-01-29T13:20:50+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1040
+guid: /?p=1040
 permalink: /honeymoon-day-5-cognac/
 categories:
   - Honeymoon
@@ -21,19 +21,19 @@ With nothing on the agenda besides Mel&#8217;s facial massage in the morning I h
 <div id='gallery-4' class='gallery galleryid-1040 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140127_190537/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140127_190537.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBeer3" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140127_190537/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140127_190537.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBeer3" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140127_191051/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140127_191051.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBeer1" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140127_191051/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140127_191051.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBeer1" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140127_191023/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140127_191023.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBooz" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140127_191023/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140127_191023.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBooz" /></a>
     </dt>
   </dl>
   
@@ -41,13 +41,13 @@ With nothing on the agenda besides Mel&#8217;s facial massage in the morning I h
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140127_190841/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140127_190841.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBeer2" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140127_190841/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140127_190841.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketBeer2" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140127_190748/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140127_190748.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketColdBeer" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140127_190748/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140127_190748.jpg" class="attachment-thumbnail size-thumbnail" alt="MiniMarketColdBeer" /></a>
     </dt>
   </dl>
   
@@ -137,7 +137,7 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
 <div id='gallery-5' class='gallery galleryid-1040 gallery-columns-4 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140129_000447/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140129_000447.jpg" class="attachment-thumbnail size-thumbnail" alt="The Place" aria-describedby="gallery-5-1054" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140129_000447/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140129_000447.jpg" class="attachment-thumbnail size-thumbnail" alt="The Place" aria-describedby="gallery-5-1054" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-1054'>
@@ -147,7 +147,7 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/pano_20140128_225232/'><img width="150" height="49" src="/wp-content/uploads/2014/01/PANO_20140128_225232.jpg" class="attachment-thumbnail size-thumbnail" alt="Photosphere of the hangout location" aria-describedby="gallery-5-1055" /></a>
+      <a href='/honeymoon-day-5-cognac/pano_20140128_225232/'><img width="150" height="49" src="/wp-content/uploads/2014/01/PANO_20140128_225232.jpg" class="attachment-thumbnail size-thumbnail" alt="Photosphere of the hangout location" aria-describedby="gallery-5-1055" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-1055'>
@@ -157,7 +157,7 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140128_230944/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_230944.jpg" class="attachment-thumbnail size-thumbnail" alt="Meat, Cheese and Bread" aria-describedby="gallery-5-1053" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140128_230944/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_230944.jpg" class="attachment-thumbnail size-thumbnail" alt="Meat, Cheese and Bread" aria-describedby="gallery-5-1053" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-5-1053'>
@@ -167,7 +167,7 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140128_230156-mix/'><img width="150" height="101" src="/wp-content/uploads/2014/01/IMG_20140128_230156-MIX.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_230156-MIX" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140128_230156-mix/'><img width="150" height="101" src="/wp-content/uploads/2014/01/IMG_20140128_230156-MIX.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_230156-MIX" /></a>
     </dt>
   </dl>
   
@@ -175,25 +175,25 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140128_230136/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140128_230136.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_230136" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140128_230136/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140128_230136.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_230136" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140128_230125/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140128_230125.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_230125" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140128_230125/'><img width="113" height="150" src="/wp-content/uploads/2014/01/IMG_20140128_230125.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_230125" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140128_223107/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_223107.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_223107" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140128_223107/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_223107.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_223107" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140128_223103/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_223103.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_223103" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140128_223103/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_223103.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_223103" /></a>
     </dt>
   </dl>
   
@@ -201,7 +201,7 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://tygertown.us/honeymoon-day-5-cognac/img_20140128_223009/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_223009.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_223009" /></a>
+      <a href='/honeymoon-day-5-cognac/img_20140128_223009/'><img width="150" height="113" src="/wp-content/uploads/2014/01/IMG_20140128_223009.jpg" class="attachment-thumbnail size-thumbnail" alt="IMG_20140128_223009" /></a>
     </dt>
   </dl>
   
@@ -210,4 +210,4 @@ Afterwards we seek a place to have a drink and talk. We passed a place that look
 
 Afterwards we headed back to the hotel for bed time. Pretty fantastic day. Tomorrow we will switch from our hotel to a rented apartment for the duration of our stay in Prague.
 
-[Day 4](http://tygertown.us/honeymoon-day-4-prague-castle/ "Honeymoon — Day 4 — Prague Castle")  [Day 6](http://tygertown.us/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?")
+[Day 4](/honeymoon-day-4-prague-castle/ "Honeymoon — Day 4 — Prague Castle")  [Day 6](/honeymoon-day-6-best-beer-ever/ "Honeymoon — Day 6 — Best Beer Ever?")

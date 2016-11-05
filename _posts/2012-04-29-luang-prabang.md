@@ -4,7 +4,7 @@ title: Luang Prabang
 date: 2012-04-29T04:09:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=861
+guid: /?p=861
 permalink: /luang-prabang/
 wp-esprit-picasa-meta-description:
   - 
@@ -17,7 +17,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-04-29T10:09:31+00:00
 al2fb_facebook_link_picture:
-  - wordpress=https://tygertown.us/?al2fb_image=1
+  - wordpress=/?al2fb_image=1
 original_post_id:
   - 861
 categories:
@@ -41,7 +41,7 @@ We did manage to wake up a bit early on one morning and trek up the hill in the 
 
 <a title="" href="http://lh6.ggpht.com/-4yEdM0uZmXg/T50JgzaVmHI/AAAAAAAAGRk/pmWPZKRshj4/s800/IMGP7615.jpg" rel="lightbox[861]"><img src="http://lh6.ggpht.com/-4yEdM0uZmXg/T50JgzaVmHI/AAAAAAAAGRk/pmWPZKRshj4/s200/IMGP7615.jpg" alt="IMGP7615.jpg" /></a> <a title="" href="http://lh3.ggpht.com/-XAL_jnm_ilY/T50JhckMv5I/AAAAAAAAGRs/GvAdlLa_S7I/s800/IMGP7616.jpg" rel="lightbox[861]"><img src="http://lh3.ggpht.com/-XAL_jnm_ilY/T50JhckMv5I/AAAAAAAAGRs/GvAdlLa_S7I/s200/IMGP7616.jpg" alt="IMGP7616.jpg" /></a>
 
-Panoramic!!!!! Click me for larger size <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Panoramic!!!!! Click me for larger size <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <a title="" href="http://lh4.ggpht.com/-p2GQvwFUpFc/T50JiMWibGI/AAAAAAAAGR0/XsauOkCPvSI/s800/LuangPrabangPanoramic.jpg" rel="lightbox[861]"><img src="http://lh4.ggpht.com/-p2GQvwFUpFc/T50JiMWibGI/AAAAAAAAGR0/XsauOkCPvSI/s200/LuangPrabangPanoramic.jpg" alt="LuangPrabangPanoramic.jpg" /></a>
 

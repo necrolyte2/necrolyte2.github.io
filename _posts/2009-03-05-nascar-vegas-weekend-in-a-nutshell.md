@@ -4,7 +4,7 @@ title: Nascar Vegas Weekend in a Nutshell
 date: 2009-03-05T00:28:49+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=154
+guid: /blog/?p=154
 permalink: /nascar-vegas-weekend-in-a-nutshell/
 original_post_id:
   - 154

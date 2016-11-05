@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 2 &#8212; Cesky Krumlov'
 date: 2014-01-27T08:00:46+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1030
+guid: /?p=1030
 permalink: /honeymoon-day-2-cesky-krumlov/
 categories:
   - Honeymoon
@@ -153,4 +153,4 @@ Eating like a king. They are very good at cooking meat here. Taters are pretty t
 
 After dinner it is bed time. Pretty wonderful day. No stress or worries about having to be anywhere or do anything. It was fantastic. Tomorrow we trek on the Student Agency bus to Prague where we will spend our remaining trip in a very luxurious motel for a few days for relaxation and then in a really nice apartment rental right in the center of the city where we can easily do the tourist things.
 
-If you missed [Day 1](http://tygertown.us/the-honeymoon-day-1/ "The Honeymoon – Day 1") and need more pictures and reading. Soon to come is [Day 3](http://tygertown.us/honeymoon-day-3-trip-to-prague/ "Honeymoon — Day 3 — Trip to Prague").
+If you missed [Day 1](/the-honeymoon-day-1/ "The Honeymoon – Day 1") and need more pictures and reading. Soon to come is [Day 3](/honeymoon-day-3-trip-to-prague/ "Honeymoon — Day 3 — Trip to Prague").

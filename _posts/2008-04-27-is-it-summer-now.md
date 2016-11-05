@@ -4,7 +4,7 @@ title: Is it summer now?
 date: 2008-04-27T18:48:49+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=24
+guid: /blog/?p=24
 permalink: /is-it-summer-now/
 original_post_id:
   - 24

@@ -4,7 +4,7 @@ title: Sapa Vietnam
 date: 2012-04-29T05:21:39+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=867
+guid: /?p=867
 permalink: /sapa-vietnam/
 wp-esprit-picasa-meta-description:
   - 
@@ -17,13 +17,13 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-04-29T11:21:44+00:00
 al2fb_facebook_link_picture:
-  - wordpress=https://tygertown.us/?al2fb_image=1
+  - wordpress=/?al2fb_image=1
 original_post_id:
   - 867
 categories:
   - Uncategorized
 ---
-After our trip in [Luang Prabang](http://tygertown.us/2012/04/luang-prabang/ "Luang Prabang") we were slated to head to Sapa. Mel and I have never been to Hanoi so were not sure if the plan I had made to hop off the airplane and get a taxi directly to the train station to catch our train would work or not. The plane was supposed to arrive around 6:10pm and the train was to leave at 9pm ish. I suspected that to be plenty of time.<!--more-->
+After our trip in [Luang Prabang](/2012/04/luang-prabang/ "Luang Prabang") we were slated to head to Sapa. Mel and I have never been to Hanoi so were not sure if the plan I had made to hop off the airplane and get a taxi directly to the train station to catch our train would work or not. The plane was supposed to arrive around 6:10pm and the train was to leave at 9pm ish. I suspected that to be plenty of time.<!--more-->
 
 We hopped off the plane and headed to immigration. We had our Visa On Arrival forms filled out already, although, Mel didn&#8217;t have a picture to put on her application. I had read that it really didn&#8217;t matter and you would pay a 2-3 dollar &#8220;fee&#8221; aka bribe to fix that. So We waddled through the line to hand in our application and passports.
 

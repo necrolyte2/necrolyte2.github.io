@@ -4,7 +4,7 @@ title: Wat Arun(Temple of the Dawn)
 date: 2010-03-20T06:47:11+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=477
+guid: /blog/?p=477
 permalink: /wat-aruntemple-of-the-dawn/
 original_post_id:
   - 477
@@ -20,7 +20,7 @@ tags:
 ---
 <div class="alignleft">
   <div id="attachment_478" style="width: 235px" class="wp-caption alignnone">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00134-20100320-1419.jpg"><img class="size-medium wp-image-478 " title="Wat Arun" src="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00134-20100320-1419-225x300.jpg" alt="" width="225" height="300" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00134-20100320-1419.jpg"><img class="size-medium wp-image-478 " title="Wat Arun" src="/wp-content/uploads/2010/03/IMG00134-20100320-1419.jpg" alt="" width="225" height="300" /></a>
     
     <p class="wp-caption-text">
       Wat Arun Temple
@@ -28,15 +28,15 @@ tags:
   </div></p> 
   
   <p>
-    <a href="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00133-20100320-1419.jpg"><img class="size-medium wp-image-481 alignnone" title="IMG00133-20100320-1419" src="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00133-20100320-1419-225x300.jpg" alt="" width="225" height="300" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00133-20100320-1419.jpg"><img class="size-medium wp-image-481 alignnone" title="IMG00133-20100320-1419" src="/wp-content/uploads/2010/03/IMG00133-20100320-1419.jpg" alt="" width="225" height="300" /></a>
   </p>
   
   <p>
-    <a href="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00135-20100320-1422.jpg"><img class="size-medium wp-image-483 alignnone" title="IMG00135-20100320-1422" src="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00135-20100320-1422-300x225.jpg" alt="" width="300" height="225" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00135-20100320-1422.jpg"><img class="size-medium wp-image-483 alignnone" title="IMG00135-20100320-1422" src="/wp-content/uploads/2010/03/IMG00135-20100320-1422.jpg" alt="" width="300" height="225" /></a>
   </p>
   
   <div id="attachment_479" style="width: 310px" class="wp-caption alignleft">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00137-20100320-1745.jpg"><img class="size-medium wp-image-479" title="Sunset from atop of the Apartment Complex" src="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00137-20100320-1745-300x225.jpg" alt="" width="300" height="225" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00137-20100320-1745.jpg"><img class="size-medium wp-image-479" title="Sunset from atop of the Apartment Complex" src="/wp-content/uploads/2010/03/IMG00137-20100320-1745.jpg" alt="" width="300" height="225" /></a>
     
     <p class="wp-caption-text">
       Sunset from atop of the Apartment Complex
@@ -45,7 +45,7 @@ tags:
   
   <p>
     <div id="attachment_480" style="width: 310px" class="wp-caption alignright">
-      <a href="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00138-20100320-1745.jpg"><img class="size-medium wp-image-480" title="Another view of from atop of the complex" src="http://tygertown.us/blog/wp-content/uploads/2010/03/IMG00138-20100320-1745-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="/wp-content/uploads/2010/03/IMG00138-20100320-1745.jpg"><img class="size-medium wp-image-480" title="Another view of from atop of the complex" src="/wp-content/uploads/2010/03/IMG00138-20100320-1745.jpg" alt="" width="300" height="225" /></a>
       
       <p class="wp-caption-text">
         Another view of from atop of the complex

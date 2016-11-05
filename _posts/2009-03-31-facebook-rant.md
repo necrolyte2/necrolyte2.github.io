@@ -4,7 +4,7 @@ title: Facebook Rant
 date: 2009-03-31T19:01:26+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=182
+guid: /blog/?p=182
 permalink: /facebook-rant/
 original_post_id:
   - 182

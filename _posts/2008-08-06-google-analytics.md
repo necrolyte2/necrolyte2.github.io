@@ -4,7 +4,7 @@ title: Google Analytics
 date: 2008-08-06T00:17:48+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=78
+guid: /blog/?p=78
 permalink: /google-analytics/
 original_post_id:
   - 78

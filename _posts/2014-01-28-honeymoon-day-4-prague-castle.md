@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 4 &#8212; Prague Castle'
 date: 2014-01-28T17:00:49+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1037
+guid: /?p=1037
 permalink: /honeymoon-day-4-prague-castle/
 categories:
   - Honeymoon
@@ -135,4 +135,4 @@ After this we head back to the hotel for the night. Tomorrow we have really noth
 
 Until next post&#8230;
 
-[Day 3](http://tygertown.us/honeymoon-day-3-trip-to-prague/ "Honeymoon — Day 3 — Trip to Prague")  [Day 5](http://tygertown.us/honeymoon-day-5-cognac/ "Honeymoon — Day 5 — Cognac")
+[Day 3](/honeymoon-day-3-trip-to-prague/ "Honeymoon — Day 3 — Trip to Prague")  [Day 5](/honeymoon-day-5-cognac/ "Honeymoon — Day 5 — Cognac")

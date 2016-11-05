@@ -4,7 +4,7 @@ title: 'Yes I&#8217;m going to complain again about the weather'
 date: 2008-06-06T08:19:41+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=42
+guid: /blog/?p=42
 permalink: /yes-im-going-to-complain-again-about-the-weather/
 original_post_id:
   - 42

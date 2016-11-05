@@ -4,7 +4,7 @@ title: Spring in the Mid-Northwest
 date: 2009-03-29T23:26:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=171
+guid: /blog/?p=171
 permalink: /spring-in-the-mid-northwest/
 original_post_id:
   - 171
@@ -16,7 +16,7 @@ tags:
   - severe weather
   - winter
 ---
-[<img class="size-medium wp-image-172 alignleft" title="Montana Road Conditions" alt="Montana Road Conditions" src="http://tygertown.us/wp-content/uploads/2009/03/montana.gif" width="300" height="194" />](http://tygertown.us/wp-content/uploads/2009/03/montana.gif)
+[<img class="size-medium wp-image-172 alignleft" title="Montana Road Conditions" alt="Montana Road Conditions" src="/wp-content/uploads/2009/03/montana.gif" width="300" height="194" />](/wp-content/uploads/2009/03/montana.gif)
 
 <p style="text-align: left;">
   Just a glimpse at how bad the storms were today across the state. Anything red is a closed road. Anything dotted red means you shouldn&#8217;t be on that road. Yellow is lots of snow. Turquiose is snow and ice.

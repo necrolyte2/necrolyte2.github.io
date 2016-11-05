@@ -4,7 +4,7 @@ title: What $9 dollars can buy for your computer
 date: 2009-01-15T20:24:41+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=131
+guid: /blog/?p=131
 permalink: /what-9-dollars-can-buy-for-your-computer/
 original_post_id:
   - 131
@@ -17,7 +17,7 @@ tags:
   - zipzoomfly
 ---
 <div id="attachment_132" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/01/imgp5982.jpg"><img class="size-medium wp-image-132" title="Corsair Ram" src="http://tygertown.us/blog/wp-content/uploads/2009/01/imgp5982-300x140.jpg" alt="DHX 6400C4" width="300" height="140" /></a>
+  <a href="/wp-content/uploads/2009/01/imgp5982.jpg"><img class="size-medium wp-image-132" title="Corsair Ram" src="/wp-content/uploads/2009/01/imgp5982-300x140.jpg" alt="DHX 6400C4" width="300" height="140" /></a>
   
   <p class="wp-caption-text">
     DHX 6400C4

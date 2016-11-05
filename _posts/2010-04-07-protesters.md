@@ -4,7 +4,7 @@ title: Protesters
 date: 2010-04-07T22:03:05+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=525
+guid: /blog/?p=525
 permalink: /protesters/
 wp-esprit-picasa-meta-description:
   - 

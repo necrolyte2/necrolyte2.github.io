@@ -4,7 +4,7 @@ title: Building my Desk
 date: 2009-09-07T11:31:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=305
+guid: /blog/?p=305
 permalink: /building-my-desk/
 original_post_id:
   - 305
@@ -25,7 +25,7 @@ So here is how it went
 Here are the schematics that I drew up for the desk
 
 <div id="attachment_306" style="width: 238px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/DeskSchematics.jpg"><img class="size-medium wp-image-306" title="DeskSchematics" src="http://tygertown.us/blog/wp-content/uploads/2009/09/DeskSchematics-228x300.jpg" alt="Desk Schematics" width="228" height="300" /></a>
+  <a href="/wp-content/uploads/2009/09/DeskSchematics.jpg"><img class="size-medium wp-image-306" title="DeskSchematics" src="/wp-content/uploads/2009/09/DeskSchematics-228x300.jpg" alt="Desk Schematics" width="228" height="300" /></a>
   
   <p class="wp-caption-text">
     Desk Schematics
@@ -46,7 +46,7 @@ The final numbers came to be 5 2&#215;3&#8217;s and 1 particle board. Now, I jus
 Here is the board cutting guide that I came up with
 
 <div id="attachment_309" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/BoardLengths.jpg"><img class="size-medium wp-image-309" title="CuttingGuide" src="http://tygertown.us/blog/wp-content/uploads/2009/09/BoardLengths-300x279.jpg" alt="Board Cutting Guide" width="300" height="279" /></a>
+  <a href="/wp-content/uploads/2009/09/BoardLengths.jpg"><img class="size-medium wp-image-309" title="CuttingGuide" src="/wp-content/uploads/2009/09/BoardLengths-300x279.jpg" alt="Board Cutting Guide" width="300" height="279" /></a>
   
   <p class="wp-caption-text">
     Board Cutting Guide
@@ -55,7 +55,7 @@ Here is the board cutting guide that I came up with
 
 So using the schematics and the board cuting guide you can pretty much build the desk. I&#8217;ll go over what I did wrong so if you decide to do this you can avoid some of the dumb things that I did.
 
-  * If you have them cut the boards at the lumber yard make sure you know exactly where you want them to cut otherwise it makes you look really dumb when they cut the board and you realize you gave them the wrong dimensions <img src="https://tygertown.us/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  * If you have them cut the boards at the lumber yard make sure you know exactly where you want them to cut otherwise it makes you look really dumb when they cut the board and you realize you gave them the wrong dimensions <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   * Don&#8217;t forget that when you cut a board, the saw blade is about 1/16&#8243; thick and will change the dimensions of the board. It seemed to work out fine though with the dimensions I used above from the cutting guide.
   * Always drill holes where you are going to put screws through, otherwise you risk splitting the board. Especially if you are putting the screw through the long way of the 2&#215;3&#8217;s as that tends to be with the grain of the wood and will split easily.
   * Measure twice, cut once. I always get burned by this. ALWAYS!
@@ -75,7 +75,7 @@ Things you need
 
 <p style="text-align:left;">
   <div id="attachment_310" style="width: 310px" class="wp-caption aligncenter">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6556.jpg"><img class="size-medium wp-image-310" title="IMGP6556" src="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6556-300x122.jpg" alt="Materials" width="300" height="122" /></a>
+    <a href="/wp-content/uploads/2009/09/IMGP6556.jpg"><img class="size-medium wp-image-310" title="IMGP6556" src="/wp-content/uploads/2009/09/IMGP6556-300x122.jpg" alt="Materials" width="300" height="122" /></a>
     
     <p class="wp-caption-text">
       Materials
@@ -83,7 +83,7 @@ Things you need
   </div>
   
   <div id="attachment_311" style="width: 160px" class="wp-caption aligncenter">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6558.jpg"><img class="size-thumbnail wp-image-311 " title="IMGP6558" src="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6558-150x150.jpg" alt="Underneath" width="150" height="150" /></a>
+    <a href="/wp-content/uploads/2009/09/IMGP6558.jpg"><img class="size-thumbnail wp-image-311 " title="IMGP6558" src="/wp-content/uploads/2009/09/IMGP6558-150x150.jpg" alt="Underneath" width="150" height="150" /></a>
     
     <p class="wp-caption-text">
       Underneath
@@ -91,7 +91,7 @@ Things you need
   </div>
   
   <div id="attachment_313" style="width: 160px" class="wp-caption aligncenter">
-    <a href="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6561.jpg"><img class="size-thumbnail wp-image-313" title="IMGP6561" src="http://tygertown.us/blog/wp-content/uploads/2009/09/IMGP6561-150x150.jpg" alt="Top" width="150" height="150" /></a>
+    <a href="/wp-content/uploads/2009/09/IMGP6561.jpg"><img class="size-thumbnail wp-image-313" title="IMGP6561" src="/wp-content/uploads/2009/09/IMGP6561-150x150.jpg" alt="Top" width="150" height="150" /></a>
     
     <p class="wp-caption-text">
       Top
@@ -99,7 +99,7 @@ Things you need
   </div>
   
   <p style="text-align:left;">
-    So from the pictures hopefully you can figure out how to put it together. The desk is not finished yet in the pictures. It is missing the 2 middle 29&#8243; 2&#215;3&#8217;s and the 12&#8243; triangle pieces which I am going to put on today. You might also notice that I had the wrong sizes for the back boards and I cut them 43&#8243; instead of 45&#8243; so I had to put them in line with the back legs instead of inside. It would be easier if they were inside because screwing a nail all the way through the long edge of a 2&#215;3 is a pain(and 3&#8243; screws aren&#8217;t long enough to securely hold them in place <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )
+    So from the pictures hopefully you can figure out how to put it together. The desk is not finished yet in the pictures. It is missing the 2 middle 29&#8243; 2&#215;3&#8217;s and the 12&#8243; triangle pieces which I am going to put on today. You might also notice that I had the wrong sizes for the back boards and I cut them 43&#8243; instead of 45&#8243; so I had to put them in line with the back legs instead of inside. It would be easier if they were inside because screwing a nail all the way through the long edge of a 2&#215;3 is a pain(and 3&#8243; screws aren&#8217;t long enough to securely hold them in place <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )
   </p>
   
   <p style="text-align:left;">

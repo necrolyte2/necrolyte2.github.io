@@ -4,7 +4,7 @@ title: Biking in the summer is so much fun
 date: 2008-07-06T20:43:11+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=62
+guid: /blog/?p=62
 permalink: /biking-in-the-summer-is-so-much-fun/
 original_post_id:
   - 62

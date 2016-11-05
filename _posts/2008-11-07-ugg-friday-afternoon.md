@@ -4,7 +4,7 @@ title: Ugg! Friday afternoon
 date: 2008-11-07T17:09:12+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=123
+guid: /blog/?p=123
 permalink: /ugg-friday-afternoon/
 original_post_id:
   - 123

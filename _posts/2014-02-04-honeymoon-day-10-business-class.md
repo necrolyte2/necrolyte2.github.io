@@ -4,7 +4,7 @@ title: 'Honeymoon &#8212; Day 10 &#8212; Business Class!'
 date: 2014-02-04T08:00:40+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/?p=1100
+guid: /?p=1100
 permalink: /honeymoon-day-10-business-class/
 categories:
   - Honeymoon
@@ -33,7 +33,7 @@ We headed out to a place that we saw the day before when looking for a breakfast
   </p>
 </div>
 
-Back to the apartment to gather our bags and head to the airport. <span style="line-height: 1.5em;">It eventually had to end <img src="https://tygertown.us/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>
+Back to the apartment to gather our bags and head to the airport. <span style="line-height: 1.5em;">It eventually had to end <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>
 
 But with a huge exclamation point! Business class, booyaa!<!--more-->
 

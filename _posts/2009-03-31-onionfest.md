@@ -4,7 +4,7 @@ title: Onionfest
 date: 2009-03-31T22:53:09+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=184
+guid: /blog/?p=184
 permalink: /onionfest/
 original_post_id:
   - 184

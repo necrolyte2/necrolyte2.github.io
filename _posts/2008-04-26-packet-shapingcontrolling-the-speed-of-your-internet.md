@@ -4,7 +4,7 @@ title: Packet Shaping(Controlling the speed of your internet)
 date: 2008-04-26T11:38:28+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=23
+guid: /blog/?p=23
 permalink: /packet-shapingcontrolling-the-speed-of-your-internet/
 original_post_id:
   - 23

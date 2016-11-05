@@ -4,7 +4,7 @@ title: I Like Rainbows
 date: 2008-04-20T11:51:36+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=16
+guid: /blog/?p=16
 permalink: /i-like-rainbows/
 original_post_id:
   - 16

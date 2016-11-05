@@ -4,7 +4,7 @@ title: Terrible Directions
 date: 2010-08-23T22:25:51+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=587
+guid: /blog/?p=587
 permalink: /terrible-directions/
 wp-esprit-picasa-meta-description:
   - 

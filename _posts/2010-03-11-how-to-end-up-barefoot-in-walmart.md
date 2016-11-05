@@ -4,7 +4,7 @@ title: How to end up barefoot in Walmart
 date: 2010-03-11T16:04:17+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=471
+guid: /blog/?p=471
 permalink: /how-to-end-up-barefoot-in-walmart/
 original_post_id:
   - 471

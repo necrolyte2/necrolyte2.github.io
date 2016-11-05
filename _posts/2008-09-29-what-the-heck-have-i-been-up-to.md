@@ -4,7 +4,7 @@ title: What the heck have I been up to?
 date: 2008-09-29T22:03:33+00:00
 author: tyghe
 layout: post
-guid: http://tygertown.us/blog/?p=90
+guid: /blog/?p=90
 permalink: /what-the-heck-have-i-been-up-to/
 original_post_id:
   - 90
