@@ -78,7 +78,7 @@ Here is a snapshot of what it looks like
 
  
 
-[<img class="aligncenter size-medium wp-image-208" title="Gmail" src="/wp-content/uploads/2009/04/gmail-300x182.png" alt="Gmail" width="300" height="182" />](/blog/wp-content/uploads/2009/04/gmail.png)
+[<img class="aligncenter size-medium wp-image-208" title="Gmail" src="/wp-content/uploads/2009/04/gmail.png" alt="Gmail" width="300" height="182" />](/wp-content/uploads/2009/04/gmail.png)
 
 <h1 style="text-align:center;">
   <strong><span style="text-decoration:underline;">Documents</span></strong>

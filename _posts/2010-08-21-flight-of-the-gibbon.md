@@ -76,7 +76,7 @@ Here are the rest of the pictures
 <table style="width:194px;">
   <tr>
     <td style="height:194px;background:url('http://picasaweb.google.com/s/c/transparent_album_background.gif') no-repeat left;" align="center">
-      <a href="http://picasaweb.google.com/vallardt/Ziplining?feat=embedwebsite"><img style="margin:1px 0 0 4px;" src="http://lh3.ggpht.com/_wdJ3rlAqngs/TG_wUYM3MOE/AAAAAAAACp4/4NiRea2oq88/s160-c/Ziplining.jpg" alt="" width="160" height="160" /></a>
+      <a href="http://picasaweb.google.com/vallardt/Ziplining?feat=embedwebsite"><img style="margin:1px 0 0 4px;" src="http://lh3.ggpht.com/_wdJ3rlAqngs/TG_wUYM3MOE/AAAAAAAACp4/4NiRea2oq88/s160-c/Ziplining.jpg" alt="alt" width="160" height="160" /></a>
     </td>
   </tr>
   

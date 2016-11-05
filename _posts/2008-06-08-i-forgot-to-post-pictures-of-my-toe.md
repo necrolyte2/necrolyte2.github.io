@@ -17,6 +17,6 @@ tags:
 ---
 Ya so I forgot to put pictures of my toe after it broke.
 
-[![](http://lh6.ggpht.com/vallardt/SEycY95eYlI/AAAAAAAAAVc/VfOwzF8JLFg/s144/IMGP5266.JPG)](http://picasaweb.google.com/vallardt/Random/photo#5209710821707244114)
+[![alt](http://lh6.ggpht.com/vallardt/SEycY95eYlI/AAAAAAAAAVc/VfOwzF8JLFg/s144/IMGP5266.JPG)](http://picasaweb.google.com/vallardt/Random/photo#5209710821707244114)
 
-[![](http://lh5.ggpht.com/vallardt/SEycZpoC7wI/AAAAAAAAAVk/uwNagkhGj4c/s144/IMGP5267.JPG)](http://picasaweb.google.com/vallardt/Random/photo#5209710833445302018)
+[![alt](http://lh5.ggpht.com/vallardt/SEycZpoC7wI/AAAAAAAAAVk/uwNagkhGj4c/s144/IMGP5267.JPG)](http://picasaweb.google.com/vallardt/Random/photo#5209710833445302018)

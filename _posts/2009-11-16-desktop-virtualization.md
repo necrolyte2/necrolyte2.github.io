@@ -27,14 +27,6 @@ I often find that people that are not familiar with virtualization are amazed wh
 
 So the way it works is you have Windows, Linux or Mac running which is called the host operating system. Then you install virtualization software(VMWare, Parallels, Virtualbox&#8230;) on the operating system you have running. Then within that software you can create a virtual computer called the guest operating system that runs within your host operating system.
 
-<div id="attachment_382" style="width: 430px" class="wp-caption alignright">
-  <a href="/wp-content/uploads/2009/11/virtualizationexplanation.png"><img class="size-full wp-image-382" title="virtualizationexplanation" src="/wp-content/uploads/2009/11/virtualizationexplanation.png" alt="" width="420" height="300" /></a>
-  
-  <p class="wp-caption-text">
-    Visual Explanation
-  </p>
-</div>
-
 To help you visualize this I&#8217;ve created a super awesome image.
 
 So to link everything to the picture your physical computer that you can touch is the Reddish box. When you turn on your computer and it starts up it loads your host Operating System which is the purplish blue box. Once that has loaded and you are logged in, you open up the guest operating system which is the green box.
@@ -42,7 +34,7 @@ So to link everything to the picture your physical computer that you can touch i
 Here are some screenshots to show what it looks like. I&#8217;m running Ubuntu 8.04 desktop for the host and Windows 7 as the Guest so for you Windows/Mac users it might look a bit different but the idea is the same.
 
 <div id="attachment_384" style="width: 310px" class="wp-caption alignright">
-  <a href="/wp-content/uploads/2009/11/FullScreenMode.png"><img class="size-medium wp-image-384" title="FullScreenMode" src="/wp-content/uploads/2009/11/FullScreenMode-300x120.png" alt="FullScreenMode" width="300" height="120" /></a>
+  <a href="/wp-content/uploads/2009/11/fullscreenmode.png"><img class="size-medium wp-image-384" title="FullScreenMode" src="/wp-content/uploads/2009/11/fullscreenmode.png" alt="FullScreenMode" width="300" height="120" /></a>
   
   <p class="wp-caption-text">
     Full Screen Mode
@@ -50,7 +42,7 @@ Here are some screenshots to show what it looks like. I&#8217;m running Ubuntu 8
 </div>
 
 <div id="attachment_383" style="width: 310px" class="wp-caption alignleft">
-  <a href="/wp-content/uploads/2009/11/WindowedMode.png"><img class="size-medium wp-image-383" title="WindowedMode" src="/wp-content/uploads/2009/11/WindowedMode-300x239.png" alt="Virtualbox Windowed Mode" width="300" height="239" /></a>
+  <a href="/wp-content/uploads/2009/11/windowedmode.png"><img class="size-medium wp-image-383" title="WindowedMode" src="/wp-content/uploads/2009/11/windowedmode.png" alt="Virtualbox Windowed Mode" width="300" height="239" /></a>
   
   <p class="wp-caption-text">
     Windowed Mode

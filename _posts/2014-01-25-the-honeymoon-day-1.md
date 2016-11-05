@@ -27,7 +27,7 @@ I left straight from work at around 1 pm and arrived at the airport at about 3 h
 Flight leaves at 5:45.
 
 <div style="width: 354px" class="wp-caption alignnone">
-  <img alt="" src="https://lh4.googleusercontent.com/-Nr7lq2oPPxo/UuGRcJnZmuI/AAAAAAAAPIs/LCH5SoxHmJQ/w344-h458-no/IMG_20140123_170135.jpg" width="344" height="458" />
+  <img alt="alt" src="https://lh4.googleusercontent.com/-Nr7lq2oPPxo/UuGRcJnZmuI/AAAAAAAAPIs/LCH5SoxHmJQ/w344-h458-no/IMG_20140123_170135.jpg" width="344" height="458" />
   
   <p class="wp-caption-text">
     The journey begins
@@ -121,7 +121,7 @@ Afterwards we nom&#8217;d at the infamous Meat Dungeon. Later had dinner with t
 I unlocked this upgrade by finishing today&#8217;s quest. Tomorrow is slated to be an adventure of walking around Cesky Krumlov and visiting the local castle.
 
 <div style="width: 354px" class="wp-caption alignnone">
-  <img alt="" src="https://lh6.googleusercontent.com/-LRAqoYo1tIM/UuKv9L6sMcI/AAAAAAAAPJ8/4ob2F4RWd0Q/w344-h458-no/2014-01-24" width="344" height="458" />
+  <img alt="alt" src="https://lh6.googleusercontent.com/-LRAqoYo1tIM/UuKv9L6sMcI/AAAAAAAAPJ8/4ob2F4RWd0Q/w344-h458-no/2014-01-24" width="344" height="458" />
   
   <p class="wp-caption-text">
     Beer

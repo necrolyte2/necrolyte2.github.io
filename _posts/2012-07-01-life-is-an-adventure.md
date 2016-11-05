@@ -42,9 +42,3 @@ The power outage has revealed a significant disadvantage of living on the 14th f
 Instead of sticking around in the war zone, we packed up and headed off on an adventure with no plan. Gettysburg yesterday and Philadelphia today. I can smell the chez wiz that I will be consuming later already.
 
 Maybe liberty bell after? Who knows, but still have to work on Monday from the sounds of it.
-
-[<img src="/wp-content/uploads/2012/07/20120701-144219.jpg" alt="20120701-144219.jpg" class="alignnone size-full" />](/wp-content/uploads/2012/07/20120701-144219.jpg)
-
-[<img src="/wp-content/uploads/2012/07/20120701-144228.jpg" alt="20120701-144228.jpg" class="alignnone size-full" />](/wp-content/uploads/2012/07/20120701-144228.jpg)
-
-[<img src="/wp-content/uploads/2012/07/20120701-144242.jpg" alt="20120701-144242.jpg" class="alignnone size-full" />](/wp-content/uploads/2012/07/20120701-144242.jpg)

@@ -20,7 +20,7 @@ For example
 I put my laptop to the left of my screens at home and want to be able to use the keyboard and mouse from my main computer on my laptop.
 
 <div id="attachment_323" style="width: 310px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/09/HomeScreens.jpg"><img class="size-medium wp-image-323" title="Home Screens" src="/wp-content/uploads/2009/09/HomeScreens-300x162.jpg" alt="Here you can see my dual monitors with my laptop to the left of them" width="300" height="162" /></a>
+  <a href="/wp-content/uploads/2009/09/homescreens.jpg"><img class="size-medium wp-image-323" title="Home Screens" src="/wp-content/uploads/2009/09/homescreens.jpg" alt="Here you can see my dual monitors with my laptop to the left of them" width="300" height="162" /></a>
   
   <p class="wp-caption-text">
     Here you can see my dual monitors with my laptop to the left of them

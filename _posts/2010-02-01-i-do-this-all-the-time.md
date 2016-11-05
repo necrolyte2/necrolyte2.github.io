@@ -17,4 +17,4 @@ tags:
   - xkcd
 format: image
 ---
-[![](http://imgs.xkcd.com/comics/paths.jpg)](http://xkcd.com/85/)
+[![alt](http://imgs.xkcd.com/comics/paths.jpg)](http://xkcd.com/85/)

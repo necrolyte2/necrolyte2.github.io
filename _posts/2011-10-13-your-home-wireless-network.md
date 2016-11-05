@@ -6,21 +6,6 @@ author: tyghe
 layout: post
 guid: /?p=787
 permalink: /your-home-wireless-network/
-wordbooker_options:
-  - 'a:11:{s:18:"wordbook_noncename";s:10:"42f12278c1";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:31:"Posted a new post on their blog";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";s:17:"wordbook_new_post";s:1:"1";}'
-wp-esprit-picasa-meta-description:
-  - 
-wp-esprit-picasa-meta-title:
-  - 
-wp-esprit-picasa-meta-url:
-  - 
-wordbooker_thumb:
-  - 'https://docs.google.com/drawings/pub?id=1wS-KqeyP2ErbKBQB1e6jQM_YN4Z_XVIaDnS7EcyYgnU&amp;w=480&amp;h=360'
-wordbooker_extract:
-  - |
-    WPA. WEP. 802.11. Encrypted. Pass-phrase. Uhhgg!! What do all these options mean? I just want to sit in my chair with my laptop and have it connect to my home wireless and know that it is setup securely.
-    
-    I've set this stuff up enough for people and  ...
 original_post_id:
   - 787
 categories:
@@ -39,8 +24,6 @@ tags:
 WPA. WEP. 802.11. Encrypted. Pass-phrase. Uhhgg!! What do all these options mean? I just want to sit in my chair with my laptop and have it connect to my home wireless and know that it is setup securely.
 
 I&#8217;ve set this stuff up enough for people and I understand your confusion. I&#8217;ll explain a bit about what each of the important parts are and how to setup your network to be as safe as you can get it with the least amount of hassle.<!--more-->First off, as of right now, you cannot create a 100% cracker proof wireless network at home. Just the same, right now you cannot create a 100% fail proof nuclear power plant. What you can do is create the safest possible network. The probability that somebody is going to crack your wireless network to get in and steal something off of your computers is pretty unlikely to begin with. Even if they do successfully crack your wireless network, they have to then hack into your computer. If you are still scared after reading this entire post let me know and I&#8217;ll custom build a tinfoil hat that you can wear to keep the aliens and government from stealing your thoughts 
-
-<img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 # Your Internet
 
@@ -102,7 +85,7 @@ Usually modems will have the following lights:
   At this point you should understand everything in the following diagram
 </div>
 
-![](https://docs.google.com/drawings/pub?id=1wS-KqeyP2ErbKBQB1e6jQM_YN4Z_XVIaDnS7EcyYgnU&w=480&h=360)
+!["Home Network"](https://docs.google.com/drawings/pub?id=1wS-KqeyP2ErbKBQB1e6jQM_YN4Z_XVIaDnS7EcyYgnU&w=480&h=360)
 
 <a title="" href="http://lh4.ggpht.com/-BzclvkMqfkY/TpcykHYYXgI/AAAAAAAAEGk/vWoMRjwv_W0/s800/IMG_20111013_134820.jpg" rel="lightbox[787]"><img src="http://lh4.ggpht.com/-BzclvkMqfkY/TpcykHYYXgI/AAAAAAAAEGk/vWoMRjwv_W0/s200/IMG_20111013_134820.jpg" alt="IMG_20111013_134820.jpg" /></a>You can see here a setup with a cable modem on the left and a wireless router on the right<a title="" href="http://lh6.ggpht.com/-pN32GtbzRQY/TpcyppkcTaI/AAAAAAAAEGg/i4KJZcayFE0/s800/IMG_20111013_134844.jpg" rel="lightbox[787]"><img src="http://lh6.ggpht.com/-pN32GtbzRQY/TpcyppkcTaI/AAAAAAAAEGg/i4KJZcayFE0/s200/IMG_20111013_134844.jpg" alt="IMG_20111013_134844.jpg" /></a> Here is the backside of each. The blue cable is the ethernet cable that connects to the wireless modem and the black cable at the bottom of the modem is the cable from the ISP.
 
@@ -164,7 +147,7 @@ What is my username and password??? I don&#8217;t know because I&#8217;m not s
 </div>
 
 <div>
-  <a href="http://162.243.87.189/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-1-26-16-pm.png"><img class="alignleft size-medium wp-image-789" title="Netgear Example" src="/wp-content/uploads/2011/10/Screen-Shot-2011-10-13-at-1.26.16-PM-300x199.png" alt="" width="300" height="199" /></a>Here is an example from a Netgear Wireless Router.
+  <a href="/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-1-26-16-pm.png"><img class="alignleft size-medium wp-image-789" title="Netgear Example" src="/wp-content/uploads/2011/10/screen-shot-2011-10-13-at-1-26-16-pm.png" alt="Screen Shot" width="300" height="199" /></a>Here is an example from a Netgear Wireless Router.
 </div>
 
 ### Wireless Name

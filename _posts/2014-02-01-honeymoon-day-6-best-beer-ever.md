@@ -25,7 +25,7 @@ tags:
 Place of temporary residence switch day. Mel and I enjoyed our last breakfast at the Alchymist and then they hailed a taxi for us to our new place across the river. The ride was quite short actually. Seems like everything in Prague is much closer than it looks on the map. We arrived at the address which was 445/1 some-road-that-starts-with-a-V. Mel calls the person to let us in as we are at the door. Apparently there are two doors which we are at the wrong one but neither of us know that until 15-20 minutes of really awkward standing around with large suitcases passes by. Finally figure it out and get let into our apartment that we rented from <a title="Air BnB" href="https://www.airbnb.com/" target="_blank">airbnb.com</a>.<!--more-->
 
 <div style="width: 585px" class="wp-caption aligncenter">
-  <a href="https://lh3.googleusercontent.com/-26GJKb9FCLE/UujrDhDHAfI/AAAAAAAAPiA/XzAfh-ENRXQ/w958-h479-no/PANO_20140129_123705.jpg"><img class=" " alt="" src="https://lh3.googleusercontent.com/-26GJKb9FCLE/UujrDhDHAfI/AAAAAAAAPiA/XzAfh-ENRXQ/w958-h479-no/PANO_20140129_123705.jpg" width="575" height="287" /></a>
+  <a href="https://lh3.googleusercontent.com/-26GJKb9FCLE/UujrDhDHAfI/AAAAAAAAPiA/XzAfh-ENRXQ/w958-h479-no/PANO_20140129_123705.jpg"><img class=" " alt="alt" src="https://lh3.googleusercontent.com/-26GJKb9FCLE/UujrDhDHAfI/AAAAAAAAPiA/XzAfh-ENRXQ/w958-h479-no/PANO_20140129_123705.jpg" width="575" height="287" /></a>
   
   <p class="wp-caption-text">
     The room. Click for the photosphere to load in your browser.
@@ -33,7 +33,7 @@ Place of temporary residence switch day. Mel and I enjoyed our last breakfast at
 </div>
 
 <div style="width: 545px" class="wp-caption aligncenter">
-  <img alt="" src="https://lh3.googleusercontent.com/-vTsjkzKxFlU/UujrHFyLHJI/AAAAAAAAPiM/WrUdsnJwPMc/w669-h502-no/IMG_20140129_124458.jpg" width="535" height="402" />
+  <img alt="alt" src="https://lh3.googleusercontent.com/-vTsjkzKxFlU/UujrHFyLHJI/AAAAAAAAPiM/WrUdsnJwPMc/w669-h502-no/IMG_20140129_124458.jpg" width="535" height="402" />
   
   <p class="wp-caption-text">
     The kitchen.

@@ -64,7 +64,7 @@ Think of it as a translator. It translates text you type into 1&#8217;s and 0&#8
 
 ## Your first Python Instruction
 
-Open the python interpreter. You should be presented with something that looks like this<a href="/2013/01/introduction-to-python/pythoninterp/" rel="attachment wp-att-928"><img class="alignnone size-medium wp-image-928" alt="PythonInterp" src="/wp-content/uploads/2013/01/PythonInterp-300x143.png" width="300" height="143" /></a>
+Open the python interpreter.
 
 For the rest of this post any time you see >>> assume it is a python interpreter command
 

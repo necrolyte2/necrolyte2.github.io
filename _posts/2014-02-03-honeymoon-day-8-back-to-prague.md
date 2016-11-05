@@ -29,7 +29,7 @@ Afterwards, we picked a tourist spot from Trip Advisor to go visit. <a title="Di
 &nbsp;
 
 <div style="width: 244px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/HHp4fNwQylIhR8PD8LFubLozZCucwIDI1pqMgAv79VE=w234-h175-p-no"><img alt="" src="https://lh4.googleusercontent.com/HHp4fNwQylIhR8PD8LFubLozZCucwIDI1pqMgAv79VE=w234-h175-p-no" width="234" height="175" /></a>
+  <a href="https://lh4.googleusercontent.com/HHp4fNwQylIhR8PD8LFubLozZCucwIDI1pqMgAv79VE=w234-h175-p-no"><img alt="alt" src="https://lh4.googleusercontent.com/HHp4fNwQylIhR8PD8LFubLozZCucwIDI1pqMgAv79VE=w234-h175-p-no" width="234" height="175" /></a>
   
   <p class="wp-caption-text">
     Map of the town
@@ -37,7 +37,7 @@ Afterwards, we picked a tourist spot from Trip Advisor to go visit. <a title="Di
 </div>
 
 <div style="width: 625px" class="wp-caption aligncenter">
-  <a href="https://lh3.googleusercontent.com/WKeeX8QLJCTN2QMqeJ-2_0I8GX49JLh1a8fTQJkHiqI=w615-h175-p-no"><img alt="" src="https://lh3.googleusercontent.com/WKeeX8QLJCTN2QMqeJ-2_0I8GX49JLh1a8fTQJkHiqI=w615-h175-p-no" width="615" height="175" /></a>
+  <a href="https://lh3.googleusercontent.com/WKeeX8QLJCTN2QMqeJ-2_0I8GX49JLh1a8fTQJkHiqI=w615-h175-p-no"><img alt="alt" src="https://lh3.googleusercontent.com/WKeeX8QLJCTN2QMqeJ-2_0I8GX49JLh1a8fTQJkHiqI=w615-h175-p-no" width="615" height="175" /></a>
   
   <p class="wp-caption-text">
     View from just near our hotel
@@ -49,7 +49,7 @@ Down down down down with no slipping. If you had super sight you could see just 
 But first the quick stop into McDonalds to unlock an achievement.
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/-pLqrQIioIdo/Uut2W-0y2AI/AAAAAAAAPrs/NoO-W4_lJhc/w377-h502-no/IMG_20140131_110740.jpg"><img alt="" src="https://lh4.googleusercontent.com/-pLqrQIioIdo/Uut2W-0y2AI/AAAAAAAAPrs/NoO-W4_lJhc/w377-h502-no/IMG_20140131_110740.jpg" width="376" height="502" /></a>
+  <a href="https://lh4.googleusercontent.com/-pLqrQIioIdo/Uut2W-0y2AI/AAAAAAAAPrs/NoO-W4_lJhc/w377-h502-no/IMG_20140131_110740.jpg"><img alt="alt" src="https://lh4.googleusercontent.com/-pLqrQIioIdo/Uut2W-0y2AI/AAAAAAAAPrs/NoO-W4_lJhc/w377-h502-no/IMG_20140131_110740.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     Get a beer with a cheeseburger at McDonalds unlocked
@@ -59,7 +59,7 @@ But first the quick stop into McDonalds to unlock an achievement.
 Cha-Ching! Across the street is the iWant store. Haha.
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/-s12k1_xhh_4/Uuvu9Q6wPoI/AAAAAAAAP1s/iu6hYdK-wKE/w377-h502-no/IMG_20140131_110400.jpg"><img alt="" src="https://lh4.googleusercontent.com/-s12k1_xhh_4/Uuvu9Q6wPoI/AAAAAAAAP1s/iu6hYdK-wKE/w377-h502-no/IMG_20140131_110400.jpg" width="376" height="502" /></a>
+  <a href="https://lh4.googleusercontent.com/-s12k1_xhh_4/Uuvu9Q6wPoI/AAAAAAAAP1s/iu6hYdK-wKE/w377-h502-no/IMG_20140131_110400.jpg"><img alt="alt" src="https://lh4.googleusercontent.com/-s12k1_xhh_4/Uuvu9Q6wPoI/AAAAAAAAP1s/iu6hYdK-wKE/w377-h502-no/IMG_20140131_110400.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     I actually do not want though
@@ -71,7 +71,7 @@ Off to the train station. We get there about an hour early. Hmm, only trains mar
 Train arrives and we plop on into our first class assigned seats. Only one picture on my phone from the train ride.
 
 <div style="width: 679px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/-rRtpVFIr17k/UuvvfmptECI/AAAAAAAAP4A/XELxuFz0hIo/w669-h502-no/IMG_20140131_133215.jpg"><img alt="" src="https://lh4.googleusercontent.com/-rRtpVFIr17k/UuvvfmptECI/AAAAAAAAP4A/XELxuFz0hIo/w669-h502-no/IMG_20140131_133215.jpg" width="669" height="502" /></a>
+  <a href="https://lh4.googleusercontent.com/-rRtpVFIr17k/UuvvfmptECI/AAAAAAAAP4A/XELxuFz0hIo/w669-h502-no/IMG_20140131_133215.jpg"><img alt="alt" src="https://lh4.googleusercontent.com/-rRtpVFIr17k/UuvvfmptECI/AAAAAAAAP4A/XELxuFz0hIo/w669-h502-no/IMG_20140131_133215.jpg" width="669" height="502" /></a>
   
   <p class="wp-caption-text">
     Cottages along the river. Or maybe they are houses, I don&#8217;t know. I like the idea of cottages better.
@@ -83,7 +83,7 @@ Zoom zoom zoom we go. This train is a bit older and we have a room with 6 seats 
 We get into Prague around 4:30pm and head back to the apartment and drop off our goods. Then we head out to the main town center where the <a title="Prague Astronomical Clock" href="http://en.wikipedia.org/wiki/Prague_astronomical_clock" target="_blank">astronomical clock</a> is and stuff. Aka, tourist central.
 
 <div style="width: 968px" class="wp-caption aligncenter">
-  <a href="https://lh5.googleusercontent.com/-p8O6ZuUtCtw/Uuvv6AW0kSI/AAAAAAAAP5c/6pkUknFpXNU/w958-h295-no/PANO_20140131_173136.jpg"><img alt="" src="https://lh5.googleusercontent.com/-p8O6ZuUtCtw/Uuvv6AW0kSI/AAAAAAAAP5c/6pkUknFpXNU/w958-h295-no/PANO_20140131_173136.jpg" width="958" height="295" /></a>
+  <a href="https://lh5.googleusercontent.com/-p8O6ZuUtCtw/Uuvv6AW0kSI/AAAAAAAAP5c/6pkUknFpXNU/w958-h295-no/PANO_20140131_173136.jpg"><img alt="alt" src="https://lh5.googleusercontent.com/-p8O6ZuUtCtw/Uuvv6AW0kSI/AAAAAAAAP5c/6pkUknFpXNU/w958-h295-no/PANO_20140131_173136.jpg" width="958" height="295" /></a>
   
   <p class="wp-caption-text">
     Town Center at night. Click for photosphere goodness
@@ -91,7 +91,7 @@ We get into Prague around 4:30pm and head back to the apartment and drop off our
 </div>
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh3.googleusercontent.com/-QAeADlrvfj8/Uuvv0KlKGCI/AAAAAAAAP48/u0kBIecyeKk/w377-h502-no/IMG_20140131_172849.jpg"><img alt="" src="https://lh3.googleusercontent.com/-QAeADlrvfj8/Uuvv0KlKGCI/AAAAAAAAP48/u0kBIecyeKk/w377-h502-no/IMG_20140131_172849.jpg" width="376" height="502" /></a>
+  <a href="https://lh3.googleusercontent.com/-QAeADlrvfj8/Uuvv0KlKGCI/AAAAAAAAP48/u0kBIecyeKk/w377-h502-no/IMG_20140131_172849.jpg"><img alt="alt" src="https://lh3.googleusercontent.com/-QAeADlrvfj8/Uuvv0KlKGCI/AAAAAAAAP48/u0kBIecyeKk/w377-h502-no/IMG_20140131_172849.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     Lights, buildings and stuff
@@ -99,7 +99,7 @@ We get into Prague around 4:30pm and head back to the apartment and drop off our
 </div>
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/-4M7XmaroVxE/Uuvv4F8v1GI/AAAAAAAAP5Q/ZOsPitb0OCo/w377-h502-no/IMG_20140131_172943.jpg"><img alt="" src="https://lh4.googleusercontent.com/-4M7XmaroVxE/Uuvv4F8v1GI/AAAAAAAAP5Q/ZOsPitb0OCo/w377-h502-no/IMG_20140131_172943.jpg" width="376" height="502" /></a>
+  <a href="https://lh4.googleusercontent.com/-4M7XmaroVxE/Uuvv4F8v1GI/AAAAAAAAP5Q/ZOsPitb0OCo/w377-h502-no/IMG_20140131_172943.jpg"><img alt="alt" src="https://lh4.googleusercontent.com/-4M7XmaroVxE/Uuvv4F8v1GI/AAAAAAAAP5Q/ZOsPitb0OCo/w377-h502-no/IMG_20140131_172943.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     The clock
@@ -109,7 +109,7 @@ We get into Prague around 4:30pm and head back to the apartment and drop off our
 Mel and I head over to George & Dragon, an English pub for noms.
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh6.googleusercontent.com/-E9FoGU0pJws/UuvwAylywwI/AAAAAAAAP6E/ZQZtMfnXRMQ/w377-h502-no/IMG_20140131_175700.jpg"><img alt="" src="https://lh6.googleusercontent.com/-E9FoGU0pJws/UuvwAylywwI/AAAAAAAAP6E/ZQZtMfnXRMQ/w377-h502-no/IMG_20140131_175700.jpg" width="376" height="502" /></a>
+  <a href="https://lh6.googleusercontent.com/-E9FoGU0pJws/UuvwAylywwI/AAAAAAAAP6E/ZQZtMfnXRMQ/w377-h502-no/IMG_20140131_175700.jpg"><img alt="alt" src="https://lh6.googleusercontent.com/-E9FoGU0pJws/UuvwAylywwI/AAAAAAAAP6E/ZQZtMfnXRMQ/w377-h502-no/IMG_20140131_175700.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     Top &#8211; Nachos. Bottom &#8211; Beef & Mushroom pie
@@ -119,7 +119,7 @@ Mel and I head over to George & Dragon, an English pub for noms.
 Pretty tasty stuff. After dinner we head to the Absintherie.
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh6.googleusercontent.com/--bsptq0Plmc/UuvwOHY9YfI/AAAAAAAAP60/eNwKoXpNb_w/w377-h502-no/IMG_20140131_184612.jpg"><img alt="" src="https://lh6.googleusercontent.com/--bsptq0Plmc/UuvwOHY9YfI/AAAAAAAAP60/eNwKoXpNb_w/w377-h502-no/IMG_20140131_184612.jpg" width="376" height="502" /></a>
+  <a href="https://lh6.googleusercontent.com/--bsptq0Plmc/UuvwOHY9YfI/AAAAAAAAP60/eNwKoXpNb_w/w377-h502-no/IMG_20140131_184612.jpg"><img alt="alt" src="https://lh6.googleusercontent.com/--bsptq0Plmc/UuvwOHY9YfI/AAAAAAAAP60/eNwKoXpNb_w/w377-h502-no/IMG_20140131_184612.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     Stock
@@ -127,7 +127,7 @@ Pretty tasty stuff. After dinner we head to the Absintherie.
 </div>
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh3.googleusercontent.com/-BKZBYmZf-sg/UuvwRlN-vSI/AAAAAAAAP7A/58Af-iLR3KQ/w377-h502-no/IMG_20140131_190720.jpg"><img alt="" src="https://lh3.googleusercontent.com/-BKZBYmZf-sg/UuvwRlN-vSI/AAAAAAAAP7A/58Af-iLR3KQ/w377-h502-no/IMG_20140131_190720.jpg" width="376" height="502" /></a>
+  <a href="https://lh3.googleusercontent.com/-BKZBYmZf-sg/UuvwRlN-vSI/AAAAAAAAP7A/58Af-iLR3KQ/w377-h502-no/IMG_20140131_190720.jpg"><img alt="alt" src="https://lh3.googleusercontent.com/-BKZBYmZf-sg/UuvwRlN-vSI/AAAAAAAAP7A/58Af-iLR3KQ/w377-h502-no/IMG_20140131_190720.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     Menu Front
@@ -135,7 +135,7 @@ Pretty tasty stuff. After dinner we head to the Absintherie.
 </div>
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh5.googleusercontent.com/-YEqdX8ySduQ/UuvwLldeb9I/AAAAAAAAP6o/-qj0FddFlwg/w377-h502-no/IMG_20140131_184510.jpg"><img alt="" src="https://lh5.googleusercontent.com/-YEqdX8ySduQ/UuvwLldeb9I/AAAAAAAAP6o/-qj0FddFlwg/w377-h502-no/IMG_20140131_184510.jpg" width="376" height="502" /></a>
+  <a href="https://lh5.googleusercontent.com/-YEqdX8ySduQ/UuvwLldeb9I/AAAAAAAAP6o/-qj0FddFlwg/w377-h502-no/IMG_20140131_184510.jpg"><img alt="alt" src="https://lh5.googleusercontent.com/-YEqdX8ySduQ/UuvwLldeb9I/AAAAAAAAP6o/-qj0FddFlwg/w377-h502-no/IMG_20140131_184510.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     Menu
@@ -143,7 +143,7 @@ Pretty tasty stuff. After dinner we head to the Absintherie.
 </div>
 
 <div style="width: 679px" class="wp-caption aligncenter">
-  <a href="https://lh6.googleusercontent.com/-iWzOMKQVosY/UuvwIEI3epI/AAAAAAAAP6c/jvV1CurQgUQ/w669-h502-no/IMG_20140131_184459.jpg"><img alt="" src="https://lh6.googleusercontent.com/-iWzOMKQVosY/UuvwIEI3epI/AAAAAAAAP6c/jvV1CurQgUQ/w669-h502-no/IMG_20140131_184459.jpg" width="669" height="502" /></a>
+  <a href="https://lh6.googleusercontent.com/-iWzOMKQVosY/UuvwIEI3epI/AAAAAAAAP6c/jvV1CurQgUQ/w669-h502-no/IMG_20140131_184459.jpg"><img alt="alt" src="https://lh6.googleusercontent.com/-iWzOMKQVosY/UuvwIEI3epI/AAAAAAAAP6c/jvV1CurQgUQ/w669-h502-no/IMG_20140131_184459.jpg" width="669" height="502" /></a>
   
   <p class="wp-caption-text">
     Left &#8211; Petit Frere Pure Right &#8211; Absinth 35
@@ -153,7 +153,7 @@ Pretty tasty stuff. After dinner we head to the Absintherie.
 Very interesting liquor. The stuff on the left had water drizzled through a sugar cube while the stuff on the right was set on fire for a while with a burned sugar cube on top. This is done to make the alcohol smooth in taste.
 
 <div style="width: 386px" class="wp-caption aligncenter">
-  <a href="https://lh3.googleusercontent.com/-IsnVfifrT88/UuvwU4TliLI/AAAAAAAAP7M/t4GlXAYrAOk/w377-h502-no/IMG_20140131_190845.jpg"><img alt="" src="https://lh3.googleusercontent.com/-IsnVfifrT88/UuvwU4TliLI/AAAAAAAAP7M/t4GlXAYrAOk/w377-h502-no/IMG_20140131_190845.jpg" width="376" height="502" /></a>
+  <a href="https://lh3.googleusercontent.com/-IsnVfifrT88/UuvwU4TliLI/AAAAAAAAP7M/t4GlXAYrAOk/w377-h502-no/IMG_20140131_190845.jpg"><img alt="alt" src="https://lh3.googleusercontent.com/-IsnVfifrT88/UuvwU4TliLI/AAAAAAAAP7M/t4GlXAYrAOk/w377-h502-no/IMG_20140131_190845.jpg" width="376" height="502" /></a>
   
   <p class="wp-caption-text">
     Left &#8211; King of Spirits with ice Right &#8211; Absinth Coffee Drink

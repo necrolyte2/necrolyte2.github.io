@@ -23,7 +23,7 @@ A little background
   
 [Crow](http://en.wikipedia.org/wiki/Crow)
   
-[Magpie](http://enpecial.wikipedia.org/wiki/Magpie)
+[Magpie](https://en.wikipedia.org/wiki/Magpie)
 
 I&#8217;m not going to go into full detail on them here as they will have a full dedicated page soon, most likely right after this post.
   

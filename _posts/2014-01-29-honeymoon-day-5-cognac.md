@@ -61,7 +61,7 @@ Ya, pretty much just the beer selection at a local Mini market.
 After blogging from Starbucks I headed back to the hotel to dump off my bag and head back out with Mel. We didn&#8217;t really have a plan other than finding a fun little lunch spot. We re-traced my previous walking tour and found a decent place.
 
 <div style="width: 411px" class="wp-caption alignnone">
-  <img class=" " alt="" src="https://lh4.googleusercontent.com/-8KIzqDJXvgQ/UufH5Pw_zLI/AAAAAAAAPZ4/-vZ9Q9LaCcA/w669-h502-no/IMG_20140128_133251.jpg" width="401" height="301" />
+  <img class=" " alt="alt" src="https://lh4.googleusercontent.com/-8KIzqDJXvgQ/UufH5Pw_zLI/AAAAAAAAPZ4/-vZ9Q9LaCcA/w669-h502-no/IMG_20140128_133251.jpg" width="401" height="301" />
   
   <p class="wp-caption-text">
     Wine and whatever it says on the mug
@@ -69,7 +69,7 @@ After blogging from Starbucks I headed back to the hotel to dump off my bag and 
 </div>
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh4.googleusercontent.com/-iMGT0GNo7X8/UufH_F6viYI/AAAAAAAAPaE/35agHbo2U8A/w377-h502-no/IMG_20140128_135429.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh4.googleusercontent.com/-iMGT0GNo7X8/UufH_F6viYI/AAAAAAAAPaE/35agHbo2U8A/w377-h502-no/IMG_20140128_135429.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Two Goulosh&#8217;s please
@@ -81,7 +81,7 @@ Very very tasty.
 After lunch we headed off towards a TripAdvisor recommended place. The John Lennon Wall. But first, a random picture of something.
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh5.googleusercontent.com/-LE3JRGblhD8/UufILibKGmI/AAAAAAAAPaQ/MrUf1PIjSgQ/w377-h502-no/IMG_20140128_143931.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh5.googleusercontent.com/-LE3JRGblhD8/UufILibKGmI/AAAAAAAAPaQ/MrUf1PIjSgQ/w377-h502-no/IMG_20140128_143931.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Church or something
@@ -91,7 +91,7 @@ After lunch we headed off towards a TripAdvisor recommended place. The John Lenn
 The John Lennon Wall was pretty colorful. It was also a wall. Yep, a colorful graffiti wall.
 
 <div style="width: 722px" class="wp-caption aligncenter">
-  <a href="https://lh5.googleusercontent.com/-nJm1N31X9zg/UufInyQQiCI/AAAAAAAAPbA/NgeEfn4qNRc/w712-h502-no/PANO_20140128_145420.jpg"><img alt="" src="https://lh5.googleusercontent.com/-nJm1N31X9zg/UufInyQQiCI/AAAAAAAAPbA/NgeEfn4qNRc/w712-h502-no/PANO_20140128_145420.jpg" width="712" height="502" /></a>
+  <a href="https://lh5.googleusercontent.com/-nJm1N31X9zg/UufInyQQiCI/AAAAAAAAPbA/NgeEfn4qNRc/w712-h502-no/PANO_20140128_145420.jpg"><img alt="alt" src="https://lh5.googleusercontent.com/-nJm1N31X9zg/UufInyQQiCI/AAAAAAAAPbA/NgeEfn4qNRc/w712-h502-no/PANO_20140128_145420.jpg" width="712" height="502" /></a>
   
   <p class="wp-caption-text">
     Photosphere of John Lennon Wall.
@@ -101,7 +101,7 @@ The John Lennon Wall was pretty colorful. It was also a wall. Yep, a colorful gr
 Finally a picture of Mel and me.
 
 <p style="text-align: center;">
-  <a href="https://lh5.googleusercontent.com/-87-7M9LpTGc/UufINKTAiaI/AAAAAAAAPac/6_qZEnrpGqs/w377-h502-no/IMG_20140128_145358.jpg"><img class="aligncenter" alt="" src="https://lh5.googleusercontent.com/-87-7M9LpTGc/UufINKTAiaI/AAAAAAAAPac/6_qZEnrpGqs/w377-h502-no/IMG_20140128_145358.jpg" width="376" height="502" /></a>
+  <a href="https://lh5.googleusercontent.com/-87-7M9LpTGc/UufINKTAiaI/AAAAAAAAPac/6_qZEnrpGqs/w377-h502-no/IMG_20140128_145358.jpg"><img class="aligncenter" alt="alt" src="https://lh5.googleusercontent.com/-87-7M9LpTGc/UufINKTAiaI/AAAAAAAAPac/6_qZEnrpGqs/w377-h502-no/IMG_20140128_145358.jpg" width="376" height="502" /></a>
 </p>
 
 Mel has been suffering from some allergies and a wonderful cold/flu. What a trooper she is, but we must take our 5pm nap. What does that mean though? Of course, then we wake up and explore more!
@@ -109,14 +109,14 @@ Mel has been suffering from some allergies and a wonderful cold/flu. What a troo
 But, before nap time I run out and grab us something I saw the day before. Haha, I guess swirl cut deep fried potatoe? Also, of course, sausage with cheese for a good healthy snack.
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh4.googleusercontent.com/-H2nO5FbHVoM/UufP9zqeUbI/AAAAAAAAPbc/eidd-3Mm1PQ/w377-h502-no/IMG_20140128_162917.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh4.googleusercontent.com/-H2nO5FbHVoM/UufP9zqeUbI/AAAAAAAAPbc/eidd-3Mm1PQ/w377-h502-no/IMG_20140128_162917.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Hot Potato(swirl cut potato deep fried)
   </p>
 </div>
 
-<img class="alignnone" alt="" src="https://lh5.googleusercontent.com/-y17SieExgts/UufQCp9CUOI/AAAAAAAAPbo/iF2oXsr7oXg/w377-h502-no/IMG_20140128_162924.jpg" width="376" height="502" />
+<img class="alignnone" alt="alt" src="https://lh5.googleusercontent.com/-y17SieExgts/UufQCp9CUOI/AAAAAAAAPbo/iF2oXsr7oXg/w377-h502-no/IMG_20140128_162924.jpg" width="376" height="502" />
 
 Zzzzzzzzzzzzzzzzzzzzzzzzzz&#8230;.zzzzzzzzzzzz&#8230;..drooling&#8230;.snore&#8230;.zzzzzzzz. Awake!!!!
 
@@ -125,7 +125,7 @@ Zzzzzzzzzzzzzzzzzzzzzzzzzz&#8230;.zzzzzzzzzzzz&#8230;..drooling&#8230;.snore&#82
 A short walk and a random place later, we find a goofy restaurant with a table glued to the ceiling. Food is pretty good too.
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh5.googleusercontent.com/-fn6DGSfS3E4/Uug6mkHV6QI/AAAAAAAAPhA/tOK9Bsm-htw/w377-h502-no/IMG_20140128_213432.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh5.googleusercontent.com/-fn6DGSfS3E4/Uug6mkHV6QI/AAAAAAAAPhA/tOK9Bsm-htw/w377-h502-no/IMG_20140128_213432.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Top &#8211; Something tasty. Bottom &#8211; Grilled chicken wings

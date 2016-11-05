@@ -13,7 +13,7 @@ tags:
   - castle
   - prague
 ---
-<img class="alignleft" alt="" src="https://lh6.googleusercontent.com/-dprgsWTOPXM/UuYYCR4n48I/AAAAAAAAPRU/KHoZNa4WsZw/w377-h502-no/IMG_20140127_092529.jpg" width="226" height="301" />Our day starts out with breakfast in the common room area. Pretty awesome as there is fresh fruit, coffee, cheeses and they will make you anything off of the menu as well. For free. Well, part of the room price I guess.
+<img class="alignleft" alt="alt" src="https://lh6.googleusercontent.com/-dprgsWTOPXM/UuYYCR4n48I/AAAAAAAAPRU/KHoZNa4WsZw/w377-h502-no/IMG_20140127_092529.jpg" width="226" height="301" />Our day starts out with breakfast in the common room area. Pretty awesome as there is fresh fruit, coffee, cheeses and they will make you anything off of the menu as well. For free. Well, part of the room price I guess.
 
 After breakfast we head to the lobby to meet our tour guide for the morning. I&#8217;m really good with remembering names so let&#8217;s call her Sue.
 
@@ -26,7 +26,7 @@ After thawing out a bit, we plan some activities of what we want to do in the up
 The tram is really close by to our hotel so we hop on the 22 and it takes us up to very near where we want to go. We get off and walk up the street and into the smoke filled brewery. Everything here is smoky&#8230;go go stuffed sinuses.
 
 <div style="width: 236px" class="wp-caption alignnone">
-  <img alt="" src="https://lh6.googleusercontent.com/-q-ScaRte_h0/UuaT6cBlIrI/AAAAAAAAPSU/uUDKkYxOGBQ/w377-h502-no/IMG_20140127_163023.jpg" width="226" height="301" />
+  <img alt="alt" src="https://lh6.googleusercontent.com/-q-ScaRte_h0/UuaT6cBlIrI/AAAAAAAAPSU/uUDKkYxOGBQ/w377-h502-no/IMG_20140127_163023.jpg" width="226" height="301" />
   
   <p class="wp-caption-text">
     Menu
@@ -34,19 +34,19 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 236px" class="wp-caption alignnone">
-  <img alt="" src="https://lh6.googleusercontent.com/-2JCZXUrK4Nw/UuaT21d9oqI/AAAAAAAAPSI/kSr5I30TvXQ/w377-h502-no/IMG_20140127_162701.jpg" width="226" height="301" />
+  <img alt="alt" src="https://lh6.googleusercontent.com/-2JCZXUrK4Nw/UuaT21d9oqI/AAAAAAAAPSI/kSr5I30TvXQ/w377-h502-no/IMG_20140127_162701.jpg" width="226" height="301" />
   
   <p class="wp-caption-text">
     Sign outside
   </p>
 </div>
 
-<img class="alignnone" alt="" src="https://lh3.googleusercontent.com/-ea2M9i4DVUA/UuamDmvd_0I/AAAAAAAAPW0/Hk2pqMO3jOA/w669-h502-no/IMG_20140127_163546.jpg" width="401" height="301" />
+<img class="alignnone" alt="alt" src="https://lh3.googleusercontent.com/-ea2M9i4DVUA/UuamDmvd_0I/AAAAAAAAPW0/Hk2pqMO3jOA/w669-h502-no/IMG_20140127_163546.jpg" width="401" height="301" />
 
-<img class="alignnone" alt="" src="https://lh6.googleusercontent.com/-FcMIsIAdFvs/UuamHAXmI0I/AAAAAAAAPXA/dir5dt_8bn8/w669-h502-no/IMG_20140127_163556.jpg" width="401" height="301" />
+<img class="alignnone" alt="alt" src="https://lh6.googleusercontent.com/-FcMIsIAdFvs/UuamHAXmI0I/AAAAAAAAPXA/dir5dt_8bn8/w669-h502-no/IMG_20140127_163556.jpg" width="401" height="301" />
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh4.googleusercontent.com/-oooPEteURqk/UuajgzHjZBI/AAAAAAAAPS4/4jXh0CH2kI8/w377-h502-no/IMG_20140127_163606.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh4.googleusercontent.com/-oooPEteURqk/UuajgzHjZBI/AAAAAAAAPS4/4jXh0CH2kI8/w377-h502-no/IMG_20140127_163606.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Bartender/Tap area
@@ -54,7 +54,7 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh4.googleusercontent.com/-kJg1YLDixQE/Uuajks_qFRI/AAAAAAAAPTE/ksG66nwSy9U/w377-h502-no/IMG_20140127_163611.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh4.googleusercontent.com/-kJg1YLDixQE/Uuajks_qFRI/AAAAAAAAPTE/ksG66nwSy9U/w377-h502-no/IMG_20140127_163611.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Brewing area
@@ -62,7 +62,7 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh6.googleusercontent.com/-csIlYXumk6c/Uuajv60ZsEI/AAAAAAAAPTQ/2MF41Tg3TkQ/w377-h502-no/IMG_20140127_163745.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh6.googleusercontent.com/-csIlYXumk6c/Uuajv60ZsEI/AAAAAAAAPTQ/2MF41Tg3TkQ/w377-h502-no/IMG_20140127_163745.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Da Beers. Left &#8211; Unfiltered Dark. Right &#8211; Dunkler Weizenbock
@@ -70,7 +70,7 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 679px" class="wp-caption alignnone">
-  <img alt="" src="https://lh3.googleusercontent.com/-9YRxlb9uOyY/UuamKnizh9I/AAAAAAAAPXM/Vil4iuTEnKE/w669-h502-no/IMG_20140127_164339.jpg" width="669" height="502" />
+  <img alt="alt" src="https://lh3.googleusercontent.com/-9YRxlb9uOyY/UuamKnizh9I/AAAAAAAAPXM/Vil4iuTEnKE/w669-h502-no/IMG_20140127_164339.jpg" width="669" height="502" />
   
   <p class="wp-caption-text">
     Some noms. Potatoes and Meat
@@ -78,7 +78,7 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh6.googleusercontent.com/-0-DqJ1wez4w/UuakQ90V1yI/AAAAAAAAPT0/s8RR1euQ5tI/w377-h502-no/IMG_20140127_170401.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh6.googleusercontent.com/-0-DqJ1wez4w/UuakQ90V1yI/AAAAAAAAPT0/s8RR1euQ5tI/w377-h502-no/IMG_20140127_170401.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Amber beer
@@ -86,7 +86,7 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh4.googleusercontent.com/-YMVg4_2SWJ4/UuakUpB81ZI/AAAAAAAAPUA/uHWyTvs8lyc/w377-h502-no/IMG_20140127_171953.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh4.googleusercontent.com/-YMVg4_2SWJ4/UuakUpB81ZI/AAAAAAAAPUA/uHWyTvs8lyc/w377-h502-no/IMG_20140127_171953.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     The bill
@@ -94,7 +94,7 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 411px" class="wp-caption alignnone">
-  <img class=" " alt="" src="https://lh6.googleusercontent.com/-ZfcGdd0LVDg/Uuakbf7RepI/AAAAAAAAPUM/rCynyJ4zrEY/w669-h502-no/IMG_20140127_172356.jpg" width="401" height="301" />
+  <img class=" " alt="alt" src="https://lh6.googleusercontent.com/-ZfcGdd0LVDg/Uuakbf7RepI/AAAAAAAAPUM/rCynyJ4zrEY/w669-h502-no/IMG_20140127_172356.jpg" width="401" height="301" />
   
   <p class="wp-caption-text">
     St. Norbert
@@ -102,7 +102,7 @@ The tram is really close by to our hotel so we hop on the 22 and it takes us up 
 </div>
 
 <div style="width: 411px" class="wp-caption alignnone">
-  <img class=" " alt="" src="https://lh5.googleusercontent.com/-VCtSvemFwd0/Uuakjgil8gI/AAAAAAAAPUY/tWGVUO4SQT4/w669-h502-no/IMG_20140127_172401.jpg" width="401" height="301" />
+  <img class=" " alt="alt" src="https://lh5.googleusercontent.com/-VCtSvemFwd0/Uuakjgil8gI/AAAAAAAAPUY/tWGVUO4SQT4/w669-h502-no/IMG_20140127_172401.jpg" width="401" height="301" />
   
   <p class="wp-caption-text">
     No idea what this says
@@ -114,7 +114,7 @@ After the brewery we head back to the hotel with a slight detour to try and find
 Right near our hotel was a very small hole in the wall wine place so we stop in. Enough space for about 10 people. There are 2-3 local guys in there talking with the bartender.
 
 <div style="width: 968px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/-VAHlUuqmLAc/Uuaktml3FiI/AAAAAAAAPUw/fsKts7O03Vk/w958-h276-no/PANO_20140127_182758.jpg"><img alt="" src="https://lh4.googleusercontent.com/-VAHlUuqmLAc/Uuaktml3FiI/AAAAAAAAPUw/fsKts7O03Vk/w958-h276-no/PANO_20140127_182758.jpg" width="958" height="276" /></a>
+  <a href="https://lh4.googleusercontent.com/-VAHlUuqmLAc/Uuaktml3FiI/AAAAAAAAPUw/fsKts7O03Vk/w958-h276-no/PANO_20140127_182758.jpg"><img alt="alt" src="https://lh4.googleusercontent.com/-VAHlUuqmLAc/Uuaktml3FiI/AAAAAAAAPUw/fsKts7O03Vk/w958-h276-no/PANO_20140127_182758.jpg" width="958" height="276" /></a>
   
   <p class="wp-caption-text">
     Google photosphere of the place. Click on the picture to load it so you can scroll around and such.
@@ -124,7 +124,7 @@ Right near our hotel was a very small hole in the wall wine place so we stop in.
 It was not intentional to blur out Mel&#8217;s head in the picture, haha. I had intended for her to not be in the picture at all, but this happened instead. The picture is the composition of about 20 pictures or so taken with my phone
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh3.googleusercontent.com/-f0v-HVxqikI/UuakrTt0QNI/AAAAAAAAPUk/p_nzppAe5u4/w377-h502-no/IMG_20140127_181838.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh3.googleusercontent.com/-f0v-HVxqikI/UuakrTt0QNI/AAAAAAAAPUk/p_nzppAe5u4/w377-h502-no/IMG_20140127_181838.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Only beer they had

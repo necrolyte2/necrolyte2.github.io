@@ -20,5 +20,3 @@ tags:
 I threw together something for the Bozeman ultimate site to get everything all in one spot. Should work out well.
 
 It pulls the rss feeds from the blog and the mailing list and puts them on a single page and has links for everything.
-
-[Bozeman Ultimate Site](http://www.montana.edu/ultimate)

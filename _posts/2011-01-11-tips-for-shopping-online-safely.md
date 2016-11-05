@@ -35,16 +35,6 @@ First off, I&#8217;m not a security expert, nor should you expect that if you fo
 
 The first thing is that you should always..ALWAYS, yes I used all capital letters so it is very important, ALWAYS make sure that you see https and that lock symbol in your address bar when logging in as well as when you are checking out or putting any kind of personal information that you don&#8217;t want anybody else to know.
 
-<div id="attachment_661" style="width: 77px" class="wp-caption alignnone">
-  <a href="/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png"><img class="size-full wp-image-661" title="SSL Lock" src="/wp-content/uploads/2011/01/Screen-shot-2011-01-11-at-11.37.09-AM.png" alt="SSL lock image" width="67" height="28" /></a>
-  
-  <p class="wp-caption-text">
-    SSL lock image
-  </p>
-</div>
-
-The image above is taken from Google Chrome, but all browsers have similar icons somewhere on the page.
-
 Normally when you view pages you use an address that looks similar to this:
 
 [http://www.gmail.com](http://www.gmail.com "Gmail http")
@@ -67,7 +57,7 @@ HTTP means that you are telling the truck to use a glass trailer. HTTPS means yo
 
 <span style="color:#000080;">You have now just completed a secure data transaction using a semi-truck example. </span>
 
-<span style="color:#ff6600;"><span style="color:#000080;">I made a simple Google Drawing to show this transaction.</span><br /> </span> ![](https://docs.google.com/drawings/pub?id=17fEyUdSYiNpvDFEe1Ih2Vu0iae56mmdfqry49WbGd-A&w=692&h=495)
+<span style="color:#ff6600;"><span style="color:#000080;">I made a simple Google Drawing to show this transaction.</span><br /> </span> ![alt](https://docs.google.com/drawings/pub?id=17fEyUdSYiNpvDFEe1Ih2Vu0iae56mmdfqry49WbGd-A&w=692&h=495)
 
 # Password Strength
 
@@ -110,8 +100,8 @@ The short of this is, if you shop online, you should probably use your credit ca
 
 So now that I have scared you about using your debit card or maybe I have scared you from shopping online at all, lets look at some other ways to shop online very safely.
 
-  * <a title="Paypal" href="http://www.paypal.com" target="_blank">Paypal</a>
-  * <a title="Google Checkout" href="http://checkout.google.com" target="_blank">Google Checkout</a>
+  * <a title="Paypal" href="https://www.paypal.com" target="_blank">Paypal</a>
+  * <a title="Google Wallet" href="https://wallet.google.com" target="_blank">Google Checkout</a>
 
 There are some others, but quite frankly, I don&#8217;t know of them and these two are the most commonly used. Both of these services are payment systems that websites use to get paid with. You set up an account with the payment system and link it to your bank account and then when you go to a website that supports them, you can securely pay the website without giving anybody else your credit card number.
 

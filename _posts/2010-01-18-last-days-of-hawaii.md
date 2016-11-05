@@ -41,35 +41,35 @@ Here is a short video of the waves
 
 This was at one of the shops along the way
   
-[![](http://lh6.ggpht.com/_wdJ3rlAqngs/S0-z1Iz-NWI/AAAAAAAACDY/Yjx2bANf250/s288/IMGP6860.jpg)](http://picasaweb.google.com/lh/photo/GjyflELUeLxtGwGjDzAw0A?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh6.ggpht.com/_wdJ3rlAqngs/S0-z1Iz-NWI/AAAAAAAACDY/Yjx2bANf250/s288/IMGP6860.jpg)](http://picasaweb.google.com/lh/photo/GjyflELUeLxtGwGjDzAw0A?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 Here you can see some of the mountain range on one of the beaches
   
-[![](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z13d8rDI/AAAAAAAACDc/lZih0qdeDwA/s288/IMGP6870.jpg)](http://picasaweb.google.com/lh/photo/xwxaKis4LR4KehVm921j5Q?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z13d8rDI/AAAAAAAACDc/lZih0qdeDwA/s288/IMGP6870.jpg)](http://picasaweb.google.com/lh/photo/xwxaKis4LR4KehVm921j5Q?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 Fisherman&#8217;s Hat
   
-[![](http://lh4.ggpht.com/_wdJ3rlAqngs/S0-z4UzLIkI/AAAAAAAACDo/ZEvTmsNO1LY/s288/IMGP6876.jpg)](http://picasaweb.google.com/lh/photo/wjgX3SZL1xhx3EJW7WCmuQ?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh4.ggpht.com/_wdJ3rlAqngs/S0-z4UzLIkI/AAAAAAAACDo/ZEvTmsNO1LY/s288/IMGP6876.jpg)](http://picasaweb.google.com/lh/photo/wjgX3SZL1xhx3EJW7WCmuQ?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 This is one of the many beaches on the East side of the island
   
-[![](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z5A6_zuI/AAAAAAAACDs/SFJnUiuL9Zk/s288/IMGP6883.jpg)](http://picasaweb.google.com/lh/photo/4oWtRJpj3BZ9MIFO3zmJ_Q?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z5A6_zuI/AAAAAAAACDs/SFJnUiuL9Zk/s288/IMGP6883.jpg)](http://picasaweb.google.com/lh/photo/4oWtRJpj3BZ9MIFO3zmJ_Q?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 The North shore waves
   
-[![](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z8MMvHwI/AAAAAAAACEU/ewvrCxFBjs0/s288/IMGP6914.jpg)](http://picasaweb.google.com/lh/photo/TLMUtLCpr8GD4qjhdkx0Mg?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z8MMvHwI/AAAAAAAACEU/ewvrCxFBjs0/s288/IMGP6914.jpg)](http://picasaweb.google.com/lh/photo/TLMUtLCpr8GD4qjhdkx0Mg?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 Attempt at being artistic
   
-[![](http://lh4.ggpht.com/_wdJ3rlAqngs/S0-z8x-lIbI/AAAAAAAACEc/xNAKWoHbovE/s288/IMGP6918.jpg)](http://picasaweb.google.com/lh/photo/hPjHB84_vn_sEw8MMegLyQ?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh4.ggpht.com/_wdJ3rlAqngs/S0-z8x-lIbI/AAAAAAAACEc/xNAKWoHbovE/s288/IMGP6918.jpg)](http://picasaweb.google.com/lh/photo/hPjHB84_vn_sEw8MMegLyQ?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 Another place on the North shore
   
-[![](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z-TJiyfI/AAAAAAAACEk/68a7VFSQjNM/s288/IMGP6929.jpg)](http://picasaweb.google.com/lh/photo/M8GdlbdCKk-T2xj911PCgQ?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh3.ggpht.com/_wdJ3rlAqngs/S0-z-TJiyfI/AAAAAAAACEk/68a7VFSQjNM/s288/IMGP6929.jpg)](http://picasaweb.google.com/lh/photo/M8GdlbdCKk-T2xj911PCgQ?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 Sunset behind the mountains. I took it right after we fixed our flat tire so its a bit blurry
   
-[![](http://lh4.ggpht.com/_wdJ3rlAqngs/S0-0Auyun0I/AAAAAAAACEw/WeUl2pDk7qI/s288/IMGP6954.jpg)](http://picasaweb.google.com/lh/photo/FyWw5wY2PppACxawd0Gknw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
+[![alt](http://lh4.ggpht.com/_wdJ3rlAqngs/S0-0Auyun0I/AAAAAAAACEw/WeUl2pDk7qI/s288/IMGP6954.jpg)](http://picasaweb.google.com/lh/photo/FyWw5wY2PppACxawd0Gknw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite)
 
 At the end of the night we drove to one of the malls to look for some stuff and I ended up doing this
   

@@ -24,4 +24,4 @@ tags:
   - zoo
 format: image
 ---
-[<img src="/wp-content/uploads/2010/08/FlightOfGibbonGroupPhoto.jpg" alt="" title="Group Photo" width="480" height="360" class="aligncenter size-full wp-image-594" />](/blog/wp-content/uploads/2010/08/FlightOfGibbonGroupPhoto.jpg)
+[<img src="/wp-content/uploads/2010/08/FlightOfGibbonGroupPhoto.jpg" alt="alt" title="Group Photo" width="480" height="360" class="aligncenter size-full wp-image-594" />](/blog/wp-content/uploads/2010/08/FlightOfGibbonGroupPhoto.jpg)

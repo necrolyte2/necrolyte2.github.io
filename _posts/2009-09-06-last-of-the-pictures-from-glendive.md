@@ -16,7 +16,7 @@ Here are the remaining pictures from our Trip to Glendive. I used my limited pho
 These images are really big so beware if you click on them
 
 <div id="attachment_297" style="width: 310px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/09/TygheMelKiss.jpg"><img class="size-medium wp-image-297" title="TygheMelBridge" src="/wp-content/uploads/2009/09/TygheMelKiss-300x200.jpg" alt="Me and Mel on the Natural Bridge" width="300" height="200" /></a>
+  <a href="/wp-content/uploads/2009/09/tyghemelkiss.jpg"><img class="size-medium wp-image-297" title="TygheMelBridge" src="/wp-content/uploads/2009/09/tyghemelkiss.jpg" alt="Me and Mel on the Natural Bridge" width="300" height="200" /></a>
   
   <p class="wp-caption-text">
     Me and Mel on the Natural Bridge
@@ -24,7 +24,7 @@ These images are really big so beware if you click on them
 </div>
 
 <div id="attachment_298" style="width: 310px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/09/TygheMelKissHilltop.jpg"><img class="size-medium wp-image-298" title="TygheMelKissHilltop" src="/wp-content/uploads/2009/09/TygheMelKissHilltop-300x200.jpg" alt="Vista Lookout" width="300" height="200" /></a>
+  <a href="/wp-content/uploads/2009/09/tyghemelkisshilltop.jpg"><img class="size-medium wp-image-298" title="TygheMelKissHilltop" src="/wp-content/uploads/2009/09/tyghemelkisshilltop.jpg" alt="Vista Lookout" width="300" height="200" /></a>
   
   <p class="wp-caption-text">
     Vista Lookout
@@ -32,7 +32,7 @@ These images are really big so beware if you click on them
 </div>
 
 <div id="attachment_299" style="width: 310px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/09/TygheLoveMelCave.jpg"><img class="size-medium wp-image-299" title="TygheLoveMelCave" src="/wp-content/uploads/2009/09/TygheLoveMelCave-300x200.jpg" alt="We carved our names in the Cave" width="300" height="200" /></a>
+  <a href="/wp-content/uploads/2009/09/tyghelovemelcave.jpg"><img class="size-medium wp-image-299" title="TygheLoveMelCave" src="/wp-content/uploads/2009/09/tyghelovemelcave.jpg" alt="We carved our names in the Cave" width="300" height="200" /></a>
   
   <p class="wp-caption-text">
     We carved our names in the Cave
@@ -40,7 +40,7 @@ These images are really big so beware if you click on them
 </div>
 
 <div id="attachment_303" style="width: 210px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/09/SunlightOverCliff.jpg"><img class="size-medium wp-image-303" title="SunlightOverCliff" src="/wp-content/uploads/2009/09/SunlightOverCliff-200x300.jpg" alt="A try at something artsy" width="200" height="300" /></a>
+  <a href="/wp-content/uploads/2009/09/sunlightovercliff.jpg"><img class="size-medium wp-image-303" title="SunlightOverCliff" src="/wp-content/uploads/2009/09/sunlightovercliff.jpg" alt="A try at something artsy" width="200" height="300" /></a>
   
   <p class="wp-caption-text">
     A try at something artsy
