@@ -41,10 +41,6 @@ More pictures and videos to come.
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/5B2XLPd-Km9mMHw3s9t_kw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SzvwsDw-j5I/AAAAAAAAB9c/DwFAOoPJZmo/s144/CoastLine1.jpg" alt="alt" /></a>
-    </td>
-    
-    <td>
       <a href="http://picasaweb.google.com/lh/photo/dcj9pdncwYiN5jAfo6Kn2w?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/Szvw5Td1B2I/AAAAAAAAB9g/cNNAO9WQAO0/s144/FrisbeeBeach.jpg" alt="alt" /></a>
     </td>
     

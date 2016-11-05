@@ -211,7 +211,3 @@ This was going to be our hardest and possibly longest day. We spent about 15 min
 <p style="text-align:center;">
   I&#8217;m stealing Trevor&#8217;s photo here
 </p>
-
-<p style="text-align:center;">
-  <a href="/wp-content/uploads/2009/07/summit.jpg"><img class="aligncenter" title="summit" src="/wp-content/uploads/2009/07/summit-300x199.jpg" alt="summit" width="300" height="199" /></a>
-</p>

@@ -29,7 +29,7 @@ Sunday we went 0-1 losing to Salt Lake really bad. Things just didn&#8217;t work
 <table style="width:194px;">
   <tr>
     <td align="center" style="height:194px;background:url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left;">
-      <a href="http://picasaweb.google.com/vallardt/JacksonTournament"><img src="http://lh6.ggpht.com/vallardt/SKpLJqy6pYE/AAAAAAAAAx8/k6EC-KJfTxc/s160-c/JacksonTournament.jpg" width="160" height="160" style="margin:1px 0 0 4px;" /></a>
+      <a href="http://picasaweb.google.com/vallardt/JacksonTournament"><img alt="Jackson" src="http://lh6.ggpht.com/vallardt/SKpLJqy6pYE/AAAAAAAAAx8/k6EC-KJfTxc/s160-c/JacksonTournament.jpg" width="160" height="160" style="margin:1px 0 0 4px;" /></a>
     </td>
   </tr>
   

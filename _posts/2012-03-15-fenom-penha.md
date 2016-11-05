@@ -31,8 +31,6 @@ Just joking about the title of the post. Mel and I headed to Phenom Penh, Cambod
 
 We embarked on tournament day 1 with about a 30 minute bus ride to the fields. I forgot to take pictures with my camera. I did get a video on my phone though of Mel and our friend Kristie in the Women huck contest.
 
-[<img src="https://lh6.googleusercontent.com/-jil2jcE0ECo/T1tEX5fvKwI/AAAAAAAAFew/JHaFTAcdomI/s800/VID_20120310_123859.m4v.jpg" height="240" width="320" />](https://picasaweb.google.com/lh/photo/gLQoBs7QO5M-GhHuHyVaLtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
-
 In order to win you need to throw it the furthest and have somebody catch the disc.
 
 Really fun tournament. Our team was really fun to play on and we had a solid set of players which worked out great in the end as we went undefeated the whole tournament. 7-0. YAY!! My first Frisbee championship win! Yay for me!

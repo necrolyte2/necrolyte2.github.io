@@ -25,7 +25,7 @@ So here is how it went
 Here are the schematics that I drew up for the desk
 
 <div id="attachment_306" style="width: 238px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/09/DeskSchematics.jpg"><img class="size-medium wp-image-306" title="DeskSchematics" src="/wp-content/uploads/2009/09/DeskSchematics-228x300.jpg" alt="Desk Schematics" width="228" height="300" /></a>
+  <a href="/wp-content/uploads/2009/09/deskschematics.jpg"><img class="size-medium wp-image-306" title="DeskSchematics" src="/wp-content/uploads/2009/09/deskschematics.jpg" alt="Desk Schematics" width="228" height="300" /></a>
   
   <p class="wp-caption-text">
     Desk Schematics
@@ -42,16 +42,6 @@ Here are the prices I gathered
 I came back home and had lunch and figured out how many boards I would need to buy. Obviously the particle board was way bigger than I needed, but the 2&#215;3&#8217;s I wasn&#8217;t sure about.
 
 The final numbers came to be 5 2&#215;3&#8217;s and 1 particle board. Now, I just needed to figure out where to have them cut the boards so that they would fit into my car.
-
-Here is the board cutting guide that I came up with
-
-<div id="attachment_309" style="width: 310px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/09/BoardLengths.jpg"><img class="size-medium wp-image-309" title="CuttingGuide" src="/wp-content/uploads/2009/09/BoardLengths-300x279.jpg" alt="Board Cutting Guide" width="300" height="279" /></a>
-  
-  <p class="wp-caption-text">
-    Board Cutting Guide
-  </p>
-</div>
 
 So using the schematics and the board cuting guide you can pretty much build the desk. I&#8217;ll go over what I did wrong so if you decide to do this you can avoid some of the dumb things that I did.
 
@@ -75,7 +65,7 @@ Things you need
 
 <p style="text-align:left;">
   <div id="attachment_310" style="width: 310px" class="wp-caption aligncenter">
-    <a href="/wp-content/uploads/2009/09/IMGP6556.jpg"><img class="size-medium wp-image-310" title="IMGP6556" src="/wp-content/uploads/2009/09/IMGP6556-300x122.jpg" alt="Materials" width="300" height="122" /></a>
+    <a href="/wp-content/uploads/2009/09/imgp6556.jpg"><img class="size-medium wp-image-310" title="imgp6556" src="/wp-content/uploads/2009/09/imgp6556.jpg" alt="Materials" width="300" height="122" /></a>
     
     <p class="wp-caption-text">
       Materials
@@ -83,7 +73,7 @@ Things you need
   </div>
   
   <div id="attachment_311" style="width: 160px" class="wp-caption aligncenter">
-    <a href="/wp-content/uploads/2009/09/IMGP6558.jpg"><img class="size-thumbnail wp-image-311 " title="IMGP6558" src="/wp-content/uploads/2009/09/IMGP6558-150x150.jpg" alt="Underneath" width="150" height="150" /></a>
+    <a href="/wp-content/uploads/2009/09/imgp6558.jpg"><img class="size-thumbnail wp-image-311 " title="imgp6558" src="/wp-content/uploads/2009/09/imgp6558.jpg" alt="Underneath" width="150" height="150" /></a>
     
     <p class="wp-caption-text">
       Underneath
@@ -91,7 +81,7 @@ Things you need
   </div>
   
   <div id="attachment_313" style="width: 160px" class="wp-caption aligncenter">
-    <a href="/wp-content/uploads/2009/09/IMGP6561.jpg"><img class="size-thumbnail wp-image-313" title="IMGP6561" src="/wp-content/uploads/2009/09/IMGP6561-150x150.jpg" alt="Top" width="150" height="150" /></a>
+    <a href="/wp-content/uploads/2009/09/imgp6561.jpg"><img class="size-thumbnail wp-image-313" title="imgp6561" src="/wp-content/uploads/2009/09/imgp6561.jpg" alt="Top" width="150" height="150" /></a>
     
     <p class="wp-caption-text">
       Top

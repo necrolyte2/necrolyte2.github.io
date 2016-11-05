@@ -28,7 +28,7 @@ Here are pictures from our trip to the Grand Palace.
 <table style="width:194px;">
   <tr>
     <td align="center" style="height:194px;background:url('http://picasaweb.google.com/s/c/transparent_album_background.gif') no-repeat left;">
-      <a href="http://picasaweb.google.com/vallardt/GrandPalace?feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/S6m80Rb5LEE/AAAAAAAACL4/ZzyOEucC4fs/s160-c/GrandPalace.jpg" width="160" height="160" style="margin:1px 0 0 4px;" /></a>
+      <a href="http://picasaweb.google.com/vallardt/GrandPalace?feat=embedwebsite"><img alt="grand palace" src="http://lh3.ggpht.com/_wdJ3rlAqngs/S6m80Rb5LEE/AAAAAAAACL4/ZzyOEucC4fs/s160-c/GrandPalace.jpg" width="160" height="160" style="margin:1px 0 0 4px;" /></a>
     </td>
   </tr>
   
