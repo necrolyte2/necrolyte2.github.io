@@ -30,7 +30,7 @@ tags:
 Have you ever had one of these scenarios
 
 <p style="text-align:center;">
-  <a href="http://xkcd.com/783/"><img class="aligncenter" title="I Don't want Directions" src="http://imgs.xkcd.com/comics/i_dont_want_directions.png" alt="" width="592" height="194" /></a>
+  <a href="http://xkcd.com/783/"><img class="aligncenter" title="I Don't want Directions" src="http://imgs.xkcd.com/comics/i_dont_want_directions.png" alt="alt" width="592" height="194" /></a>
 </p>
 
 <p style="text-align:left;">

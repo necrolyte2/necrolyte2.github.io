@@ -20,7 +20,7 @@ tags:
 ---
 <div class="alignleft">
   <div id="attachment_478" style="width: 235px" class="wp-caption alignnone">
-    <a href="/wp-content/uploads/2010/03/IMG00134-20100320-1419.jpg"><img class="size-medium wp-image-478 " title="Wat Arun" src="/wp-content/uploads/2010/03/IMG00134-20100320-1419.jpg" alt="" width="225" height="300" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00134-20100320-1419.jpg"><img class="size-medium wp-image-478 " title="Wat Arun" src="/wp-content/uploads/2010/03/IMG00134-20100320-1419.jpg" alt="alt" width="225" height="300" /></a>
     
     <p class="wp-caption-text">
       Wat Arun Temple
@@ -28,15 +28,15 @@ tags:
   </div></p> 
   
   <p>
-    <a href="/wp-content/uploads/2010/03/IMG00133-20100320-1419.jpg"><img class="size-medium wp-image-481 alignnone" title="IMG00133-20100320-1419" src="/wp-content/uploads/2010/03/IMG00133-20100320-1419.jpg" alt="" width="225" height="300" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00133-20100320-1419.jpg"><img class="size-medium wp-image-481 alignnone" title="IMG00133-20100320-1419" src="/wp-content/uploads/2010/03/IMG00133-20100320-1419.jpg" alt="alt" width="225" height="300" /></a>
   </p>
   
   <p>
-    <a href="/wp-content/uploads/2010/03/IMG00135-20100320-1422.jpg"><img class="size-medium wp-image-483 alignnone" title="IMG00135-20100320-1422" src="/wp-content/uploads/2010/03/IMG00135-20100320-1422.jpg" alt="" width="300" height="225" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00135-20100320-1422.jpg"><img class="size-medium wp-image-483 alignnone" title="IMG00135-20100320-1422" src="/wp-content/uploads/2010/03/IMG00135-20100320-1422.jpg" alt="alt" width="300" height="225" /></a>
   </p>
   
   <div id="attachment_479" style="width: 310px" class="wp-caption alignleft">
-    <a href="/wp-content/uploads/2010/03/IMG00137-20100320-1745.jpg"><img class="size-medium wp-image-479" title="Sunset from atop of the Apartment Complex" src="/wp-content/uploads/2010/03/IMG00137-20100320-1745.jpg" alt="" width="300" height="225" /></a>
+    <a href="/wp-content/uploads/2010/03/IMG00137-20100320-1745.jpg"><img class="size-medium wp-image-479" title="Sunset from atop of the Apartment Complex" src="/wp-content/uploads/2010/03/IMG00137-20100320-1745.jpg" alt="alt" width="300" height="225" /></a>
     
     <p class="wp-caption-text">
       Sunset from atop of the Apartment Complex
@@ -45,7 +45,7 @@ tags:
   
   <p>
     <div id="attachment_480" style="width: 310px" class="wp-caption alignright">
-      <a href="/wp-content/uploads/2010/03/IMG00138-20100320-1745.jpg"><img class="size-medium wp-image-480" title="Another view of from atop of the complex" src="/wp-content/uploads/2010/03/IMG00138-20100320-1745.jpg" alt="" width="300" height="225" /></a>
+      <a href="/wp-content/uploads/2010/03/IMG00138-20100320-1745.jpg"><img class="size-medium wp-image-480" title="Another view of from atop of the complex" src="/wp-content/uploads/2010/03/IMG00138-20100320-1745.jpg" alt="alt" width="300" height="225" /></a>
       
       <p class="wp-caption-text">
         Another view of from atop of the complex

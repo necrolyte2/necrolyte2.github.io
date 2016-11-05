@@ -18,7 +18,7 @@ tags:
 We headed out to a place that we saw the day before when looking for a breakfast place and it was alright.
 
 <div style="width: 163px" class="wp-caption aligncenter">
-  <a href="https://lh6.googleusercontent.com/D8XwcZuunbcdgMX8q8WaFpWcKjNSaRAzImjQAviNcprX=w153-h203-p-no"><img alt="" src="https://lh6.googleusercontent.com/D8XwcZuunbcdgMX8q8WaFpWcKjNSaRAzImjQAviNcprX=w153-h203-p-no" width="153" height="203" /></a>
+  <a href="https://lh6.googleusercontent.com/D8XwcZuunbcdgMX8q8WaFpWcKjNSaRAzImjQAviNcprX=w153-h203-p-no"><img alt="alt" src="https://lh6.googleusercontent.com/D8XwcZuunbcdgMX8q8WaFpWcKjNSaRAzImjQAviNcprX=w153-h203-p-no" width="153" height="203" /></a>
   
   <p class="wp-caption-text">
     Omlet for Tyghe
@@ -26,7 +26,7 @@ We headed out to a place that we saw the day before when looking for a breakfast
 </div>
 
 <div style="width: 283px" class="wp-caption aligncenter">
-  <a href="https://lh3.googleusercontent.com/AzoQLedAwdb0eMdaBIb-2ybUzJ-lHEz19bhYNuy8ZZOD=w273-h203-p-no"><img alt="" src="https://lh3.googleusercontent.com/AzoQLedAwdb0eMdaBIb-2ybUzJ-lHEz19bhYNuy8ZZOD=w273-h203-p-no" width="273" height="203" /></a>
+  <a href="https://lh3.googleusercontent.com/AzoQLedAwdb0eMdaBIb-2ybUzJ-lHEz19bhYNuy8ZZOD=w273-h203-p-no"><img alt="alt" src="https://lh3.googleusercontent.com/AzoQLedAwdb0eMdaBIb-2ybUzJ-lHEz19bhYNuy8ZZOD=w273-h203-p-no" width="273" height="203" /></a>
   
   <p class="wp-caption-text">
     Eggs and sausage for Mel
@@ -38,7 +38,7 @@ Back to the apartment to gather our bags and head to the airport. <span style="
 But with a huge exclamation point! Business class, booyaa!<!--more-->
 
 <div style="width: 501px" class="wp-caption aligncenter">
-  <a href="https://lh6.googleusercontent.com/A8T8tEDoGiyfvKDvBWnn0Zy9zzq8Tpy1mvSGhwIj65XO=w491-h197-p-no"><img alt="" src="https://lh6.googleusercontent.com/A8T8tEDoGiyfvKDvBWnn0Zy9zzq8Tpy1mvSGhwIj65XO=w491-h197-p-no" width="491" height="197" /></a>
+  <a href="https://lh6.googleusercontent.com/A8T8tEDoGiyfvKDvBWnn0Zy9zzq8Tpy1mvSGhwIj65XO=w491-h197-p-no"><img alt="alt" src="https://lh6.googleusercontent.com/A8T8tEDoGiyfvKDvBWnn0Zy9zzq8Tpy1mvSGhwIj65XO=w491-h197-p-no" width="491" height="197" /></a>
   
   <p class="wp-caption-text">
     Big screens and free stuff
@@ -46,7 +46,7 @@ But with a huge exclamation point! Business class, booyaa!<!--more-->
 </div>
 
 <div style="width: 158px" class="wp-caption aligncenter">
-  <a href="https://lh6.googleusercontent.com/Ja2clXr8jDCvsggRFDyretMGFRuwERjYAtcijesp85ZI=w148-h197-p-no"><img alt="" src="https://lh6.googleusercontent.com/Ja2clXr8jDCvsggRFDyretMGFRuwERjYAtcijesp85ZI=w148-h197-p-no" width="148" height="197" /></a>
+  <a href="https://lh6.googleusercontent.com/Ja2clXr8jDCvsggRFDyretMGFRuwERjYAtcijesp85ZI=w148-h197-p-no"><img alt="alt" src="https://lh6.googleusercontent.com/Ja2clXr8jDCvsggRFDyretMGFRuwERjYAtcijesp85ZI=w148-h197-p-no" width="148" height="197" /></a>
   
   <p class="wp-caption-text">
     Free beverages
@@ -54,7 +54,7 @@ But with a huge exclamation point! Business class, booyaa!<!--more-->
 </div>
 
 <div style="width: 158px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/NxZNaJS18iaOWyiVn1EMPhBLAV9MtHT8-lvtTMg3ruWV=w148-h197-p-no"><img alt="" src="https://lh4.googleusercontent.com/NxZNaJS18iaOWyiVn1EMPhBLAV9MtHT8-lvtTMg3ruWV=w148-h197-p-no" width="148" height="197" /></a>
+  <a href="https://lh4.googleusercontent.com/NxZNaJS18iaOWyiVn1EMPhBLAV9MtHT8-lvtTMg3ruWV=w148-h197-p-no"><img alt="alt" src="https://lh4.googleusercontent.com/NxZNaJS18iaOWyiVn1EMPhBLAV9MtHT8-lvtTMg3ruWV=w148-h197-p-no" width="148" height="197" /></a>
   
   <p class="wp-caption-text">
     Dorks in a pod
@@ -62,7 +62,7 @@ But with a huge exclamation point! Business class, booyaa!<!--more-->
 </div>
 
 <div style="width: 159px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/ZvMnrfuNXK-_XC0e5A5hwgGaRrNUFwARyLbf5-DvJ9Sj=w149-h197-p-no"><img alt="" src="https://lh4.googleusercontent.com/ZvMnrfuNXK-_XC0e5A5hwgGaRrNUFwARyLbf5-DvJ9Sj=w149-h197-p-no" width="149" height="197" /></a>
+  <a href="https://lh4.googleusercontent.com/ZvMnrfuNXK-_XC0e5A5hwgGaRrNUFwARyLbf5-DvJ9Sj=w149-h197-p-no"><img alt="alt" src="https://lh4.googleusercontent.com/ZvMnrfuNXK-_XC0e5A5hwgGaRrNUFwARyLbf5-DvJ9Sj=w149-h197-p-no" width="149" height="197" /></a>
   
   <p class="wp-caption-text">
     More free beverages
@@ -70,7 +70,7 @@ But with a huge exclamation point! Business class, booyaa!<!--more-->
 </div>
 
 <div style="width: 286px" class="wp-caption aligncenter">
-  <a href="https://lh4.googleusercontent.com/OkM-bsWW4ylHD4xc5XIdj75pEQfhzL5eoYzC-Bp46QA0=w276-h207-p-no"><img alt="" src="https://lh4.googleusercontent.com/OkM-bsWW4ylHD4xc5XIdj75pEQfhzL5eoYzC-Bp46QA0=w276-h207-p-no" width="276" height="207" /></a>
+  <a href="https://lh4.googleusercontent.com/OkM-bsWW4ylHD4xc5XIdj75pEQfhzL5eoYzC-Bp46QA0=w276-h207-p-no"><img alt="alt" src="https://lh4.googleusercontent.com/OkM-bsWW4ylHD4xc5XIdj75pEQfhzL5eoYzC-Bp46QA0=w276-h207-p-no" width="276" height="207" /></a>
   
   <p class="wp-caption-text">
     The meal before the meal. I feel like it was just a stream of gift offerings to us
@@ -78,7 +78,7 @@ But with a huge exclamation point! Business class, booyaa!<!--more-->
 </div>
 
 <div style="width: 165px" class="wp-caption aligncenter">
-  <a href="https://lh6.googleusercontent.com/aPzBLG2Fw-O8T_DI-8VyjPvUNTw_eHFjDnk8U7E8rITv=w155-h207-p-no"><img alt="" src="https://lh6.googleusercontent.com/aPzBLG2Fw-O8T_DI-8VyjPvUNTw_eHFjDnk8U7E8rITv=w155-h207-p-no" width="155" height="207" /></a>
+  <a href="https://lh6.googleusercontent.com/aPzBLG2Fw-O8T_DI-8VyjPvUNTw_eHFjDnk8U7E8rITv=w155-h207-p-no"><img alt="alt" src="https://lh6.googleusercontent.com/aPzBLG2Fw-O8T_DI-8VyjPvUNTw_eHFjDnk8U7E8rITv=w155-h207-p-no" width="155" height="207" /></a>
   
   <p class="wp-caption-text">
     Desert of course too

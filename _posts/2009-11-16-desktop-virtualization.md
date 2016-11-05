@@ -28,7 +28,7 @@ I often find that people that are not familiar with virtualization are amazed wh
 So the way it works is you have Windows, Linux or Mac running which is called the host operating system. Then you install virtualization software(VMWare, Parallels, Virtualbox&#8230;) on the operating system you have running. Then within that software you can create a virtual computer called the guest operating system that runs within your host operating system.
 
 <div id="attachment_382" style="width: 430px" class="wp-caption alignright">
-  <a href="/wp-content/uploads/2009/11/virtualizationexplanation.png"><img class="size-full wp-image-382" title="virtualizationexplanation" src="/wp-content/uploads/2009/11/virtualizationexplanation.png" alt="" width="420" height="300" /></a>
+  <a href="/wp-content/uploads/2009/11/virtualizationexplanation.png"><img class="size-full wp-image-382" title="virtualizationexplanation" src="/wp-content/uploads/2009/11/virtualizationexplanation.png" alt="alt" width="420" height="300" /></a>
   
   <p class="wp-caption-text">
     Visual Explanation

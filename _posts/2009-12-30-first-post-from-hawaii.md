@@ -37,37 +37,37 @@ More pictures and videos to come.
 <table style="width:auto;">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/whnZZ-9PB0qej6vEIptrrw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/Szvwb0UQ_yI/AAAAAAAAB9Q/NRn8Umj66RU/s144/CoastOverview.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/whnZZ-9PB0qej6vEIptrrw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/Szvwb0UQ_yI/AAAAAAAAB9Q/NRn8Umj66RU/s144/CoastOverview.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/5B2XLPd-Km9mMHw3s9t_kw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SzvwsDw-j5I/AAAAAAAAB9c/DwFAOoPJZmo/s144/CoastLine1.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/5B2XLPd-Km9mMHw3s9t_kw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SzvwsDw-j5I/AAAAAAAAB9c/DwFAOoPJZmo/s144/CoastLine1.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/dcj9pdncwYiN5jAfo6Kn2w?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/Szvw5Td1B2I/AAAAAAAAB9g/cNNAO9WQAO0/s144/FrisbeeBeach.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/dcj9pdncwYiN5jAfo6Kn2w?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/Szvw5Td1B2I/AAAAAAAAB9g/cNNAO9WQAO0/s144/FrisbeeBeach.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/m_mchLAeHJW87PdsHtCu8g?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/SzvxLhPuwDI/AAAAAAAAB9o/plyf-AL9gKM/s144/CoastSplash.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/m_mchLAeHJW87PdsHtCu8g?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/SzvxLhPuwDI/AAAAAAAAB9o/plyf-AL9gKM/s144/CoastSplash.jpg" alt="alt" /></a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/yZ4QhdreqPNSGQBJO8VxQA?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/Szvxp7U_mBI/AAAAAAAAB9s/6e1tC17jFoc/s144/MelHeart.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/yZ4QhdreqPNSGQBJO8VxQA?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/Szvxp7U_mBI/AAAAAAAAB9s/6e1tC17jFoc/s144/MelHeart.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/SDMG0Al_N6c7clWTgyRjVg?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/Szvx4ozim7I/AAAAAAAAB90/LrAKnzw5LtQ/s144/MelOcean.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/SDMG0Al_N6c7clWTgyRjVg?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/Szvx4ozim7I/AAAAAAAAB90/LrAKnzw5LtQ/s144/MelOcean.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/fysXjRaUbuhIhpjvff-hBw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SzvyLEMNnsI/AAAAAAAAB98/F-wZhK3FbXc/s144/Pidgin.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/fysXjRaUbuhIhpjvff-hBw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SzvyLEMNnsI/AAAAAAAAB98/F-wZhK3FbXc/s144/Pidgin.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/Prfag-KYVnhH8tFty7C0Tw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/Szvyr39wOzI/AAAAAAAAB-E/In6OLyZlJVc/s144/MelSmile.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/Prfag-KYVnhH8tFty7C0Tw?authkey=Gv1sRgCMPF0dq9n8Dt6AE&feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/Szvyr39wOzI/AAAAAAAAB-E/In6OLyZlJVc/s144/MelSmile.jpg" alt="alt" /></a>
     </td>
   </tr>
 </table>

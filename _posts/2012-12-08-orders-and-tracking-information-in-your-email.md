@@ -33,31 +33,31 @@ For a while I have had a filter set up in Gmail that automatically labels anythi
 
 ### I&#8217;ll be using <a title="Google Chrome Browser" href="http://www.google.com/chrome" target="_blank">Google Chrome</a> for this tutorial
 
-###### [<img class="size-large wp-image-909 alignnone" title="GmailHomeHeader" src="/wp-content/uploads/2012/12/GmailHomeHeader-1024x76.png" alt="" width="1024" height="76" />](/wp-content/uploads/2012/12/GmailHomeHeader.png)
+###### [<img class="size-large wp-image-909 alignnone" title="GmailHomeHeader" src="/wp-content/uploads/2012/12/GmailHomeHeader-1024x76.png" alt="alt" width="1024" height="76" />](/wp-content/uploads/2012/12/GmailHomeHeader.png)
 
 &nbsp;
 
 ### Click on the Gear in the top right and then click setting&#8217;s
   
-[<img class="size-full wp-image-910 alignnone" title="GmailSettings" src="/wp-content/uploads/2012/12/GmailSettings.png" alt="" width="383" height="276" />](/wp-content/uploads/2012/12/GmailSettings.png)
+[<img class="size-full wp-image-910 alignnone" title="GmailSettings" src="/wp-content/uploads/2012/12/GmailSettings.png" alt="alt" width="383" height="276" />](/wp-content/uploads/2012/12/GmailSettings.png)
 
 ### 
 
 ### Click on the filters tab at the top
   
-[<img class=" wp-image-908 alignnone" title="GmailFilters" src="http://162.243.87.189/wp-content/uploads/2012/12/gmailfilters.png" alt="" width="371" height="540" />](http://162.243.87.189/wp-content/uploads/2012/12/gmailfilters.png)
+[<img class=" wp-image-908 alignnone" title="GmailFilters" src="http://162.243.87.189/wp-content/uploads/2012/12/gmailfilters.png" alt="alt" width="371" height="540" />](http://162.243.87.189/wp-content/uploads/2012/12/gmailfilters.png)
 
 &nbsp;
 
 &nbsp;
 
-### Scroll all the way to the bottom of the page so you can see the links &#8220;Create a new filter&#8221; and &#8220;Import filters&#8221;[<img class="alignnone size-full wp-image-916" title="CreateImportButtons" src="/wp-content/uploads/2012/12/CreateImportButtons.png" alt="" width="1018" height="270" />](/wp-content/uploads/2012/12/CreateImportButtons.png)
+### Scroll all the way to the bottom of the page so you can see the links &#8220;Create a new filter&#8221; and &#8220;Import filters&#8221;[<img class="alignnone size-full wp-image-916" title="CreateImportButtons" src="/wp-content/uploads/2012/12/CreateImportButtons.png" alt="alt" width="1018" height="270" />](/wp-content/uploads/2012/12/CreateImportButtons.png)
 
 &nbsp;
 
 ### You now have the choice of importing existing filters that have been saved by somebody else, or you can create your own by clicking Create a new filter. For this tutorial I&#8217;m going to show you how to create your own and I will link the filter we create so you can import it easily if you want at the end. Click Create a new filter.
 
-[<img class="alignnone size-full wp-image-917" title="FilterDialogue" src="/wp-content/uploads/2012/12/FilterDialogue.png" alt="" width="678" height="350" />](/wp-content/uploads/2012/12/FilterDialogue.png)
+[<img class="alignnone size-full wp-image-917" title="FilterDialogue" src="/wp-content/uploads/2012/12/FilterDialogue.png" alt="alt" width="678" height="350" />](/wp-content/uploads/2012/12/FilterDialogue.png)
 
 &nbsp;
 
@@ -65,7 +65,7 @@ For a while I have had a filter set up in Gmail that automatically labels anythi
 
 > &#8220;track your package&#8221; OR &#8220;tracking number&#8221; OR shipment OR &#8220;order number&#8221; OR &#8220;Receipt for your PayPal payment&#8221; OR &#8220;You bought this item on ebay&#8221; OR &#8220;Receipt for Your Payment&#8221; OR &#8220;Your Order with&#8221; OR &#8220;Your Amazon.com order&#8221;
 
-[<img class="alignnone size-medium wp-image-919" title="HasTheWords" src="/wp-content/uploads/2012/12/HasTheWords-300x184.png" alt="" width="300" height="184" />](/wp-content/uploads/2012/12/HasTheWords.png)
+[<img class="alignnone size-medium wp-image-919" title="HasTheWords" src="/wp-content/uploads/2012/12/HasTheWords-300x184.png" alt="alt" width="300" height="184" />](/wp-content/uploads/2012/12/HasTheWords.png)
 
 &nbsp;
 
@@ -73,13 +73,13 @@ For a while I have had a filter set up in Gmail that automatically labels anythi
 
 You now get a dialogue box that allows you to specify what to do with email that matches the rules you defined in the last dialogue box
 
-[<img class="alignnone size-medium wp-image-920" title="WhatToDo" src="/wp-content/uploads/2012/12/WhatToDo-300x209.png" alt="" width="300" height="209" />](/wp-content/uploads/2012/12/WhatToDo.png)
+[<img class="alignnone size-medium wp-image-920" title="WhatToDo" src="/wp-content/uploads/2012/12/WhatToDo-300x209.png" alt="alt" width="300" height="209" />](/wp-content/uploads/2012/12/WhatToDo.png)
 
   1. Check the box Apply the label
   2. Click Choose label
-  3. [<img class="alignnone size-thumbnail wp-image-921" title="SelectNewLabel" src="/wp-content/uploads/2012/12/SelectNewLabel-150x150.png" alt="" width="150" height="150" />](/wp-content/uploads/2012/12/SelectNewLabel.png)
+  3. [<img class="alignnone size-thumbnail wp-image-921" title="SelectNewLabel" src="/wp-content/uploads/2012/12/SelectNewLabel-150x150.png" alt="alt" width="150" height="150" />](/wp-content/uploads/2012/12/SelectNewLabel.png)
   4. Give your label a name and click Create
-  5. [<img class="alignnone size-medium wp-image-922" title="CreateNewLabel" src="/wp-content/uploads/2012/12/CreateNewLabel-300x133.png" alt="" width="300" height="133" />](/wp-content/uploads/2012/12/CreateNewLabel.png)
+  5. [<img class="alignnone size-medium wp-image-922" title="CreateNewLabel" src="/wp-content/uploads/2012/12/CreateNewLabel-300x133.png" alt="alt" width="300" height="133" />](/wp-content/uploads/2012/12/CreateNewLabel.png)
   6. Check the &#8220;Also apply filter to&#8230;.&#8221;
   7. Click Create filter
 

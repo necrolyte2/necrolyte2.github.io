@@ -17,6 +17,6 @@ tags:
 ---
 We have been having good weather, but here is the 10 day forecast right now.
   
-[<img src="/wp-content/uploads/2008/07/10dayweatherforcast-134x300.jpg" alt="" title="10dayweatherforcast" width="134" height="300" class="alignnone size-medium wp-image-61" />](/blog/wp-content/uploads/2008/07/10dayweatherforcast.jpg)
+[<img src="/wp-content/uploads/2008/07/10dayweatherforcast-134x300.jpg" alt="alt" title="10dayweatherforcast" width="134" height="300" class="alignnone size-medium wp-image-61" />](/blog/wp-content/uploads/2008/07/10dayweatherforcast.jpg)
 
 Makes me happy

@@ -28,7 +28,7 @@ Never had somebody carry my luggage up to the room and all that jazz. Have no id
 Here is how you know what room you are in. Locate the same gemstone that is attached to your keychain.
 
 <div style="width: 236px" class="wp-caption alignnone">
-  <img class=" " alt="" src="https://lh4.googleusercontent.com/_MikavRqEC_T9ACQC4ydKEhqm6DAPT7VMYUQ85MvG6k=w377-h502-no" width="226" height="301" />
+  <img class=" " alt="alt" src="https://lh4.googleusercontent.com/_MikavRqEC_T9ACQC4ydKEhqm6DAPT7VMYUQ85MvG6k=w377-h502-no" width="226" height="301" />
   
   <p class="wp-caption-text">
     Hard to see, but I&#8217;m holding our keychain with the same gemstone as is mounted above our door.
@@ -40,7 +40,7 @@ I pass out for about 2 hours and Mel watches a movie on her laptop. Really livin
 The receptionist had booked us at one of the restaurant at the Alchymist Grand earlier. No idea what we are doing or getting into, until we arrive and are seated here.
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh4.googleusercontent.com/-nYEA_lFY8q8/UuVuxb-uVnI/AAAAAAAAPPo/2E2LC_zzNIY/w377-h502-no/IMG_20140126_192714.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh4.googleusercontent.com/-nYEA_lFY8q8/UuVuxb-uVnI/AAAAAAAAPPo/2E2LC_zzNIY/w377-h502-no/IMG_20140126_192714.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Dinner room
@@ -48,7 +48,7 @@ The receptionist had booked us at one of the restaurant at the Alchymist Grand e
 </div>
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh6.googleusercontent.com/-MEfqB2g0zW0/UuVu1mCpCEI/AAAAAAAAPP0/YyhGwmSAMf0/w377-h502-no/IMG_20140126_192719.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh6.googleusercontent.com/-MEfqB2g0zW0/UuVu1mCpCEI/AAAAAAAAPP0/YyhGwmSAMf0/w377-h502-no/IMG_20140126_192719.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Haha, our exact reaction to the situation
@@ -58,7 +58,7 @@ The receptionist had booked us at one of the restaurant at the Alchymist Grand e
 &nbsp;
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh3.googleusercontent.com/-Rk5vT49HMyY/UuVutXBhSCI/AAAAAAAAPPc/uaRed7vkLdQ/w377-h502-no/IMG_20140126_192528.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh3.googleusercontent.com/-Rk5vT49HMyY/UuVutXBhSCI/AAAAAAAAPPc/uaRed7vkLdQ/w377-h502-no/IMG_20140126_192528.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Something tasty that was given to us
@@ -66,7 +66,7 @@ The receptionist had booked us at one of the restaurant at the Alchymist Grand e
 </div>
 
 <div style="width: 386px" class="wp-caption alignnone">
-  <img alt="" src="https://lh3.googleusercontent.com/-gA2d7OFKG_s/UuVu5rVuH0I/AAAAAAAAPQA/mK1tLkCEVCQ/w377-h502-no/IMG_20140126_193824.jpg" width="376" height="502" />
+  <img alt="alt" src="https://lh3.googleusercontent.com/-gA2d7OFKG_s/UuVu5rVuH0I/AAAAAAAAPQA/mK1tLkCEVCQ/w377-h502-no/IMG_20140126_193824.jpg" width="376" height="502" />
   
   <p class="wp-caption-text">
     Bottom &#8211; Deer goulash with taters Top &#8211; Ravioli

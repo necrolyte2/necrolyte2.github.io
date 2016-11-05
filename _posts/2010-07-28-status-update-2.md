@@ -20,7 +20,7 @@ tags:
   - xkcd
 ---
 <div style="width: 597px" class="wp-caption aligncenter">
-  <img title="Computer Problems" src="http://imgs.xkcd.com/comics/computer_problems.png" alt="" width="587" height="254" />
+  <img title="Computer Problems" src="http://imgs.xkcd.com/comics/computer_problems.png" alt="alt" width="587" height="254" />
   
   <p class="wp-caption-text">
     A simple way to explain what I do

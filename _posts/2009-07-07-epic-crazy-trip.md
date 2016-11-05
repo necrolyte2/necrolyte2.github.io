@@ -30,11 +30,11 @@ I don&#8217;t remember what time we actually started the hike, but I will guess 
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/lv6xVMgbDqQZZckLwwgZiQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/SlF3qIT6p7I/AAAAAAAABjE/CVVxx-fpA2g/s144/IMGP6211.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/lv6xVMgbDqQZZckLwwgZiQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/SlF3qIT6p7I/AAAAAAAABjE/CVVxx-fpA2g/s144/IMGP6211.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/xlxcq7O-gQM8qac2m4qkJg?feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/SlF3sTkl7rI/AAAAAAAABjU/e5GAvsgZC6Y/s144/IMGP6223.jpg" alt="" /> </a>
+      <a href="http://picasaweb.google.com/lh/photo/xlxcq7O-gQM8qac2m4qkJg?feat=embedwebsite"><img src="http://lh4.ggpht.com/_wdJ3rlAqngs/SlF3sTkl7rI/AAAAAAAABjU/e5GAvsgZC6Y/s144/IMGP6223.jpg" alt="alt" /> </a>
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@ Then we continued up the trail to the lake where we hunted for a semi-dry and fl
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/wcOVeXWpzP8f0w8uzrK_Eg?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3tinJ_kI/AAAAAAAABjc/I7tL4Cv7zK0/s144/IMGP6225.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/wcOVeXWpzP8f0w8uzrK_Eg?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3tinJ_kI/AAAAAAAABjc/I7tL4Cv7zK0/s144/IMGP6225.jpg" alt="alt" /></a>
     </td>
   </tr>
   
@@ -66,15 +66,15 @@ Here are some shots from the pass
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/tNHMhVUmYZoKjVnU5IXwkw?feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/SlF3u_oqYsI/AAAAAAAABjk/6DFj-TGYGXo/s144/IMGP6235.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/tNHMhVUmYZoKjVnU5IXwkw?feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/SlF3u_oqYsI/AAAAAAAABjk/6DFj-TGYGXo/s144/IMGP6235.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/-IQ1umKJbJYKVPblrAfyCw?feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/SlF3vbesBMI/AAAAAAAABjo/JySBIPtTe9c/s144/IMGP6237.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/-IQ1umKJbJYKVPblrAfyCw?feat=embedwebsite"><img src="http://lh3.ggpht.com/_wdJ3rlAqngs/SlF3vbesBMI/AAAAAAAABjo/JySBIPtTe9c/s144/IMGP6237.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/8R4e2l0x4-a61ErUzcTJbQ?feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SlF3wCeMryI/AAAAAAAABjs/c1j6aE_qtZ8/s144/IMGP6242.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/8R4e2l0x4-a61ErUzcTJbQ?feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SlF3wCeMryI/AAAAAAAABjs/c1j6aE_qtZ8/s144/IMGP6242.jpg" alt="alt" /></a>
     </td>
   </tr>
   
@@ -90,15 +90,15 @@ After we were done gazing and eating we descended the switchbacks to above Glaci
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/Ye4nNn1sVMmA3rj06umViw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3ySHaJlI/AAAAAAAABj8/nKLknuR_rA4/s144/IMGP6249.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/Ye4nNn1sVMmA3rj06umViw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3ySHaJlI/AAAAAAAABj8/nKLknuR_rA4/s144/IMGP6249.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/GsKZbb4UZoxzW1FmqEhaQw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3z6WgDgI/AAAAAAAABkE/7PYsacejzJg/s144/IMGP6252.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/GsKZbb4UZoxzW1FmqEhaQw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3z6WgDgI/AAAAAAAABkE/7PYsacejzJg/s144/IMGP6252.jpg" alt="alt" /></a>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/UmWKSzGt5grru364ku44XQ?feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SlF30shOtpI/AAAAAAAABkI/icbfIkh7j_c/s144/IMGP6259.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/UmWKSzGt5grru364ku44XQ?feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SlF30shOtpI/AAAAAAAABkI/icbfIkh7j_c/s144/IMGP6259.jpg" alt="alt" /></a>
     </td>
   </tr>
   
@@ -114,7 +114,7 @@ We started a fire and to dry our boots and socks we roasted them near the fire w
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/FFdXtRVkFiBbBTbITqJW2Q?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3zXo-r7I/AAAAAAAABkA/_VQzvn_xYxk/s144/IMGP6250.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/FFdXtRVkFiBbBTbITqJW2Q?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF3zXo-r7I/AAAAAAAABkA/_VQzvn_xYxk/s144/IMGP6250.jpg" alt="alt" /></a>
     </td>
   </tr>
   
@@ -132,7 +132,7 @@ We actually managed to wake up and break out of camp at about 9:15. This was goi
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/fJWUofUpBhF3yBZjNlT_6Q?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF31QpGv_I/AAAAAAAABkM/ww4UYb55ucA/s144/IMGP6268.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/fJWUofUpBhF3yBZjNlT_6Q?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF31QpGv_I/AAAAAAAABkM/ww4UYb55ucA/s144/IMGP6268.jpg" alt="alt" /></a>
     </td>
   </tr>
   
@@ -154,14 +154,14 @@ Here are some shots I took at Moose Lake.
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/Lkeuyu_oQvSiRXmhcotAxg?feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SlF32IS49-I/AAAAAAAABkQ/ka1f-R_kYQQ/s144/IMGP6272.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/Lkeuyu_oQvSiRXmhcotAxg?feat=embedwebsite"><img src="http://lh6.ggpht.com/_wdJ3rlAqngs/SlF32IS49-I/AAAAAAAABkQ/ka1f-R_kYQQ/s144/IMGP6272.jpg" alt="alt" /></a>
     </td>
     
     <td>
     </td>
     
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/FJ5dx8tw1FHBxxRBuIbujQ?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF323DokBI/AAAAAAAABkU/-CfO6Tf8lt8/s144/IMGP6275.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/FJ5dx8tw1FHBxxRBuIbujQ?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF323DokBI/AAAAAAAABkU/-CfO6Tf8lt8/s144/IMGP6275.jpg" alt="alt" /></a>
     </td>
   </tr>
   
@@ -179,11 +179,11 @@ The rain let up just a bit and we all made a mad dash for an area that we hoped 
 <table style="width:auto;" border="0">
   <tr>
     <td>
-      <a href="http://picasaweb.google.com/lh/photo/3Q6_Li9usLOr1xajNLODZw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF33foeHcI/AAAAAAAABkY/Nty8Fxb7XMU/s144/IMGP6280.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/3Q6_Li9usLOr1xajNLODZw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF33foeHcI/AAAAAAAABkY/Nty8Fxb7XMU/s144/IMGP6280.jpg" alt="alt" /></a>
     </td>
     
     <td style="text-align:left;">
-      <a href="http://picasaweb.google.com/lh/photo/QjaYs94c1qiT63mWt8fFsQ?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF335AATmI/AAAAAAAABkc/k-2uSMBkJFE/s144/IMGP6281.jpg" alt="" /></a>
+      <a href="http://picasaweb.google.com/lh/photo/QjaYs94c1qiT63mWt8fFsQ?feat=embedwebsite"><img src="http://lh5.ggpht.com/_wdJ3rlAqngs/SlF335AATmI/AAAAAAAABkc/k-2uSMBkJFE/s144/IMGP6281.jpg" alt="alt" /></a>
     </td>
   </tr>
   
