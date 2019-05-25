@@ -13,12 +13,12 @@
             <div id="header" class="contentBackground">
                 <div id="header-left">
                     <a href="/"><canvas id="header-image" width="100px" height="100px"><img alt="Header" src="/wp-content/themes/tygertown/images/Me.png" id="header-image"></canvas></a>
-                    <script type="text/javascript">  
+                    <script type="text/javascript">
                             var canvas = document.getElementById("header-image");
                             var context = canvas.getContext("2d");
-                         
+
                             var cornerRadius = 25;
-                         
+
                             context.beginPath();
                             context.moveTo( cornerRadius, 0 );
 
@@ -38,7 +38,7 @@
                             context.lineTo( 0, cornerRadius );
                             context.arcTo( 0, 0, cornerRadius, 0, cornerRadius );
 
-                         
+
                             context.clip();
 
                             var img = new Image();
