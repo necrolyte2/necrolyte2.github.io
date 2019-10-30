@@ -135,6 +135,10 @@ to make a directory for it (Example `~/src/github.com`). Then put your project
 inside that directory(Example `~/src/github.com/myproject`). Last, you should
 just be able to set your `GOPATH` to `~/` and things "should" work.
 
+Did I mention that VIM picks up Go syntax pretty much natively? Mix that with
+the [Ale](https://github.com/dense-analysis/ale) plugin and you get code
+formatting and compile errors right in VIM!
+
 Few other things that I really liked:
 - Godoc - wow, comes with the language basically and standardized formatting 
   for docs. Tool is super easy to get and use
@@ -163,6 +167,13 @@ hurdle as the docs are so straight forward for anything in Golang(not to mention
 there are docs for everything).
 
 ### Ratpack
+
+Ratpack started off rough as I knew I would have to also learn how to navigate
+around IntelliJ since Java/Groovy just don't work in VIM. Ya, you can enable
+VIM shortcuts in IntelliJ, but it really just isn't the same and you end up
+relearning a bunch of keystrokes to get the same functionality. I just want
+the same editor no matter where I am or what I'm doing(I'm writing this post
+in VIM!)
 
 When I was developing the Ratpack app it felt overwhelming for the most part.
 Where do I start? Docs say to do this, if you are lucky and there are docs, 
